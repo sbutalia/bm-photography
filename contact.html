@@ -1,0 +1,257 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="format-detection" content="telephone=no">
+<title>Modak HTML Template - About</title>
+<meta name="author" content="tansh">
+<meta name="description" content="HTML Teamplate">
+<meta name="keywords" content="agency, personal, photography, one page">
+
+<!-- FAVICON FILES -->
+<link href="assets/images/icons/apple-touch-icon-144-precomposed.png" rel="apple-touch-icon" sizes="144x144">
+<link href="assets/images/icons/apple-touch-icon-120-precomposed.png" rel="apple-touch-icon" sizes="120x120">
+<link href="assets/images/icons/apple-touch-icon-76-precomposed.png" rel="apple-touch-icon" sizes="76x76">
+<link href="assets/images/icons/favicon.png" rel="shortcut icon">
+
+<!-- CSS FILES -->
+<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+<link rel="stylesheet" href="assets/fonts/iconfonts.css">
+<link rel="stylesheet" href="assets/css/plugins.css">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/responsive.css">
+<link rel="stylesheet" href="assets/css/color.css">
+</head>
+<body>
+<div id="dtr-wrapper" class="clearfix"> 
+    
+    <!-- preloader starts -->
+    <div class="dtr-preloader">
+        <div class="dtr-preloader-inner">
+            <div class="dtr-preloader-img"></div>
+        </div>
+    </div>
+    <!-- preloader ends --> 
+    
+    <!-- Small Devices Header 
+============================================= -->
+    <div class="dtr-responsive-header fixed-top">
+        <div class="container"> 
+            
+            <!-- small devices logo --> 
+            <a href="index.html"><img src="assets/images/logo-dark.png" alt="logo"></a> 
+            <!-- small devices logo ends --> 
+            
+            <!-- menu button -->
+            <button id="dtr-menu-button" class="dtr-hamburger" type="button"><span class="dtr-hamburger-lines-wrapper"><span class="dtr-hamburger-lines"></span></span></button>
+        </div>
+        <div class="dtr-responsive-header-menu"></div>
+    </div>
+    <!-- Small Devices Header ends 
+============================================= --> 
+    
+    <!-- Header 
+============================================= -->
+    <header id="dtr-header-global" class="fixed-top">
+        <div class="container">
+            <div class="d-flex align-items-center justify-content-between"> 
+                
+                <!-- header left starts -->
+                <div class="dtr-header-left"> 
+                    
+                    <!-- logo --> 
+                    <a class="logo-default dtr-scroll-link" href="#home"><img src="assets/images/logo-dark.png" alt="logo" width="108"></a> 
+                    
+                    <!-- logo on scroll --> 
+                    <a class="logo-alt dtr-scroll-link" href="#home"><img src="assets/images/logo-dark.png" alt="logo" width="108"></a> 
+                    <!-- logo on scroll ends --> 
+                    
+                </div>
+                <!-- header left ends --> 
+                
+                <!-- menu starts-->
+                <div class="dtr-header-right">
+                    <div class="main-navigation dtr-menu-dark">
+                        <ul class="sf-menu dtr-scrollspy dtr-nav dark-nav-on-load dark-nav-on-scroll">
+                            <li> <a class="nav-link" href="index.html">Home</a> </li>
+                            <li> <a class="nav-link" href="about.html">About</a> </li>
+                            <li> <a class="nav-link" href="contact.html">Contact</a> </li>
+                        </ul>
+                    </div>
+                </div>
+                <!-- menu ends --> 
+                
+            </div>
+        </div>
+    </header>
+    <!-- header ends
+================================================== --> 
+    
+    <!-- Page Title 
+============================================= -->
+    <div class="dtr-page-title-wrapper dtr-section-with-bg dtr-page-title-pt" style="background-image: url(assets/images/page-title-bg.jpg);">
+        <div class="container dtr-page-title-inner">
+            <div class="row">
+                <div class="col-12 dtr-page-title-content">
+                    <h1 class="dtr-entry-title wow fadeInUp">Contact</h1>
+                    <p class="dtr-entry-subtitle wow fadeInUp" data-wow-delay=".6s">Meet Us</p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Page Title ends
+============================================= --> 
+    
+    <!-- == main content area starts == -->
+    <div id="dtr-main-content"> 
+        
+        <!--===== section 1 starts =====-->
+        <section class="dtr-py-100">
+            <div class="container"> 
+                <!-- heading starts -->
+                <div class="dtr-styled-heading">
+                    <h2>Say Hello</h2>
+                    <p>Subheading or information goes here</p>
+                </div>
+                <!-- heading ends --> 
+                
+                <!--== row starts ==-->
+                <div class="row"> 
+                    
+                    <!-- column 1 starts -->
+                    <div class="col-12 col-md-6"> 
+                        
+                        <!-- form starts -->
+                        <div class="dtr-form">
+                            <form id="contactform" method="post" action="php/contact-form.php">
+                                <fieldset>
+                                    <div class="dtr-form-row dtr-form-row-2col">
+                                        <p class="dtr-form-column">
+                                            <input name="name"  type="text" placeholder="Name">
+                                        </p>
+                                        <p class="dtr-form-column">
+                                            <input name="email"  class="required email" type="text" placeholder="Email">
+                                        </p>
+                                    </div>
+                                    <p>
+                                        <input name="subject"  type="text" placeholder="Subject">
+                                    </p>
+                                    <p class="antispam">Leave this empty: <br />
+                                        <input name="url" />
+                                    </p>
+                                    <p>
+                                        <textarea rows="6" name="message" id="message" class="required"  placeholder="Message"></textarea>
+                                    </p>
+                                    <p class="text-center">
+                                        <button class="dtr-btn btn-blue dtr-mt-minus30" type="submit">Send Now<i class="icon-cursor dtr-ml-15"></i></button>
+                                    </p>
+                                    <div id="result"></div>
+                                </fieldset>
+                            </form>
+                        </div>
+                        <!-- form ends --> 
+                        
+                    </div>
+                    <!-- column 1 ends --> 
+                    
+                    <!-- column 2 starts -->
+                    <div class="col-12 col-md-6">
+                        <div class="dtr-pl-30">
+                            <p class="d-flex align-items-center"><i class="icon-geo-alt dtr-mr-10 text-size-md color-blue"></i><span class="font-weight-500 color-dark">My Location</span></p>
+                            <p>PO Box 16122, Collins, Victoria 3000, Australia</p>
+                            <div class="spacer-20"></div>
+                            <p class="d-flex align-items-center"><i class="icon-phone-fill dtr-mr-10 text-size-md color-blue"></i><span class="font-weight-500 color-dark">Give a Call</span></p>
+                            <p>90 1234 56 78</p>
+                            <div class="spacer-20"></div>
+                            <p class="d-flex align-items-center"><i class="icon-envelope-fill dtr-mr-10 text-size-md color-blue"></i><span class="font-weight-500 color-dark">Email Me</span></p>
+                            <p>sayhello@example.com</p>
+                            
+                            <!-- social starts -->
+                            <ul class="dtr-social dtr-social-list dtr-styled-social text-left dtr-mt-30">
+                                <li><a href="#" class="dtr-social-button dtr-dribbble" target="_blank" title="dribbble"><span>Follow me</span></a></li>
+                                <li><a href="#" class="dtr-social-button dtr-skype" target="_blank" title="skype"><span>Call me</span></a></li>
+                                <li><a href="#" class="dtr-social-button dtr-google" target="_blank" title="google"><span>Share on Google</span></a></li>
+                            </ul>
+                            <!-- social ends --> 
+                            
+                        </div>
+                    </div>
+                    <!-- column 2 ends --> 
+                    
+                </div>
+                <!--== row ends ==--> 
+            </div>
+        </section>
+        <!--===== section 1 ends =====--> 
+        
+        <!--===== section 2 starts =====-->
+        <section class="dtr-section parallax dtr-py-100" style="background-image: url(assets/images/background-cta.jpg);">
+            <div class="container"> 
+                
+                <!--== row starts ==-->
+                <div class="row text-center">
+                    <div class="col-12">
+                        <h3 class="font-family-alt font-weight-700 color-dark">Want to work together!</h3>
+                        <p class="color-dark text-size-md">I’m available for freelance work.</p>
+                        <!-- link starts --> 
+                        <a href="#" class="dtr-btn btn-white dtr-mt-30">Hire Me <i class="icon-chevron-compact-right"></i></a> 
+                        <!-- link ends --> 
+                    </div>
+                </div>
+                <!--== row ends ==--> 
+                
+            </div>
+        </section>
+        <!--===== section 2 ends =====--> 
+        
+        <!-- footer section starts
+================================================== -->
+        <footer id="dtr-footer"> 
+            
+            <!--== copyright starts ==-->
+            <div class="dtr-copyright">
+                <div class="container"> 
+                    
+                    <!--== row starts ==-->
+                    <div class="row"> 
+                        
+                        <!-- column 1 starts -->
+                        <div class="col-12 col-md-6">
+                            <p> Copyright © Modak 2020. All rights reserved.</p>
+                        </div>
+                        <!-- column 1 ends --> 
+                        
+                        <!-- column 2 starts -->
+                        <div class="col-12 col-md-6 text-right">
+                            <ul class="dtr-pipe-list">
+                                <li><a href="#">Privacy Policy</a></li>
+                                <li><a href="#">Terms of Use</a></li>
+                            </ul>
+                        </div>
+                        <!-- column 2 ends --> 
+                        
+                    </div>
+                    <!--== row ends ==--> 
+                    
+                </div>
+            </div>
+            <!--== copyright ends ==--> 
+            
+        </footer>
+        <!-- footer section ends
+================================================== --> 
+        
+    </div>
+    <!-- == main content area ends == --> 
+    
+</div>
+<!-- #dtr-wrapper ends --> 
+
+<!-- JS FILES --> 
+<script src="assets/js/jquery.min.js"></script> 
+<script src="assets/js/bootstrap.min.js"></script> 
+<script src="assets/js/plugins.js"></script> 
+<script src="assets/js/custom.js"></script>
+</body>
+</html>
