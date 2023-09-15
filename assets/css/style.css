@@ -31,6 +31,7 @@
     src: local('Jost Light'), url('../fonts/jost/Jost-Light.ttf') format('truetype');
     font-weight: 300;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -38,6 +39,7 @@
     src: local('Jost Regular'), url('../fonts/jost/Jost-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -45,6 +47,7 @@
     src: local('Jost Medium'), url('../fonts/jost/Jost-Medium.ttf') format('truetype');
     font-weight: 500;
     font-style: normal;
+    font-display: swap;
 }
 
 /* Playfair Display font-faces */
@@ -53,6 +56,7 @@
     src: local('Playfair Display Regular'), url('../fonts/playfair/PlayfairDisplay-Regular.ttf') format('truetype');
     font-weight: 400;
     font-style: normal;
+    font-display: swap;
 }
 
 @font-face {
@@ -60,6 +64,7 @@
     src: local('Playfair Display Bold'), url('../fonts/playfair/PlayfairDisplay-Bold.ttf') format('truetype');
     font-weight: 700;
     font-style: normal;
+    font-display: swap;
 }
 
 /*----------------------------------------*/
