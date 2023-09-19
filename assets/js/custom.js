@@ -2,6 +2,21 @@
 $(document).ready(function() {
     "use strict";
  
+    $(window).scroll(function() {
+        if ($(this).scrollTop() > 20) {
+            $('#gotoTop').fadeIn();
+        } else {
+            $('#gotoTop').fadeOut();
+        }
+    });
+
+    // When the user clicks on the button, scroll to the top of the document
+    $('#gotoTop').click(function() {
+        $('html, body').animate({scrollTop: 0}, 800);
+        return false;
+    });
+    
+
 	// sticky header
 	function headerSticky(){
 		var windowPos=$(window).scrollTop();
