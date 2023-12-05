@@ -1,0 +1,66 @@
+.what-we-do {
+    text-align: center;
+    flex-direction: column;
+    padding: 20px;
+    font-size: 1.5em;
+    border-top: #00356e 1px solid;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.what-we-do .container a{
+    color: #007bff;
+    text-decoration: none;
+    animation: pulse 2s infinite;
+}
+
+.what-we-do .container a .fa-hand-pointer{
+    color: whitesmoke;
+}
+
+.download-section{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.what-we-do .container .subtext{
+    color: rgb(160, 160, 160);
+    font-size: 15px;
+}
+
+.download-icon {
+    font-size: 5em;
+    color: #007bff;
+}
+.download-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    padding: 15px 30px;
+    background-color: #007bff;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    font-size: 1.5em;
+}
+.download-button i {
+    margin-right: 10px;
+}
+
+.cta-button:hover {
+    background-color: #003399; /* Button hover color */
+}
+
+@keyframes pulse {
+    0% { transform: scale(1); }
+    50% { transform: scale(1.1); }
+    100% { transform: scale(1); }
+}
+
+/* Camera Icon Style */
+.fas.fa-camera {
+    margin-right: 10px;
+}
