@@ -17,6 +17,13 @@ body {
     margin: 20px 0;
 }
 
+.custom-separator-blue {
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), #007bff, rgba(0, 0, 0, 0));
+    margin: 20px 0;
+}
+
 .main-page-wrapper {
     color: #fff;
     /* White text for dark mode */
@@ -29,12 +36,6 @@ body {
 
     max-width: 800px;
     /* Maximum width */
-}
-
-.main-page-wrapper h1,
-.main-page-wrapper h2 {
-    margin-bottom: 20px;
-    /* Space between headings */
 }
 
 .main-page-wrapper p {
@@ -145,7 +146,7 @@ body {
     flex-direction: column;
     padding: 20px;
     font-size: 1.5em;
-    border-top: #00356e 1px solid;
+    
     width: 800px;
     margin-left: auto;
     margin-right: auto;
