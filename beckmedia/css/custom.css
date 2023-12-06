@@ -1,8 +1,7 @@
 body {
     background: black;
     background-size: auto;
-
-    background-image: url('../bg.jpg');
+    background-image: url('../bg2.webp');
 }
 
 #avialsoon {
@@ -62,11 +61,8 @@ body {
 
 .order-link {
     color: #fff;
-    /* White color for the icon */
     font-size: 24px;
-    /* Adjust the size of the icon */
     text-decoration: none;
-    /* Removes underline from the link */
 }
 
 .order-link:hover {
@@ -76,9 +72,9 @@ body {
 
 /* Style for the shopping cart link */
 .order-link .fa-shopping-cart {
-    color: purple;
+    color: rgb(160, 0, 160);
     /* Purple color for the shopping cart icon */
-    font-size: 24px;
+    font-size: 40px;
     /* Adjust the size of the icon */
 }
 
@@ -100,7 +96,7 @@ body {
 .venmo-link .fa-money-bill-wave {
     color: green;
     /* Green color for the money bill icon */
-    font-size: 24px;
+    font-size: 40px;
     /* Adjust the size of the icon */
 }
 
