@@ -24,12 +24,20 @@ body {
     margin: 20px 0;
 }
 
+.m-t-5{
+    margin-top: 5px;
+}
+
+.text-muted {
+    color: #999999 !important;
+}
+
 .main-page-wrapper {
     color: #fff;
     /* White text for dark mode */
     text-align: center;
     /* Center-align the content */
-    padding: 50px 0;
+    padding: 25px 0;
     /* Add some padding */
     border-radius: 15px;
     /* Rounded corners */
@@ -219,9 +227,6 @@ body {
 .fas.fa-camera {
     margin-right: 10px;
 }
-
-
-
 
 /* Responsive adjustments */
 @media screen and (max-width: 768px) {
