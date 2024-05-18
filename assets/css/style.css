@@ -934,3 +934,82 @@ opacity:0
 #gotoTop:hover {
     background-color: #a49db6;  /* Add a dark-grey background on hover */
 }
+
+
+/* FAMILY FUN DAY HTML */
+
+.big-fun-button {
+    display: inline-block;
+    padding: 20px 40px; /* Larger padding for a bigger button */
+    font-size: 24px; /* Larger font size for visibility */
+    color: white; /* Text color */
+    background-color: #007BFF; /* Bright blue background */
+    text-decoration: none; /* Removes underline */
+    border-radius: 10px; /* Rounded corners for a softer look */
+    border: none; /* No border */
+    box-shadow: 0 8px 16px rgba(0,123,255,0.2); /* Subtle shadow for a 3D effect */
+    transition: all 0.3s ease-in-out; /* Smooth transition for hover effects */
+  }
+  
+  .big-fun-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+    box-shadow: 0 12px 20px rgba(0,123,255,0.3); /* Larger shadow on hover for more depth */
+    transform: scale(1.05); /* Slightly larger on hover */
+    color: white; /* Text color */
+  }
+
+
+  .photogallery {
+    background-color: #f0e6f6; /* Light pastel purple, you can choose any pastel color */
+    padding: 20px 0; /* Adds padding above and below the content */
+    margin-top:40px;
+}
+  
+.contact-link {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 18px;
+    color: #007BFF; /* You can adjust the color to fit your design */
+    text-decoration: none;
+    background-color: #f0e6f6; /* Matching the section's background for cohesion */
+    border-radius: 5px;
+    border: 1px solid #ccc; /* Optional: adds a subtle border */
+    transition: all 0.3s ease;
+}
+
+.contact-link i {
+    margin-right: 10px; /* Space between icon and text */
+}
+
+.contact-link:hover {
+    background-color: #e1d2f0; /* Slightly darker on hover */
+    color: white; /* Change text color on */
+}
+
+.social-media-links {
+    text-align: center; /* or center, depending on your design preference */
+    font-size: 16px; /* Adjust based on overall design */
+    color: #333; /* Darker text for better readability */
+    margin-bottom: 20px;
+}
+
+.social-media-links a {
+    color: #0056b3; /* Use a color that stands out */
+    text-decoration: none; /* No underline */
+    font-weight: bold; /* Makes it stand out more */
+}
+
+.social-media-links a:hover {
+    text-decoration: underline; /* Adds underline on hover for better interaction visibility */
+}
+
+.services-link {
+    display: inline-block; /* More button-like appearance */
+    background-color: #f0f0f0; /* Light background for the button */
+    padding: 10px 20px; /* Padding around the text */
+    border-radius: 5px; /* Rounded corners */
+}
+
+.services-link:hover {
+    background-color: #e1e1e1; /* Slightly darker on hover */
+}

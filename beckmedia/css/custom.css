@@ -260,6 +260,27 @@ body {
     margin-right: 10px;
 }
 
+
+.big-fun-button {
+    display: inline-block;
+    padding: 20px 40px; /* Larger padding for a bigger button */
+    font-size: 24px; /* Larger font size for visibility */
+    color: white; /* Text color */
+    background-color: #007BFF; /* Bright blue background */
+    text-decoration: none; /* Removes underline */
+    border-radius: 10px; /* Rounded corners for a softer look */
+    border: none; /* No border */
+    box-shadow: 0 8px 16px rgba(0,123,255,0.2); /* Subtle shadow for a 3D effect */
+    transition: all 0.3s ease-in-out; /* Smooth transition for hover effects */
+}
+
+.big-fun-button:hover {
+    background-color: #0056b3; /* Darker blue on hover */
+    box-shadow: 0 12px 20px rgba(0,123,255,0.3); /* Larger shadow on hover for more depth */
+    transform: scale(1.05); /* Slightly larger on hover */
+}
+
+
 /* Responsive adjustments */
 @media screen and (max-width: 768px) {
     .image-row img {
