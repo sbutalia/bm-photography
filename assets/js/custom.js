@@ -1,6 +1,7 @@
 // Custom JavaScript
 $(document).ready(function() {
     "use strict";
+	
  
     $(window).scroll(function() {
         if ($(this).scrollTop() > 20) {
@@ -233,6 +234,45 @@ $(document).ready(function() {
 	  ]
 	});
 
+	// Dynamic Portfolio Grid Generator
+	function generatePortfolioGrid(containerId, basePath, numImages, captions = []) {
+		const container = document.getElementById(containerId);
+		if (!container) return;
+
+		let gridHTML = '<div class="dtr-portfolio-grid dtr-portfolio-grid-4col dtr-portfolio-style-1 dtr-rounded-img clearfix">';
+		
+		for (let i = 1; i <= numImages; i++) {
+			const caption = captions[i-1] || ''; // Get caption if exists, otherwise empty string
+			gridHTML += `
+				<!-- portfolio item ${i} starts -->
+				<div class="dtr-portfolio-item">
+					<div class="dtr-portfolio-content">
+						<img src="${basePath}/${i}.jpg" alt="Portfolio image ${i}">
+						<div class="dtr-portfolio-overlay">
+							<a class="media-zoom popup-gallery" href="${basePath}/${i}.jpg" aria-label="Portfolio Image ${i}"></a>
+						</div>
+						${caption ? `<div class="dtr-portfolio-caption text-center dtr-mt-10">${caption}</div>` : ''}
+					</div>
+				</div>
+				<!-- portfolio item ${i} ends -->
+			`;
+		}
+		
+		gridHTML += '</div>';
+		container.innerHTML = gridHTML;
+		
+		// Reinitialize popup gallery if needed
+		if ($.fn.magnificPopup) {
+			$('.popup-gallery').magnificPopup({
+				delegate: 'a',
+				type: 'image',
+				gallery: {
+					enabled: true
+				}
+			});
+		}
+	}
+
 	// wow animations
 	if( $(window).outerWidth() >= 767 ) {
 		new WOW().init({
@@ -306,8 +346,88 @@ $(document).ready(function() {
 	});
 	//To clear message field on page refresh (you may clear other fields too, just give the 'id to input field' in html and mention it here, as below)
 	$('#quoteform #message').val('');
-	
-}); // document ready
+
+	const kidsCaptions = [
+		'Rena as Tiger Lily in Peter Pan',
+		'Kids Explore Music',
+		'The Kids Traveled a Lot This Year',
+		'Memorable Vacations',
+		'Wave Riders in Action',
+		'Rena Turns 10',
+		'Manav Plays Soccer',
+		'Manav\'s New Hairstyle',
+		'Rena\'s New Hairstyle',
+		'Manav Wins Chess Tournament',
+		'Rena Receives Awards',
+		'Their Unbreakable Bond',
+		'Rena Learns Piano',
+		'Theater Time Together',
+		'Manav Learns Tabla'
+	];
+
+	const travelsCaptions = [
+		'New York',
+		'Starry Night',
+		'Statue of Liberty',
+		'We Got to the Crown!',
+		'Atlantic City',
+		'Liberty Bell',
+		'Rocky!',
+		'Rocky Steps',
+		'Lincoln Memorial',
+		'Ford Theater',
+		'Washington Monument',
+		'Hawaii',
+		'Waikiki Beach',
+		'Surfing as a Family',
+		'Disneyland!',
+		'California Adventure',
+		'First Lakers Game',
+		'Holi Time',
+		'Attacked by a Dinosaur',
+		'Attacked by a Shark',
+		'Saw a Volcano Erupt!'
+	];
+
+	const shaileeSimranCaptions = [
+			"Paris: Visited the Eiffel Tower",
+			"Shailee got to hold it",
+			"Summitted IT!",
+			"Saw the Mona Lisa",
+			"Missed the Train :(",
+			"8 hrs in a overnight bus to catch our flight",
+			"Chasing waterfalls together",
+			"Aloha from Hawaii",
+			"Hawaii was Awesome",
+			"Rainbow made our day",
+			"Amsterdam",
+			"Brussels",
+			"Continue to party together",
+			"Halloween Horror nights",
+			"Disneyland!",
+			"Kiddos staring to find us to be fun",
+			"Well Hello there ;)",
+		  ];
+		  
+
+	setTimeout(() => {
+		generatePortfolioGrid('kidsPortfolio', 'butaliamoments/2024/z_kids', 15, kidsCaptions);
+	}, 0);
+
+	setTimeout(() => {
+		generatePortfolioGrid('travelsPortfolio', 'butaliamoments/2024/z_family', 21, travelsCaptions);
+	}, 500);
+
+	setTimeout(() => {
+		generatePortfolioGrid('shaileeSimranPortfolio', 'butaliamoments/2024/z_shaileeSimran', 17, shaileeSimranCaptions);
+	}, 1000);
+
+
+	const famPhotosCaptions = []
+	setTimeout(() => {
+		generatePortfolioGrid('familyPhotosPortfolio', 'butaliamoments/2024/z_familyPhotos', 8, famPhotosCaptions);
+	}, 1000);
+}); // document ready'
 
 // on load
 $(window).on('load', function(){ 
@@ -332,5 +452,7 @@ $(window).on('load', function(){
 		});
 		return false;
 	});
+
+	
 
 }); // close on load
