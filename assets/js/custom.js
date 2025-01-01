@@ -419,7 +419,7 @@ $(document).ready(function() {
 	}, 500);
 
 	setTimeout(() => {
-		generatePortfolioGrid('shaileeSimranPortfolio', 'butaliamoments/2024/z_shaileeSimran', 17, shaileeSimranCaptions);
+		generatePortfolioGrid('shaileeSimranPortfolio', 'butaliamoments/2024/z_ShaileeSimran', 17, shaileeSimranCaptions);
 	}, 1000);
 
 
