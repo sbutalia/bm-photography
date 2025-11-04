@@ -25,11 +25,28 @@
 <link rel="stylesheet" href="assets/css/responsive.css">
 <link rel="stylesheet" href="assets/css/color.css">
 <style>
-.instagram-btn:hover {
-    background-color: #5271ff !important;
+.instagram-btn {
+    background: linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%) !important;
+    border: none !important;
     color: white !important;
-    transform: translateY(-2px);
-    box-shadow: 0 4px 12px rgba(82, 113, 255, 0.3);
+    box-shadow: 0 4px 15px rgba(188, 24, 136, 0.4);
+}
+.instagram-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(188, 24, 136, 0.6);
+}
+.instagram-icon {
+    display: inline-block;
+    animation: rotate 3s linear infinite;
+}
+@keyframes rotate {
+    0% { transform: rotate(0deg); }
+    10% { transform: rotate(-10deg); }
+    20% { transform: rotate(10deg); }
+    30% { transform: rotate(-10deg); }
+    40% { transform: rotate(10deg); }
+    50% { transform: rotate(0deg); }
+    100% { transform: rotate(0deg); }
 }
 .dtr-portfolio-caption {
     text-align: center;
@@ -552,7 +569,7 @@
                     <h2>Moments Captured</h2>
                     <p>Crafted Through the Lens</p>
                     <div class="dtr-mt-20">
-                        <a href="https://www.instagram.com/butaliamediaclicks" target="_blank" rel="noopener noreferrer" class="dtr-btn instagram-btn" style="display: inline-block; padding: 12px 30px; border: 2px solid #5271ff; border-radius: 30px; background-color: rgba(82, 113, 255, 0.08); color: #5271ff; font-weight: 600; text-decoration: none; transition: all 0.3s ease;"><i class="icon-instagram" style="margin-right: 8px;"></i>FOLLOW US ON INSTAGRAM <i class="icon-arrow-right"></i></a>
+                        <a href="https://www.instagram.com/butaliamediaclicks" target="_blank" rel="noopener noreferrer" class="dtr-btn instagram-btn" style="display: inline-block; padding: 14px 35px; border-radius: 50px; font-weight: 700; text-decoration: none; transition: all 0.3s ease; font-size: 1.05rem;"><i class="icon-bxl-instagram instagram-icon" style="margin-right: 12px; font-size: 1.5em; vertical-align: middle;"></i>FOLLOW US ON INSTAGRAM</a>
                     </div>
                 </div>
                 <!-- heading ends --> 
