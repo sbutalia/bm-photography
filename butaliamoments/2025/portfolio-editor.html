@@ -1,0 +1,493 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Portfolios 2025 Editor</title>
+    <style>
+      :root {
+        color-scheme: light;
+        --bg: #f2efe9;
+        --ink: #2a2a2a;
+        --muted: #5f5a52;
+        --card: #fffaf2;
+        --edge: #e3dbcf;
+        --accent: #2f6f5a;
+        --accent-2: #c96b2c;
+        --shadow: 0 12px 28px rgba(24, 24, 24, 0.12);
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        font-family: "Georgia", "Times New Roman", serif;
+        color: var(--ink);
+        background:
+          radial-gradient(circle at 10% 10%, rgba(47, 111, 90, 0.08), transparent 45%),
+          radial-gradient(circle at 90% 20%, rgba(201, 107, 44, 0.12), transparent 40%),
+          linear-gradient(120deg, #f7f1e7, #efe8db 60%, #f6efe3);
+        min-height: 100vh;
+      }
+
+      header {
+        position: sticky;
+        top: 0;
+        z-index: 5;
+        background: rgba(255, 250, 242, 0.92);
+        backdrop-filter: blur(6px);
+        border-bottom: 1px solid var(--edge);
+      }
+
+      .wrap {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 18px 20px 8px;
+      }
+
+      h1 {
+        margin: 0 0 6px;
+        font-size: 28px;
+        letter-spacing: 0.5px;
+      }
+
+      p {
+        margin: 0;
+        color: var(--muted);
+        font-size: 14px;
+      }
+
+      .toolbar {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 12px;
+      }
+
+      button,
+      label.button-like {
+        border: 1px solid var(--edge);
+        background: var(--card);
+        color: var(--ink);
+        padding: 8px 12px;
+        border-radius: 8px;
+        cursor: pointer;
+        font-size: 13px;
+        transition: transform 0.2s ease, box-shadow 0.2s ease;
+      }
+
+      button:hover,
+      label.button-like:hover {
+        transform: translateY(-1px);
+        box-shadow: var(--shadow);
+      }
+
+      button.primary {
+        background: var(--accent);
+        color: #fff;
+        border-color: transparent;
+      }
+
+      button.warn {
+        background: var(--accent-2);
+        color: #fff;
+        border-color: transparent;
+      }
+
+      input[type="file"] {
+        display: none;
+      }
+
+      .status {
+        margin-top: 10px;
+        font-size: 12px;
+        color: var(--muted);
+      }
+
+      main {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+
+      .section {
+        margin-bottom: 32px;
+      }
+
+      .section-head {
+        display: flex;
+        justify-content: space-between;
+        align-items: baseline;
+        border-bottom: 1px solid var(--edge);
+        padding-bottom: 8px;
+        margin-bottom: 16px;
+      }
+
+      .section-head h2 {
+        margin: 0;
+        font-size: 22px;
+        text-transform: capitalize;
+      }
+
+      .count {
+        font-size: 12px;
+        color: var(--muted);
+      }
+
+      .grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+        gap: 16px;
+      }
+
+      .card {
+        background: var(--card);
+        border: 1px solid var(--edge);
+        border-radius: 14px;
+        padding: 12px;
+        box-shadow: 0 8px 20px rgba(24, 24, 24, 0.08);
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        animation: fadeIn 0.35s ease;
+      }
+
+      @keyframes fadeIn {
+        from { opacity: 0; transform: translateY(6px); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+
+      .thumb {
+        width: 100%;
+        aspect-ratio: 4 / 3;
+        border-radius: 10px;
+        overflow: hidden;
+        background: #efe6db;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 12px;
+        color: var(--muted);
+      }
+
+      .thumb img {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+      }
+
+      textarea {
+        width: 100%;
+        min-height: 80px;
+        resize: vertical;
+        border-radius: 10px;
+        border: 1px solid var(--edge);
+        padding: 8px;
+        font-size: 13px;
+        font-family: "Georgia", "Times New Roman", serif;
+      }
+
+      .meta {
+        font-size: 12px;
+        color: var(--muted);
+        word-break: break-all;
+      }
+
+      .actions {
+        display: flex;
+        gap: 8px;
+        align-items: center;
+        flex-wrap: wrap;
+      }
+
+      select {
+        padding: 6px 8px;
+        border-radius: 8px;
+        border: 1px solid var(--edge);
+        background: #fff;
+        font-size: 12px;
+      }
+
+      .empty {
+        font-size: 14px;
+        color: var(--muted);
+        padding: 16px;
+        border: 1px dashed var(--edge);
+        border-radius: 12px;
+        background: rgba(255, 250, 242, 0.6);
+      }
+
+      @media (max-width: 720px) {
+        h1 {
+          font-size: 22px;
+        }
+
+        .toolbar {
+          flex-direction: column;
+          align-items: stretch;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <div class="wrap">
+        <h1>Portfolios 2025 Editor</h1>
+        <p>Edit captions, move items between sections, and export an updated <code>portfolios-2025.js</code>.</p>
+        <div class="toolbar">
+          <button id="load-script" class="primary">Load from portfolios-2025.js</button>
+          <label class="button-like" for="file-input">Import JS File</label>
+          <input id="file-input" type="file" accept=".js">
+          <button id="download" class="primary">Download Updated JS</button>
+          <button id="save-picker">Save with File Picker</button>
+          <button id="copy">Copy JS to Clipboard</button>
+          <button id="reset" class="warn">Reset to Loaded</button>
+        </div>
+        <div id="status" class="status">No data loaded.</div>
+      </div>
+    </header>
+    <main>
+      <div id="content"></div>
+    </main>
+
+    <script src="portfolios-2025.js"></script>
+    <script>
+      const state = {
+        original: null,
+        data: null,
+        dirty: false
+      };
+
+      const statusEl = document.getElementById("status");
+      const contentEl = document.getElementById("content");
+
+      function cloneData(data) {
+        return JSON.parse(JSON.stringify(data));
+      }
+
+      function setStatus(message) {
+        statusEl.textContent = message;
+      }
+
+      function markDirty(isDirty) {
+        state.dirty = isDirty;
+        const marker = state.dirty ? "(unsaved changes)" : "(clean)";
+        setStatus(state.data ? `Loaded ${Object.keys(state.data).length} sections ${marker}` : "No data loaded.");
+      }
+
+      function loadData(data) {
+        state.original = cloneData(data);
+        state.data = cloneData(data);
+        markDirty(false);
+        render();
+      }
+
+      function parsePortfoliosJs(text) {
+        const match = text.match(/window\.portfolios2025\s*=\s*({[\s\S]*})\s*;?\s*$/);
+        if (!match) {
+          throw new Error("Could not find window.portfolios2025 in the file.");
+        }
+        return JSON.parse(match[1]);
+      }
+
+      function buildPortfoliosJs(data) {
+        const json = JSON.stringify(data, null, 2);
+        return `window.portfolios2025 = ${json};\n`;
+      }
+
+      function previewPath(src) {
+        if (!src) return src;
+        return src.replace(/^butaliamoments\/2025\//, "./");
+      }
+
+      function render() {
+        contentEl.innerHTML = "";
+        if (!state.data) {
+          contentEl.innerHTML = "<div class=\"empty\">Load portfolios data to begin editing.</div>";
+          return;
+        }
+
+        Object.entries(state.data).forEach(([sectionKey, items]) => {
+          const sectionEl = document.createElement("section");
+          sectionEl.className = "section";
+
+          const head = document.createElement("div");
+          head.className = "section-head";
+          head.innerHTML = `<h2>${sectionKey.replace(/-/g, " ")}</h2><div class=\"count\">${items.length} items</div>`;
+          sectionEl.appendChild(head);
+
+          if (!items.length) {
+            const empty = document.createElement("div");
+            empty.className = "empty";
+            empty.textContent = "No items in this section.";
+            sectionEl.appendChild(empty);
+            contentEl.appendChild(sectionEl);
+            return;
+          }
+
+          const grid = document.createElement("div");
+          grid.className = "grid";
+
+          items.forEach((item, index) => {
+            const card = document.createElement("div");
+            card.className = "card";
+
+            const thumb = document.createElement("div");
+            thumb.className = "thumb";
+            if (item.src) {
+              const img = document.createElement("img");
+              img.src = previewPath(item.src);
+              img.alt = item.caption || "";
+              img.loading = "lazy";
+              img.onerror = () => {
+                thumb.textContent = "Preview unavailable";
+              };
+              thumb.appendChild(img);
+            } else {
+              thumb.textContent = "No image path";
+            }
+
+            const textarea = document.createElement("textarea");
+            textarea.value = item.caption || "";
+            textarea.addEventListener("input", () => {
+              item.caption = textarea.value;
+              markDirty(true);
+            });
+
+            const meta = document.createElement("div");
+            meta.className = "meta";
+            meta.textContent = item.src || "";
+
+            const actions = document.createElement("div");
+            actions.className = "actions";
+
+            const select = document.createElement("select");
+            Object.keys(state.data).forEach((key) => {
+              const option = document.createElement("option");
+              option.value = key;
+              option.textContent = `Move to: ${key.replace(/-/g, " ")}`;
+              if (key === sectionKey) {
+                option.selected = true;
+              }
+              select.appendChild(option);
+            });
+
+            select.addEventListener("change", () => {
+              const targetKey = select.value;
+              if (targetKey === sectionKey) return;
+              state.data[sectionKey].splice(index, 1);
+              state.data[targetKey].push(item);
+              markDirty(true);
+              render();
+            });
+
+            const removeBtn = document.createElement("button");
+            removeBtn.textContent = "Remove";
+            removeBtn.addEventListener("click", () => {
+              state.data[sectionKey].splice(index, 1);
+              markDirty(true);
+              render();
+            });
+
+            actions.appendChild(select);
+            actions.appendChild(removeBtn);
+
+            card.appendChild(thumb);
+            card.appendChild(textarea);
+            card.appendChild(meta);
+            card.appendChild(actions);
+            grid.appendChild(card);
+          });
+
+          sectionEl.appendChild(grid);
+          contentEl.appendChild(sectionEl);
+        });
+      }
+
+      document.getElementById("load-script").addEventListener("click", () => {
+        if (window.portfolios2025) {
+          loadData(window.portfolios2025);
+        } else {
+          setStatus("Could not find window.portfolios2025. Try importing the file.");
+        }
+      });
+
+      document.getElementById("file-input").addEventListener("change", (event) => {
+        const file = event.target.files[0];
+        if (!file) return;
+        const reader = new FileReader();
+        reader.onload = () => {
+          try {
+            const data = parsePortfoliosJs(reader.result);
+            loadData(data);
+          } catch (err) {
+            setStatus(err.message);
+          }
+        };
+        reader.readAsText(file);
+      });
+
+      document.getElementById("download").addEventListener("click", () => {
+        if (!state.data) return;
+        const blob = new Blob([buildPortfoliosJs(state.data)], { type: "application/javascript" });
+        const url = URL.createObjectURL(blob);
+        const link = document.createElement("a");
+        link.href = url;
+        link.download = "portfolios-2025.js";
+        document.body.appendChild(link);
+        link.click();
+        link.remove();
+        URL.revokeObjectURL(url);
+        markDirty(false);
+      });
+
+      document.getElementById("save-picker").addEventListener("click", async () => {
+        if (!state.data) return;
+        if (!window.showSaveFilePicker) {
+          setStatus("File picker not supported. Use Download Updated JS instead.");
+          return;
+        }
+        try {
+          const handle = await window.showSaveFilePicker({
+            suggestedName: "portfolios-2025.js",
+            types: [
+              {
+                description: "JavaScript",
+                accept: { "application/javascript": [".js"] }
+              }
+            ]
+          });
+          const writable = await handle.createWritable();
+          await writable.write(buildPortfoliosJs(state.data));
+          await writable.close();
+          markDirty(false);
+        } catch (err) {
+          setStatus("Save canceled.");
+        }
+      });
+
+      document.getElementById("copy").addEventListener("click", async () => {
+        if (!state.data) return;
+        try {
+          await navigator.clipboard.writeText(buildPortfoliosJs(state.data));
+          setStatus("Copied updated JS to clipboard.");
+        } catch (err) {
+          setStatus("Clipboard access failed.");
+        }
+      });
+
+      document.getElementById("reset").addEventListener("click", () => {
+        if (!state.original) return;
+        state.data = cloneData(state.original);
+        markDirty(false);
+        render();
+      });
+
+      if (window.portfolios2025) {
+        loadData(window.portfolios2025);
+      }
+    </script>
+  </body>
+</html>

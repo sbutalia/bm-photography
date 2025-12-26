@@ -1,0 +1,3747 @@
+{
+  "year": 2025,
+  "format": "2025_<bucket>_<month>_<nn>.jpeg",
+  "buckets": [
+    "highlights",
+    "kids",
+    "travels",
+    "date-nights",
+    "friends",
+    "family",
+    "grandparents"
+  ],
+  "notes": "Review/flip approved=true per item before renaming. Sequences are per (bucket, month).",
+  "items": [
+    {
+      "from": "butaliamoments/2025/106F12DF-78E4-4ED5-8B8B-0A65DA163622 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_03_01.jpeg",
+      "bucket": "date-nights",
+      "month": "03",
+      "type": "date-night",
+      "tags": [
+        "couple",
+        "restaurant",
+        "date-night"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/1H4A7807 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_05_01.jpeg",
+      "bucket": "highlights",
+      "month": "05",
+      "type": "performance",
+      "tags": [
+        "dance",
+        "stage",
+        "performance"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/3BF4BFD3-5E8C-40D5-8EB2-86C069B15CDA Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_08_01.jpeg",
+      "bucket": "travels",
+      "month": "08",
+      "type": "trip",
+      "tags": [
+        "family",
+        "disneyland",
+        "castle",
+        "night"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/59A85B57-D55F-4B98-840B-0F05A74CB615 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_12_01.jpeg",
+      "bucket": "date-nights",
+      "month": "12",
+      "type": "date-night",
+      "tags": [
+        "couple",
+        "selfie",
+        "date-night"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/6970E4B9-872D-4A29-A237-55E440827347 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_06_01.jpeg",
+      "bucket": "friends",
+      "month": "06",
+      "type": "friends",
+      "tags": [
+        "friends",
+        "drinks",
+        "night-out"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/7979EEC4-AE6A-4E23-A13E-891DE137A16C Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_08_02.jpeg",
+      "bucket": "travels",
+      "month": "08",
+      "type": "trip",
+      "tags": [
+        "family",
+        "disneyland",
+        "castle",
+        "night"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/8E40E722-EE62-4193-8036-37F642B31658 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_08_03.jpeg",
+      "bucket": "travels",
+      "month": "08",
+      "type": "trip",
+      "tags": [
+        "family",
+        "disneyland",
+        "castle",
+        "night"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/A2CC15DA-AFA0-461A-BD4B-EBCF56A21294 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_08_04.jpeg",
+      "bucket": "travels",
+      "month": "08",
+      "type": "trip",
+      "tags": [
+        "family",
+        "disneyland",
+        "daytime"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/B8A175C9-E5CB-40C6-A9C4-B5EA12D6C9D8 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_01.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "sports",
+      "tags": [
+        "sports",
+        "basketball",
+        "scoreboard"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/C43E9189-BF18-4A0D-B052-60DE6B7A324D Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_02.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "sports",
+      "tags": [
+        "sports",
+        "basketball",
+        "family",
+        "win"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/DC00DA88-4779-480A-8F6B-A143EAAFD8F5 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_08_05.jpeg",
+      "bucket": "travels",
+      "month": "08",
+      "type": "trip",
+      "tags": [
+        "family",
+        "disneyland",
+        "castle",
+        "night"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Gemini_Generated_Image_vddxkkvddxkkvddx Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_09_01.jpeg",
+      "bucket": "family",
+      "month": "09",
+      "type": "ai-art",
+      "tags": [
+        "ai",
+        "comic",
+        "boba"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0024 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_03_02.jpeg",
+      "bucket": "date-nights",
+      "month": "03",
+      "type": "date-night",
+      "tags": [
+        "couple",
+        "selfie",
+        "date-night"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0067 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_03_01.jpeg",
+      "bucket": "travels",
+      "month": "03",
+      "type": "trip",
+      "tags": [
+        "family",
+        "beach",
+        "ocean"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0152 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_04_01.jpeg",
+      "bucket": "highlights",
+      "month": "04",
+      "type": "performance",
+      "tags": [
+        "kids",
+        "costume",
+        "stage",
+        "performance"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0154 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_04_02.jpeg",
+      "bucket": "highlights",
+      "month": "04",
+      "type": "performance",
+      "tags": [
+        "kids",
+        "costume",
+        "stage",
+        "performance"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0214 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_03_01.jpeg",
+      "bucket": "highlights",
+      "month": "03",
+      "type": "recital",
+      "tags": [
+        "dance",
+        "studio",
+        "kids",
+        "practice",
+        "rehearsal",
+        "movement"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0250 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_03_01.jpeg",
+      "bucket": "kids",
+      "month": "03",
+      "type": "school",
+      "tags": [
+        "library",
+        "books",
+        "reading",
+        "glasses",
+        "learning",
+        "march",
+        "student"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0253 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_03_02.jpeg",
+      "bucket": "kids",
+      "month": "03",
+      "type": "school",
+      "tags": [
+        "library",
+        "books",
+        "reading",
+        "student",
+        "learning",
+        "march"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0262 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_03_03.jpeg",
+      "bucket": "date-nights",
+      "month": "03",
+      "type": "date-night",
+      "tags": [
+        "restaurant",
+        "dining",
+        "outdoor",
+        "patio",
+        "couple",
+        "smiling",
+        "march",
+        "selfie"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0270 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_03_01.jpeg",
+      "bucket": "friends",
+      "month": "03",
+      "type": "friends",
+      "tags": [
+        "dinner",
+        "restaurant",
+        "patio",
+        "friends",
+        "night out",
+        "march",
+        "outdoor dining"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0277 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_03_02.jpeg",
+      "bucket": "highlights",
+      "month": "03",
+      "type": "music",
+      "tags": [
+        "music",
+        "tabla",
+        "drums",
+        "practice",
+        "instruments",
+        "indoor",
+        "march"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0300 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_03_04.jpeg",
+      "bucket": "date-nights",
+      "month": "03",
+      "type": "date-night",
+      "tags": [
+        "theater",
+        "date night",
+        "performance",
+        "audience",
+        "smiling",
+        "march"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0370 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_04_01.jpeg",
+      "bucket": "date-nights",
+      "month": "04",
+      "type": "date-night",
+      "tags": [
+        "selfie",
+        "restaurant",
+        "couple",
+        "casual",
+        "dining",
+        "smiling",
+        "april"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0415 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_04_03.jpeg",
+      "bucket": "highlights",
+      "month": "04",
+      "type": "recital",
+      "tags": [
+        "performance",
+        "stage",
+        "costumes",
+        "theater",
+        "acting",
+        "school play",
+        "musical"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0429 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_04_04.jpeg",
+      "bucket": "highlights",
+      "month": "04",
+      "type": "recital",
+      "tags": [
+        "face paint",
+        "flowers",
+        "bouquet",
+        "performance",
+        "recital",
+        "celebration",
+        "costume"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0432 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_08_01.jpeg",
+      "bucket": "friends",
+      "month": "08",
+      "type": "friends",
+      "tags": [
+        "friends",
+        "toast",
+        "drinks",
+        "sports bar",
+        "night out",
+        "august",
+        "celebration"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0496 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_04_05.jpeg",
+      "bucket": "highlights",
+      "month": "04",
+      "type": "school",
+      "tags": [
+        "school",
+        "performance",
+        "costumes",
+        "face paint",
+        "theater",
+        "kids",
+        "stage"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0500 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_04_06.jpeg",
+      "bucket": "highlights",
+      "month": "04",
+      "type": "recital",
+      "tags": [
+        "costumes",
+        "makeup",
+        "performance",
+        "school play",
+        "theater",
+        "kids",
+        "stage",
+        "acting"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0507 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_grandparents_04_01.jpeg",
+      "bucket": "grandparents",
+      "month": "04",
+      "type": "recital",
+      "tags": [
+        "family",
+        "recital",
+        "performance",
+        "flowers",
+        "face paint",
+        "grandparents",
+        "stage"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0515 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_04_07.jpeg",
+      "bucket": "highlights",
+      "month": "04",
+      "type": "recital",
+      "tags": [
+        "recital",
+        "performance",
+        "flowers",
+        "face paint",
+        "family",
+        "stage",
+        "celebration"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0526 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_04_08.jpeg",
+      "bucket": "highlights",
+      "month": "04",
+      "type": "recital",
+      "tags": [
+        "recital",
+        "flowers",
+        "costumes",
+        "face paint",
+        "school",
+        "performance",
+        "outdoors"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0541 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_08_01.jpeg",
+      "bucket": "date-nights",
+      "month": "08",
+      "type": "date-night",
+      "tags": [
+        "couple",
+        "restaurant",
+        "dinner",
+        "date night",
+        "summer",
+        "august",
+        "selfie"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0707 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_04_01.jpeg",
+      "bucket": "friends",
+      "month": "04",
+      "type": "friends",
+      "tags": [
+        "friends",
+        "bar",
+        "outing",
+        "stickers",
+        "casual",
+        "april",
+        "nightlife"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0751 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_04_01.jpeg",
+      "bucket": "family",
+      "month": "04",
+      "type": "other",
+      "tags": [
+        "selfie",
+        "convention",
+        "trade show",
+        "professional",
+        "technology",
+        "event",
+        "colleagues",
+        "april"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0795 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_04_02.jpeg",
+      "bucket": "friends",
+      "month": "04",
+      "type": "friends",
+      "tags": [
+        "selfie",
+        "friends",
+        "smiling",
+        "indoor",
+        "april",
+        "social"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0798 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_08_02.jpeg",
+      "bucket": "friends",
+      "month": "08",
+      "type": "friends",
+      "tags": [
+        "friends",
+        "night",
+        "outdoor",
+        "summer",
+        "smiling",
+        "social",
+        "gathering",
+        "august"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0826 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_04_03.jpeg",
+      "bucket": "friends",
+      "month": "04",
+      "type": "friends",
+      "tags": [
+        "friends",
+        "drinks",
+        "toast",
+        "restaurant",
+        "night out",
+        "smiling",
+        "beer",
+        "cocktail"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0833 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_09_02.jpeg",
+      "bucket": "family",
+      "month": "09",
+      "type": "family",
+      "tags": [
+        "family",
+        "group photo",
+        "indoors",
+        "living room",
+        "multi-generational",
+        "smiling",
+        "september",
+        "home"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0914 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_09_01.jpeg",
+      "bucket": "kids",
+      "month": "09",
+      "type": "kids",
+      "tags": [
+        "bubble tea",
+        "cafe",
+        "glasses",
+        "treat",
+        "september",
+        "drink",
+        "indoor"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_0956 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_09_03.jpeg",
+      "bucket": "family",
+      "month": "09",
+      "type": "family",
+      "tags": [
+        "family",
+        "traditional",
+        "celebration",
+        "festival",
+        "clothing",
+        "smiles",
+        "indoor"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1121 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_03_01.jpeg",
+      "bucket": "family",
+      "month": "03",
+      "type": "family",
+      "tags": [
+        "family",
+        "outdoors",
+        "park",
+        "bench",
+        "spring",
+        "children",
+        "parents",
+        "smiling"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1130 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_04_01.jpeg",
+      "bucket": "travels",
+      "month": "04",
+      "type": "beach",
+      "tags": [
+        "beach",
+        "family",
+        "vacation",
+        "sand",
+        "sunny",
+        "outdoors",
+        "spring break"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1178 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_09_01.jpeg",
+      "bucket": "highlights",
+      "month": "09",
+      "type": "sports",
+      "tags": [
+        "martial arts",
+        "karate",
+        "white belt",
+        "sports",
+        "uniform",
+        "smiling",
+        "outdoors",
+        "september"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1185 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_09_01.jpeg",
+      "bucket": "friends",
+      "month": "09",
+      "type": "friends",
+      "tags": [
+        "cocktails",
+        "drinks",
+        "friends",
+        "bar",
+        "restaurant",
+        "happy hour",
+        "september"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1199 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_04_02.jpeg",
+      "bucket": "family",
+      "month": "04",
+      "type": "family",
+      "tags": [
+        "family",
+        "portrait",
+        "indoor",
+        "red wall",
+        "smiling",
+        "april",
+        "group photo"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1212 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_04_01.jpeg",
+      "bucket": "kids",
+      "month": "04",
+      "type": "kids",
+      "tags": [
+        "siblings",
+        "smiling",
+        "childhood",
+        "indoor",
+        "red wall",
+        "spring",
+        "april"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1213 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_04_02.jpeg",
+      "bucket": "kids",
+      "month": "04",
+      "type": "kids",
+      "tags": [
+        "siblings",
+        "smiling",
+        "portrait",
+        "red background",
+        "spring",
+        "april",
+        "childhood"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1377 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_04_02.jpeg",
+      "bucket": "travels",
+      "month": "04",
+      "type": "trip",
+      "tags": [
+        "boat",
+        "ocean",
+        "vacation",
+        "family",
+        "travel",
+        "sunny",
+        "outdoors",
+        "arch"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1382 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_04_03.jpeg",
+      "bucket": "travels",
+      "month": "04",
+      "type": "trip",
+      "tags": [
+        "boat",
+        "ocean",
+        "vacation",
+        "rocks",
+        "sunny",
+        "outdoors",
+        "travel",
+        "april"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1389 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_04_04.jpeg",
+      "bucket": "travels",
+      "month": "04",
+      "type": "trip",
+      "tags": [
+        "boat",
+        "ocean",
+        "vacation",
+        "life jackets",
+        "family trip",
+        "sunny",
+        "water",
+        "sightseeing"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1455 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_09_04.jpeg",
+      "bucket": "family",
+      "month": "09",
+      "type": "family",
+      "tags": [
+        "family",
+        "dinner",
+        "restaurant",
+        "outdoors",
+        "night",
+        "september",
+        "smiles"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1470 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_04_05.jpeg",
+      "bucket": "travels",
+      "month": "04",
+      "type": "trip",
+      "tags": [
+        "vacation",
+        "travel",
+        "mexico",
+        "cabo",
+        "family",
+        "palm trees",
+        "sunny",
+        "spring break"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1472 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_04_06.jpeg",
+      "bucket": "travels",
+      "month": "04",
+      "type": "trip",
+      "tags": [
+        "vacation",
+        "cabo",
+        "mexico",
+        "family",
+        "travel",
+        "sunny",
+        "palm trees",
+        "outdoors",
+        "april"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1533 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_04_07.jpeg",
+      "bucket": "travels",
+      "month": "04",
+      "type": "trip",
+      "tags": [
+        "beach",
+        "vacation",
+        "family",
+        "ocean",
+        "restaurant",
+        "outdoors",
+        "travel",
+        "spring break"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1547 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_04_08.jpeg",
+      "bucket": "travels",
+      "month": "04",
+      "type": "beach",
+      "tags": [
+        "beach",
+        "ocean",
+        "vacation",
+        "spring break",
+        "sunshine",
+        "swimming",
+        "outdoors"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1550 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_04_09.jpeg",
+      "bucket": "travels",
+      "month": "04",
+      "type": "trip",
+      "tags": [
+        "beach",
+        "ocean",
+        "vacation",
+        "cruise ship",
+        "sunglasses",
+        "selfie",
+        "sunny",
+        "outdoors",
+        "travel"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1602 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_09_01.jpeg",
+      "bucket": "date-nights",
+      "month": "09",
+      "type": "date-night",
+      "tags": [
+        "selfie",
+        "restaurant",
+        "sports bar",
+        "couple",
+        "dinner",
+        "september",
+        "night out"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1680 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_04_10.jpeg",
+      "bucket": "travels",
+      "month": "04",
+      "type": "trip",
+      "tags": [
+        "sombrero",
+        "vacation",
+        "shopping",
+        "souvenirs",
+        "travel",
+        "smile",
+        "hat"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1691 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_12_02.jpeg",
+      "bucket": "date-nights",
+      "month": "12",
+      "type": "date-night",
+      "tags": [
+        "cocktail",
+        "drink",
+        "smoke",
+        "bar",
+        "nightlife",
+        "december",
+        "celebration"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1696 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_09_02.jpeg",
+      "bucket": "friends",
+      "month": "09",
+      "type": "friends",
+      "tags": [
+        "friends",
+        "bar",
+        "restaurant",
+        "sports",
+        "night out",
+        "dinner",
+        "drinks",
+        "smiling",
+        "september"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1700 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_09_03.jpeg",
+      "bucket": "friends",
+      "month": "09",
+      "type": "friends",
+      "tags": [
+        "friends",
+        "movie theater",
+        "night out",
+        "selfie",
+        "cinema",
+        "september",
+        "amc"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1761 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_10_01.jpeg",
+      "bucket": "family",
+      "month": "10",
+      "type": "family",
+      "tags": [
+        "family",
+        "dinner",
+        "restaurant",
+        "dining",
+        "outing",
+        "october",
+        "togetherness"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1762 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_04_11.jpeg",
+      "bucket": "travels",
+      "month": "04",
+      "type": "trip",
+      "tags": [
+        "swimming",
+        "pool",
+        "vacation",
+        "tropical",
+        "palm trees",
+        "outdoors",
+        "water",
+        "spring break"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1832 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_04_12.jpeg",
+      "bucket": "travels",
+      "month": "04",
+      "type": "kids",
+      "tags": [
+        "swimming",
+        "underwater",
+        "pool",
+        "vacation",
+        "spring break",
+        "childhood",
+        "fun"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_1860 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_04_13.jpeg",
+      "bucket": "travels",
+      "month": "04",
+      "type": "family",
+      "tags": [
+        "swimming",
+        "pool",
+        "underwater",
+        "family",
+        "vacation",
+        "fun",
+        "april"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_2028 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_04_02.jpeg",
+      "bucket": "date-nights",
+      "month": "04",
+      "type": "date-night",
+      "tags": [
+        "couple",
+        "selfie",
+        "smiling",
+        "black and white",
+        "date night",
+        "indoor",
+        "april"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_2045 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_04_14.jpeg",
+      "bucket": "travels",
+      "month": "04",
+      "type": "trip",
+      "tags": [
+        "sleeping",
+        "car ride",
+        "road trip",
+        "reading",
+        "stuffed animal",
+        "travel",
+        "childhood",
+        "nap"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_2096 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_10_01.jpeg",
+      "bucket": "friends",
+      "month": "10",
+      "type": "halloween",
+      "tags": [
+        "halloween",
+        "horror nights",
+        "friends",
+        "night",
+        "city lights",
+        "scary",
+        "fun",
+        "theme park",
+        "october"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_2119 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_10_02.jpeg",
+      "bucket": "friends",
+      "month": "10",
+      "type": "halloween",
+      "tags": [
+        "halloween",
+        "haunted house",
+        "friends",
+        "night",
+        "spooky",
+        "group photo",
+        "october"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_2249 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_05_01.jpeg",
+      "bucket": "family",
+      "month": "05",
+      "type": "other",
+      "tags": [
+        "selfie",
+        "shopping",
+        "home improvement",
+        "smiling",
+        "retail",
+        "may"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_2281 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_05_01.jpeg",
+      "bucket": "date-nights",
+      "month": "05",
+      "type": "date-night",
+      "tags": [
+        "bar",
+        "restaurant",
+        "date night",
+        "evening",
+        "drinks",
+        "interior",
+        "basketball",
+        "plants",
+        "smiling",
+        "couple"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_2365 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_05_01.jpeg",
+      "bucket": "kids",
+      "month": "05",
+      "type": "kids",
+      "tags": [
+        "pajamas",
+        "siblings",
+        "smiling",
+        "home",
+        "indoor",
+        "kitchen",
+        "morning",
+        "childhood"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_2473 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_10_02.jpeg",
+      "bucket": "family",
+      "month": "10",
+      "type": "holiday",
+      "tags": [
+        "rooftop",
+        "skyline",
+        "traditional",
+        "celebration",
+        "city",
+        "october",
+        "couple"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_2482 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_05_02.jpeg",
+      "bucket": "family",
+      "month": "05",
+      "type": "food",
+      "tags": [
+        "dosa",
+        "restaurant",
+        "giant food",
+        "smiling",
+        "indian food",
+        "dinner",
+        "may"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_2572 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_10_03.jpeg",
+      "bucket": "family",
+      "month": "10",
+      "type": "family",
+      "tags": [
+        "rooftop",
+        "cityscape",
+        "traditional clothing",
+        "family photo",
+        "outdoor",
+        "skyline",
+        "october"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_2616 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_05_02.jpeg",
+      "bucket": "kids",
+      "month": "05",
+      "type": "kids",
+      "tags": [
+        "long hair",
+        "backyard",
+        "portrait",
+        "outdoor",
+        "spring",
+        "smiling",
+        "casual"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_2653 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_05_03.jpeg",
+      "bucket": "kids",
+      "month": "05",
+      "type": "family",
+      "tags": [
+        "family",
+        "motherhood",
+        "kids",
+        "outdoors",
+        "smiling",
+        "may",
+        "spring"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_2868 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_05_04.jpeg",
+      "bucket": "kids",
+      "month": "05",
+      "type": "school",
+      "tags": [
+        "walking",
+        "school",
+        "backpacks",
+        "sidewalk",
+        "neighborhood",
+        "outdoors",
+        "hats"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_2896 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_05_02.jpeg",
+      "bucket": "highlights",
+      "month": "05",
+      "type": "sports",
+      "tags": [
+        "basketball",
+        "sports",
+        "outdoors",
+        "backyard",
+        "active",
+        "play",
+        "sunny",
+        "may"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_3110 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_05_01.jpeg",
+      "bucket": "friends",
+      "month": "05",
+      "type": "kids",
+      "tags": [
+        "kids",
+        "hearts",
+        "studio",
+        "friends",
+        "smiling",
+        "group",
+        "activity"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_3262 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_grandparents_05_01.jpeg",
+      "bucket": "grandparents",
+      "month": "05",
+      "type": "school",
+      "tags": [
+        "school",
+        "family",
+        "grandparents",
+        "grandchildren",
+        "classroom",
+        "visit",
+        "smiling"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_3304 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_11_01.jpeg",
+      "bucket": "friends",
+      "month": "11",
+      "type": "halloween",
+      "tags": [
+        "halloween",
+        "baseball",
+        "costumes",
+        "outdoors",
+        "night",
+        "family",
+        "friends",
+        "skeletons"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_3305 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_11_02.jpeg",
+      "bucket": "friends",
+      "month": "11",
+      "type": "halloween",
+      "tags": [
+        "halloween",
+        "movie night",
+        "outdoors",
+        "family",
+        "friends",
+        "skeletons",
+        "decorations",
+        "night"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_3307 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_11_03.jpeg",
+      "bucket": "friends",
+      "month": "11",
+      "type": "halloween",
+      "tags": [
+        "halloween",
+        "costumes",
+        "party",
+        "night",
+        "outdoors",
+        "family",
+        "friends",
+        "celebration"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_3335 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_11_01.jpeg",
+      "bucket": "kids",
+      "month": "11",
+      "type": "kids",
+      "tags": [
+        "kids",
+        "outdoor",
+        "night",
+        "snacks",
+        "backyard",
+        "gathering",
+        "november"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_3561 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_11_04.jpeg",
+      "bucket": "friends",
+      "month": "11",
+      "type": "friends",
+      "tags": [
+        "dinner",
+        "drinks",
+        "restaurant",
+        "social",
+        "friends",
+        "beer",
+        "food",
+        "night out"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_3568 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_11_05.jpeg",
+      "bucket": "friends",
+      "month": "11",
+      "type": "friends",
+      "tags": [
+        "selfie",
+        "friends",
+        "restaurant",
+        "smiling",
+        "thumbs up",
+        "november",
+        "casual"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_3811 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_11_01.jpeg",
+      "bucket": "highlights",
+      "month": "11",
+      "type": "recital",
+      "tags": [
+        "dance",
+        "recital",
+        "costume",
+        "bells",
+        "performance",
+        "november",
+        "tradition"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4048 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_05_03.jpeg",
+      "bucket": "highlights",
+      "month": "05",
+      "type": "recital",
+      "tags": [
+        "flute",
+        "music",
+        "recital",
+        "performance",
+        "instrument",
+        "school",
+        "concert"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4059 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_05_02.jpeg",
+      "bucket": "friends",
+      "month": "05",
+      "type": "recital",
+      "tags": [
+        "kids",
+        "dance",
+        "studio",
+        "rehearsal",
+        "group",
+        "friends",
+        "posing"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4202 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_11_01.jpeg",
+      "bucket": "travels",
+      "month": "11",
+      "type": "trip",
+      "tags": [
+        "family",
+        "trip",
+        "desert",
+        "salt flats",
+        "mountains",
+        "reflection",
+        "outdoors",
+        "vacation"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4277 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_06_01.jpeg",
+      "bucket": "highlights",
+      "month": "06",
+      "type": "school",
+      "tags": [
+        "medal",
+        "award",
+        "achievement",
+        "school",
+        "smile",
+        "proud",
+        "june",
+        "ceremony"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4281 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_11_02.jpeg",
+      "bucket": "travels",
+      "month": "11",
+      "type": "trip",
+      "tags": [
+        "desert",
+        "mountains",
+        "hiking",
+        "family trip",
+        "outdoors",
+        "nature",
+        "november",
+        "scenic view"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4283 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_06_01.jpeg",
+      "bucket": "kids",
+      "month": "06",
+      "type": "school",
+      "tags": [
+        "school",
+        "awards",
+        "ceremony",
+        "medals",
+        "students",
+        "achievement",
+        "june"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4294 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_06_02.jpeg",
+      "bucket": "highlights",
+      "month": "06",
+      "type": "school",
+      "tags": [
+        "award",
+        "certificate",
+        "school",
+        "achievement",
+        "student",
+        "ceremony",
+        "june",
+        "glasses"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4296 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_06_03.jpeg",
+      "bucket": "highlights",
+      "month": "06",
+      "type": "school",
+      "tags": [
+        "school",
+        "award",
+        "certificate",
+        "family",
+        "selfie",
+        "ceremony",
+        "june"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4309 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_06_02.jpeg",
+      "bucket": "friends",
+      "month": "06",
+      "type": "sports",
+      "tags": [
+        "basketball",
+        "gym",
+        "team",
+        "sports",
+        "friends",
+        "indoor",
+        "summer",
+        "exercise"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4311 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_06_04.jpeg",
+      "bucket": "highlights",
+      "month": "06",
+      "type": "sports",
+      "tags": [
+        "basketball",
+        "gym",
+        "family",
+        "sports",
+        "smiling",
+        "indoor",
+        "june"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4444 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_11_03.jpeg",
+      "bucket": "travels",
+      "month": "11",
+      "type": "trip",
+      "tags": [
+        "family",
+        "jumping",
+        "desert",
+        "sand dunes",
+        "vacation",
+        "outdoors",
+        "blue sky",
+        "november"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4450 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_11_04.jpeg",
+      "bucket": "travels",
+      "month": "11",
+      "type": "trip",
+      "tags": [
+        "jumping",
+        "family",
+        "desert",
+        "sand dunes",
+        "vacation",
+        "outdoors",
+        "blue sky",
+        "fun"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4452 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_06_05.jpeg",
+      "bucket": "highlights",
+      "month": "06",
+      "type": "recital",
+      "tags": [
+        "dance",
+        "recital",
+        "costume",
+        "red skirt",
+        "outdoors",
+        "summer",
+        "performance"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4463 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_06_06.jpeg",
+      "bucket": "highlights",
+      "month": "06",
+      "type": "recital",
+      "tags": [
+        "recital",
+        "performance",
+        "family",
+        "summer",
+        "june",
+        "celebration",
+        "school"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4539 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_11_01.jpeg",
+      "bucket": "family",
+      "month": "11",
+      "type": "family",
+      "tags": [
+        "family",
+        "portrait",
+        "outdoors",
+        "autumn",
+        "sweaters",
+        "smiling",
+        "november"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4556 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_06_07.jpeg",
+      "bucket": "highlights",
+      "month": "06",
+      "type": "recital",
+      "tags": [
+        "ballroom",
+        "dancing",
+        "performance",
+        "school",
+        "competition",
+        "gym",
+        "trophies",
+        "balloons"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4670 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_12_01.jpeg",
+      "bucket": "family",
+      "month": "12",
+      "type": "family",
+      "tags": [
+        "family",
+        "gathering",
+        "portrait",
+        "multi-generational",
+        "indoors",
+        "group photo"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4679 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_grandparents_11_01.jpeg",
+      "bucket": "grandparents",
+      "month": "11",
+      "type": "family",
+      "tags": [
+        "family",
+        "portrait",
+        "indoors",
+        "grandparents",
+        "parents",
+        "children",
+        "home",
+        "november"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4724 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_11_02.jpeg",
+      "bucket": "kids",
+      "month": "11",
+      "type": "kids",
+      "tags": [
+        "pajamas",
+        "matching",
+        "siblings",
+        "smiling",
+        "indoor",
+        "home",
+        "november"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4788 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_06_02.jpeg",
+      "bucket": "kids",
+      "month": "06",
+      "type": "school",
+      "tags": [
+        "graduation",
+        "family",
+        "celebration",
+        "lei",
+        "outdoors",
+        "june",
+        "selfie"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4813 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_06_03.jpeg",
+      "bucket": "kids",
+      "month": "06",
+      "type": "school",
+      "tags": [
+        "graduation",
+        "family",
+        "celebration",
+        "certificate",
+        "june",
+        "outdoors"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4814 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_06_04.jpeg",
+      "bucket": "kids",
+      "month": "06",
+      "type": "school",
+      "tags": [
+        "graduation",
+        "school",
+        "family",
+        "celebration",
+        "certificate",
+        "june",
+        "achievement"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4816 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_grandparents_06_01.jpeg",
+      "bucket": "grandparents",
+      "month": "06",
+      "type": "school",
+      "tags": [
+        "graduation",
+        "culmination",
+        "family",
+        "certificate",
+        "celebration",
+        "school",
+        "grandparents"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4854 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_06_05.jpeg",
+      "bucket": "kids",
+      "month": "06",
+      "type": "school",
+      "tags": [
+        "graduation",
+        "2025",
+        "family",
+        "celebration",
+        "bouquet",
+        "outdoors",
+        "school"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4863 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_06_06.jpeg",
+      "bucket": "kids",
+      "month": "06",
+      "type": "school",
+      "tags": [
+        "graduation",
+        "school",
+        "celebration",
+        "flowers",
+        "crochet",
+        "smile",
+        "june",
+        "lei"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4878 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_06_07.jpeg",
+      "bucket": "kids",
+      "month": "06",
+      "type": "school",
+      "tags": [
+        "graduation",
+        "celebration",
+        "balloons",
+        "marquee letters",
+        "june",
+        "achievement",
+        "party"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_4942 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_12_01.jpeg",
+      "bucket": "friends",
+      "month": "12",
+      "type": "friends",
+      "tags": [
+        "selfie",
+        "friends",
+        "home office",
+        "smiling",
+        "casual",
+        "indoor",
+        "december"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5037 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_12_02.jpeg",
+      "bucket": "family",
+      "month": "12",
+      "type": "food",
+      "tags": [
+        "beer",
+        "brewery",
+        "drinks",
+        "social",
+        "outing",
+        "donut shirt",
+        "december"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5050 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_12_02.jpeg",
+      "bucket": "friends",
+      "month": "12",
+      "type": "friends",
+      "tags": [
+        "car",
+        "night",
+        "laughing",
+        "friendship",
+        "selfie",
+        "fun",
+        "glasses",
+        "december"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5102 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_12_03.jpeg",
+      "bucket": "family",
+      "month": "12",
+      "type": "holiday",
+      "tags": [
+        "holiday",
+        "gathering",
+        "children",
+        "snacks",
+        "indoor",
+        "december",
+        "celebration",
+        "family"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5174 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_03.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "music",
+      "tags": [
+        "music",
+        "tabla",
+        "drums",
+        "family",
+        "learning",
+        "living room",
+        "holiday",
+        "december"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5201 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_04.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "music",
+      "tags": [
+        "music",
+        "tabla",
+        "drums",
+        "studio",
+        "practice",
+        "instruments",
+        "percussion"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5277 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_06_01.jpeg",
+      "bucket": "family",
+      "month": "06",
+      "type": "family",
+      "tags": [
+        "summer",
+        "outdoors",
+        "playful",
+        "couple",
+        "garden",
+        "june",
+        "smiling"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5295 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_06_02.jpeg",
+      "bucket": "family",
+      "month": "06",
+      "type": "family",
+      "tags": [
+        "family",
+        "celebration",
+        "backyard",
+        "balloons",
+        "summer",
+        "outdoors",
+        "gathering"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5357 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_06_01.jpeg",
+      "bucket": "travels",
+      "month": "06",
+      "type": "trip",
+      "tags": [
+        "hammock",
+        "outdoors",
+        "trees",
+        "relaxation",
+        "summer",
+        "camping",
+        "nature",
+        "shaka"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5378 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_12_04.jpeg",
+      "bucket": "family",
+      "month": "12",
+      "type": "holiday",
+      "tags": [
+        "holiday",
+        "christmas",
+        "santa claus",
+        "outdoors",
+        "decorating",
+        "family",
+        "selfie"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5382 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_06_02.jpeg",
+      "bucket": "travels",
+      "month": "06",
+      "type": "trip",
+      "tags": [
+        "camping",
+        "tent",
+        "outdoors",
+        "nature",
+        "summer",
+        "campsite",
+        "vacation"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5396 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_12_01.jpeg",
+      "bucket": "kids",
+      "month": "12",
+      "type": "kids",
+      "tags": [
+        "kids",
+        "drawing",
+        "indoor",
+        "smiling",
+        "group photo",
+        "school",
+        "childhood"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5424 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_06_03.jpeg",
+      "bucket": "travels",
+      "month": "06",
+      "type": "beach",
+      "tags": [
+        "beach",
+        "family",
+        "summer",
+        "ocean",
+        "vacation",
+        "outdoors",
+        "sunny",
+        "sand"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5437 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_06_04.jpeg",
+      "bucket": "travels",
+      "month": "06",
+      "type": "beach",
+      "tags": [
+        "ocean",
+        "rocks",
+        "summer",
+        "sunshine",
+        "outdoors",
+        "coastal",
+        "waves",
+        "june"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5513 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_06_05.jpeg",
+      "bucket": "travels",
+      "month": "06",
+      "type": "trip",
+      "tags": [
+        "camping",
+        "campfire",
+        "night",
+        "outdoors",
+        "tent",
+        "summer",
+        "flashlights",
+        "glowsticks"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5523 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_05.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "recital",
+      "tags": [
+        "piano",
+        "recital",
+        "music",
+        "performance",
+        "grand piano",
+        "stage",
+        "december"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5527 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_06.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "recital",
+      "tags": [
+        "piano",
+        "recital",
+        "music",
+        "performance",
+        "stage",
+        "grand piano",
+        "december"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5528 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_07.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "recital",
+      "tags": [
+        "piano",
+        "recital",
+        "music",
+        "performance",
+        "grand piano",
+        "concert",
+        "december",
+        "stage"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5532 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_08.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "recital",
+      "tags": [
+        "piano",
+        "recital",
+        "music",
+        "concert",
+        "performance",
+        "holiday",
+        "conservatory",
+        "stage"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5533 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_09.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "recital",
+      "tags": [
+        "piano",
+        "recital",
+        "music",
+        "performance",
+        "stage",
+        "concert",
+        "grand piano",
+        "conservatory",
+        "winter",
+        "december"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5537 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_10.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "recital",
+      "tags": [
+        "music",
+        "recital",
+        "performance",
+        "gifts",
+        "school",
+        "celebration",
+        "december"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5560 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_06_06.jpeg",
+      "bucket": "travels",
+      "month": "06",
+      "type": "trip",
+      "tags": [
+        "camping",
+        "tent",
+        "outdoors",
+        "family",
+        "summer",
+        "sleeping bags",
+        "lantern"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5940 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_06_01.jpeg",
+      "bucket": "date-nights",
+      "month": "06",
+      "type": "date-night",
+      "tags": [
+        "magic show",
+        "date night",
+        "performance",
+        "theater",
+        "entertainment",
+        "june"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_5999 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_06_07.jpeg",
+      "bucket": "travels",
+      "month": "06",
+      "type": "trip",
+      "tags": [
+        "vacation",
+        "travel",
+        "selfie",
+        "summer",
+        "sightseeing",
+        "landmarks",
+        "sunglasses"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_6042 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_06_02.jpeg",
+      "bucket": "date-nights",
+      "month": "06",
+      "type": "date-night",
+      "tags": [
+        "mirror selfie",
+        "elevator",
+        "date night",
+        "dressed up",
+        "wine",
+        "june",
+        "evening"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_6108 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_06_03.jpeg",
+      "bucket": "date-nights",
+      "month": "06",
+      "type": "date-night",
+      "tags": [
+        "couple",
+        "drinks",
+        "restaurant",
+        "date",
+        "summer",
+        "fun",
+        "selfie"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_6120 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_06_03.jpeg",
+      "bucket": "friends",
+      "month": "06",
+      "type": "friends",
+      "tags": [
+        "restaurant",
+        "drinks",
+        "friends",
+        "smiling",
+        "social",
+        "outing",
+        "summer",
+        "june"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_6385 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_06_08.jpeg",
+      "bucket": "travels",
+      "month": "06",
+      "type": "beach",
+      "tags": [
+        "beach",
+        "sunset",
+        "family",
+        "vacation",
+        "ocean",
+        "outdoors",
+        "summer"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_6533 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_06_09.jpeg",
+      "bucket": "travels",
+      "month": "06",
+      "type": "beach",
+      "tags": [
+        "beach",
+        "surfing",
+        "summer",
+        "wetsuit",
+        "ocean",
+        "jumping",
+        "outdoors",
+        "vacation"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_6563 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_06_10.jpeg",
+      "bucket": "travels",
+      "month": "06",
+      "type": "beach",
+      "tags": [
+        "surfing",
+        "ocean",
+        "waves",
+        "surfboard",
+        "wetsuit",
+        "summer",
+        "beach",
+        "outdoors"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_6585 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_12_05.jpeg",
+      "bucket": "family",
+      "month": "12",
+      "type": "family",
+      "tags": [
+        "family",
+        "celebration",
+        "toast",
+        "smiling",
+        "holiday",
+        "home",
+        "december",
+        "togetherness"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_6680 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_01_01.jpeg",
+      "bucket": "kids",
+      "month": "01",
+      "type": "kids",
+      "tags": [
+        "board game",
+        "indoor activity",
+        "glasses",
+        "purple shirt",
+        "excitement",
+        "game night",
+        "january"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_6687 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_01_01.jpeg",
+      "bucket": "travels",
+      "month": "01",
+      "type": "beach",
+      "tags": [
+        "beach",
+        "selfie",
+        "couple",
+        "winter",
+        "outdoors",
+        "evening",
+        "january"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_6722 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_07_01.jpeg",
+      "bucket": "travels",
+      "month": "07",
+      "type": "beach",
+      "tags": [
+        "surfing",
+        "surfboard",
+        "ocean",
+        "waves",
+        "summer",
+        "beach",
+        "wetsuit",
+        "outdoors"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_6728 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_grandparents_01_01.jpeg",
+      "bucket": "grandparents",
+      "month": "01",
+      "type": "family",
+      "tags": [
+        "birthday",
+        "cake",
+        "celebration",
+        "family",
+        "grandparents",
+        "grandchildren",
+        "candles",
+        "indoor"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_6777 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_07_01.jpeg",
+      "bucket": "date-nights",
+      "month": "07",
+      "type": "date-night",
+      "tags": [
+        "heart",
+        "skywriting",
+        "couple",
+        "selfie",
+        "blue sky",
+        "summer",
+        "love",
+        "outdoors"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_6890 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_01_01.jpeg",
+      "bucket": "highlights",
+      "month": "01",
+      "type": "kids",
+      "tags": [
+        "dance",
+        "studio",
+        "kids",
+        "class",
+        "practice",
+        "exercise",
+        "movement"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_6898 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_01_02.jpeg",
+      "bucket": "highlights",
+      "month": "01",
+      "type": "recital",
+      "tags": [
+        "dance",
+        "studio",
+        "practice",
+        "kids",
+        "mirrors",
+        "january",
+        "learning"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_6964 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_07_02.jpeg",
+      "bucket": "date-nights",
+      "month": "07",
+      "type": "date-night",
+      "tags": [
+        "selfie",
+        "couple",
+        "restaurant",
+        "summer",
+        "smiling",
+        "date",
+        "indoor"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_7241 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_grandparents_01_02.jpeg",
+      "bucket": "grandparents",
+      "month": "01",
+      "type": "family",
+      "tags": [
+        "family",
+        "grandparents",
+        "couple",
+        "outdoors",
+        "smiling",
+        "portrait",
+        "january"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_7286 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_07_02.jpeg",
+      "bucket": "travels",
+      "month": "07",
+      "type": "kids",
+      "tags": [
+        "summer",
+        "water park",
+        "swimming",
+        "lazy river",
+        "inner tube",
+        "vacation",
+        "pool",
+        "outdoors"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_7288 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_07_03.jpeg",
+      "bucket": "travels",
+      "month": "07",
+      "type": "trip",
+      "tags": [
+        "summer",
+        "pool",
+        "vacation",
+        "swimming",
+        "inner tube",
+        "resort",
+        "palm trees",
+        "sunshine"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_7375 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_07_04.jpeg",
+      "bucket": "travels",
+      "month": "07",
+      "type": "trip",
+      "tags": [
+        "water park",
+        "lazy river",
+        "summer",
+        "swimming",
+        "inner tubes",
+        "vacation",
+        "family"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_7379 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_01_02.jpeg",
+      "bucket": "kids",
+      "month": "01",
+      "type": "kids",
+      "tags": [
+        "birthday",
+        "donuts",
+        "candles",
+        "celebration",
+        "smiling",
+        "outdoors",
+        "sprinkles",
+        "dessert"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_7666 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_07_05.jpeg",
+      "bucket": "travels",
+      "month": "07",
+      "type": "beach",
+      "tags": [
+        "beach",
+        "summer",
+        "kids",
+        "ocean",
+        "sand",
+        "vacation",
+        "outdoors",
+        "group photo"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_7750 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_01_01.jpeg",
+      "bucket": "date-nights",
+      "month": "01",
+      "type": "date-night",
+      "tags": [
+        "wine",
+        "restaurant",
+        "couple",
+        "smiling",
+        "black and white",
+        "date night",
+        "january"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_7853 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_07_01.jpeg",
+      "bucket": "friends",
+      "month": "07",
+      "type": "friends",
+      "tags": [
+        "summer",
+        "toast",
+        "drinks",
+        "outdoors",
+        "friends",
+        "celebration",
+        "july"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_7874 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_02_01.jpeg",
+      "bucket": "kids",
+      "month": "02",
+      "type": "kids",
+      "tags": [
+        "boy",
+        "smile",
+        "backpack",
+        "sweater",
+        "hat",
+        "stuffed animal",
+        "outdoors",
+        "childhood",
+        "playful"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_7924 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_07_06.jpeg",
+      "bucket": "travels",
+      "month": "07",
+      "type": "beach",
+      "tags": [
+        "camping",
+        "beach",
+        "ocean",
+        "tent",
+        "summer",
+        "vacation",
+        "outdoors",
+        "nature"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_7939 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_07_07.jpeg",
+      "bucket": "travels",
+      "month": "07",
+      "type": "beach",
+      "tags": [
+        "beach",
+        "family",
+        "summer",
+        "ocean",
+        "vacation",
+        "outdoors",
+        "sun hats"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_8036 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_02_02.jpeg",
+      "bucket": "kids",
+      "month": "02",
+      "type": "kids",
+      "tags": [
+        "rainy day",
+        "umbrella",
+        "winter",
+        "outdoors",
+        "sidewalk",
+        "backpack",
+        "water bottle",
+        "colorful",
+        "february"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_8315 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_02_03.jpeg",
+      "bucket": "kids",
+      "month": "02",
+      "type": "school",
+      "tags": [
+        "family",
+        "awards",
+        "certificates",
+        "medals",
+        "balloons",
+        "celebration",
+        "achievement",
+        "school"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_8356 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_02_01.jpeg",
+      "bucket": "family",
+      "month": "02",
+      "type": "family",
+      "tags": [
+        "newborn",
+        "baby",
+        "sibling",
+        "family",
+        "home",
+        "couch",
+        "lifestyle",
+        "february"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_8424 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_02_04.jpeg",
+      "bucket": "kids",
+      "month": "02",
+      "type": "school",
+      "tags": [
+        "schoolwork",
+        "homework",
+        "studying",
+        "indoor",
+        "home",
+        "childhood",
+        "learning",
+        "february"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_8505 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_02_01.jpeg",
+      "bucket": "date-nights",
+      "month": "02",
+      "type": "date-night",
+      "tags": [
+        "comedy",
+        "show",
+        "date night",
+        "night out",
+        "winter",
+        "february",
+        "entertainment",
+        "selfie"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_8542 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_07_08.jpeg",
+      "bucket": "travels",
+      "month": "07",
+      "type": "trip",
+      "tags": [
+        "family",
+        "trip",
+        "canyon",
+        "hiking",
+        "outdoors",
+        "summer",
+        "vacation",
+        "mountains",
+        "selfie"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_8564 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_02_01.jpeg",
+      "bucket": "friends",
+      "month": "02",
+      "type": "friends",
+      "tags": [
+        "friends",
+        "evening",
+        "event",
+        "art",
+        "indoor",
+        "social",
+        "february"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_8577 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_02_02.jpeg",
+      "bucket": "date-nights",
+      "month": "02",
+      "type": "date-night",
+      "tags": [
+        "date night",
+        "couple",
+        "nightlife",
+        "selfie",
+        "smiling",
+        "indoor",
+        "blue light"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_8593 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_02_05.jpeg",
+      "bucket": "kids",
+      "month": "02",
+      "type": "kids",
+      "tags": [
+        "kids",
+        "outdoors",
+        "plaza",
+        "evening",
+        "pond",
+        "group",
+        "smiling",
+        "february"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_8599 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_02_02.jpeg",
+      "bucket": "friends",
+      "month": "02",
+      "type": "family",
+      "tags": [
+        "restaurant",
+        "dinner",
+        "family",
+        "friends",
+        "outing",
+        "evening",
+        "group",
+        "smiling"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_8900 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_07_09.jpeg",
+      "bucket": "travels",
+      "month": "07",
+      "type": "trip",
+      "tags": [
+        "milky way",
+        "night sky",
+        "stars",
+        "national monument",
+        "stargazing",
+        "summer",
+        "outdoors",
+        "astrophotography"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_8902 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_03_02.jpeg",
+      "bucket": "travels",
+      "month": "03",
+      "type": "trip",
+      "tags": [
+        "airplane",
+        "wing",
+        "night",
+        "city lights",
+        "travel",
+        "flight",
+        "aerial view"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_8916 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_07_10.jpeg",
+      "bucket": "travels",
+      "month": "07",
+      "type": "trip",
+      "tags": [
+        "milky way",
+        "stars",
+        "night sky",
+        "astrophotography",
+        "summer",
+        "outdoors",
+        "landscape"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_8959 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_07_11.jpeg",
+      "bucket": "travels",
+      "month": "07",
+      "type": "trip",
+      "tags": [
+        "national monument",
+        "family trip",
+        "summer",
+        "outdoors",
+        "travel",
+        "nature",
+        "vacation",
+        "road trip"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9011 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_07_12.jpeg",
+      "bucket": "travels",
+      "month": "07",
+      "type": "trip",
+      "tags": [
+        "las vegas",
+        "tower",
+        "summer",
+        "vacation",
+        "siblings",
+        "travel",
+        "outdoors"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9024 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_07_13.jpeg",
+      "bucket": "travels",
+      "month": "07",
+      "type": "trip",
+      "tags": [
+        "las vegas",
+        "family",
+        "vacation",
+        "summer",
+        "travel",
+        "selfie",
+        "landmark"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9171 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_08_01.jpeg",
+      "bucket": "highlights",
+      "month": "08",
+      "type": "sports",
+      "tags": [
+        "basketball",
+        "team",
+        "gym",
+        "sports",
+        "jerseys",
+        "selfie",
+        "teammates"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9192 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_03_03.jpeg",
+      "bucket": "highlights",
+      "month": "03",
+      "type": "recital",
+      "tags": [
+        "dance",
+        "studio",
+        "group",
+        "kids",
+        "rehearsal",
+        "posing",
+        "indoor"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9223 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_03_02.jpeg",
+      "bucket": "family",
+      "month": "03",
+      "type": "other",
+      "tags": [
+        "portrait",
+        "blazer",
+        "stairs",
+        "outdoors",
+        "palm trees",
+        "march",
+        "spring"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9270 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_03_05.jpeg",
+      "bucket": "date-nights",
+      "month": "03",
+      "type": "date-night",
+      "tags": [
+        "couple",
+        "formal",
+        "evening",
+        "celebration",
+        "blazer",
+        "dress",
+        "smile",
+        "march"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9350 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_03_03.jpeg",
+      "bucket": "family",
+      "month": "03",
+      "type": "family",
+      "tags": [
+        "outdoors",
+        "trees",
+        "forest",
+        "family",
+        "group photo",
+        "nature",
+        "spring",
+        "hiking",
+        "march"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9472 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_08_03.jpeg",
+      "bucket": "friends",
+      "month": "08",
+      "type": "friends",
+      "tags": [
+        "friends",
+        "party",
+        "luau",
+        "leis",
+        "aloha",
+        "summer",
+        "celebration",
+        "smiling"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9508 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_03_04.jpeg",
+      "bucket": "family",
+      "month": "03",
+      "type": "family",
+      "tags": [
+        "family",
+        "smiling",
+        "indoors",
+        "glasses",
+        "together",
+        "march",
+        "portrait"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9592 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_03_03.jpeg",
+      "bucket": "kids",
+      "month": "03",
+      "type": "kids",
+      "tags": [
+        "soccer",
+        "jersey",
+        "bedroom",
+        "childhood",
+        "sports",
+        "indoor"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9596 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_03_04.jpeg",
+      "bucket": "highlights",
+      "month": "03",
+      "type": "school",
+      "tags": [
+        "school",
+        "award",
+        "photography",
+        "student",
+        "portrait",
+        "elementary",
+        "march"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9629 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_03_05.jpeg",
+      "bucket": "highlights",
+      "month": "03",
+      "type": "school",
+      "tags": [
+        "award",
+        "certificate",
+        "photography",
+        "school",
+        "achievement",
+        "ribbon",
+        "outdoors",
+        "march"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9633 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_03_04.jpeg",
+      "bucket": "kids",
+      "month": "03",
+      "type": "kids",
+      "tags": [
+        "kids",
+        "glasses",
+        "headband",
+        "indoor",
+        "table",
+        "portrait",
+        "march"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9635 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_03_05.jpeg",
+      "bucket": "kids",
+      "month": "03",
+      "type": "kids",
+      "tags": [
+        "girl",
+        "glasses",
+        "pink",
+        "portrait",
+        "indoor",
+        "march",
+        "fleece",
+        "headband"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9652 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_date-nights_08_02.jpeg",
+      "bucket": "date-nights",
+      "month": "08",
+      "type": "date-night",
+      "tags": [
+        "date night",
+        "cocktails",
+        "sports bar",
+        "smiling",
+        "august",
+        "restaurant",
+        "drinks"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9695 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_08_04.jpeg",
+      "bucket": "friends",
+      "month": "08",
+      "type": "friends",
+      "tags": [
+        "bar",
+        "sports bar",
+        "friends",
+        "smiling",
+        "indoor",
+        "august",
+        "casual"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9747 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_03_02.jpeg",
+      "bucket": "friends",
+      "month": "03",
+      "type": "holiday",
+      "tags": [
+        "holi",
+        "festival",
+        "celebration",
+        "outdoor",
+        "colorful",
+        "march",
+        "friends"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9761 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_08_02.jpeg",
+      "bucket": "highlights",
+      "month": "08",
+      "type": "recital",
+      "tags": [
+        "traditional",
+        "costumes",
+        "performance",
+        "group",
+        "outdoors",
+        "summer",
+        "cultural",
+        "kids"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9785 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_03_06.jpeg",
+      "bucket": "kids",
+      "month": "03",
+      "type": "holiday",
+      "tags": [
+        "holi",
+        "festival",
+        "colors",
+        "kids",
+        "outdoors",
+        "spring",
+        "celebration",
+        "park"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9803 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_03_05.jpeg",
+      "bucket": "family",
+      "month": "03",
+      "type": "holiday",
+      "tags": [
+        "holi",
+        "festival",
+        "colors",
+        "celebration",
+        "family",
+        "outdoor",
+        "spring"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9814 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_family_03_06.jpeg",
+      "bucket": "family",
+      "month": "03",
+      "type": "holiday",
+      "tags": [
+        "holi",
+        "festival",
+        "family",
+        "colors",
+        "outdoors",
+        "celebration",
+        "spring"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9827 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_03_07.jpeg",
+      "bucket": "kids",
+      "month": "03",
+      "type": "holiday",
+      "tags": [
+        "holi",
+        "festival",
+        "colors",
+        "celebration",
+        "kids",
+        "outdoors",
+        "spring"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/IMG_9964 Medium.jpeg",
+      "to": "butaliamoments/2025/2025_kids_03_08.jpeg",
+      "bucket": "kids",
+      "month": "03",
+      "type": "school",
+      "tags": [
+        "whiteboard",
+        "schedule",
+        "routine",
+        "planning",
+        "education",
+        "writing",
+        "daily agenda"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.35.35\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_11.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "music-practice",
+      "tags": [
+        "kids",
+        "music",
+        "tabla",
+        "home"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.35.59\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_12.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "sports",
+      "tags": [
+        "basketball",
+        "outdoors",
+        "backyard",
+        "sports",
+        "playing",
+        "child",
+        "december"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.36.13\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_12_01.jpeg",
+      "bucket": "travels",
+      "month": "12",
+      "type": "trip",
+      "tags": [
+        "airport",
+        "travel",
+        "vacation",
+        "family",
+        "luggage",
+        "backpack",
+        "terminal"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.36.27\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_13.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "music",
+      "tags": [
+        "tabla",
+        "drums",
+        "music",
+        "percussion",
+        "hobby",
+        "indoor",
+        "instrument"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.36.42\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_12_02.jpeg",
+      "bucket": "travels",
+      "month": "12",
+      "type": "trip",
+      "tags": [
+        "family",
+        "jumping",
+        "sand dunes",
+        "desert",
+        "vacation",
+        "outdoors",
+        "winter trip",
+        "happiness"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.36.56\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_14.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "recital",
+      "tags": [
+        "dance",
+        "costume",
+        "red skirt",
+        "performance",
+        "outdoors",
+        "portrait",
+        "december"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.37.09\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_15.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "recital",
+      "tags": [
+        "ballroom",
+        "dance",
+        "competition",
+        "gymnasium",
+        "performance",
+        "formal",
+        "trophies",
+        "balloons"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.37.22\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_grandparents_12_01.jpeg",
+      "bucket": "grandparents",
+      "month": "12",
+      "type": "family",
+      "tags": [
+        "family",
+        "indoors",
+        "portrait",
+        "grandparents",
+        "parents",
+        "children",
+        "smiling",
+        "holiday"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.37.30\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_12_03.jpeg",
+      "bucket": "travels",
+      "month": "12",
+      "type": "beach",
+      "tags": [
+        "ocean",
+        "rocks",
+        "siblings",
+        "coast",
+        "sunny",
+        "outdoors",
+        "nature",
+        "vacation"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.37.55\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_16.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "sports",
+      "tags": [
+        "taekwondo",
+        "martial arts",
+        "yellow belt",
+        "achievement",
+        "sports",
+        "dojang",
+        "uniform"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.38.25\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_17.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "sports",
+      "tags": [
+        "taekwondo",
+        "martial arts",
+        "yellow belt",
+        "uniform",
+        "ceremony",
+        "achievement",
+        "december"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.38.39\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_12_04.jpeg",
+      "bucket": "travels",
+      "month": "12",
+      "type": "beach",
+      "tags": [
+        "beach",
+        "sunset",
+        "family",
+        "selfie",
+        "vacation",
+        "winter",
+        "outdoors",
+        "ocean"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.38.50\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_12_05.jpeg",
+      "bucket": "travels",
+      "month": "12",
+      "type": "beach",
+      "tags": [
+        "surfing",
+        "ocean",
+        "waves",
+        "beach",
+        "wetsuit",
+        "water sports",
+        "outdoor"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.39.01\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_travels_12_06.jpeg",
+      "bucket": "travels",
+      "month": "12",
+      "type": "trip",
+      "tags": [
+        "selfie",
+        "hiking",
+        "mountains",
+        "outdoors",
+        "family",
+        "vacation",
+        "nature",
+        "travel"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.39.11\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_friends_12_03.jpeg",
+      "bucket": "friends",
+      "month": "12",
+      "type": "friends",
+      "tags": [
+        "friends",
+        "event",
+        "indoor",
+        "december",
+        "smiling",
+        "art",
+        "night out"
+      ],
+      "approved": false
+    },
+    {
+      "from": "butaliamoments/2025/Screenshot 2025-12-25 at 11.39.23\u202fAM Medium.jpeg",
+      "to": "butaliamoments/2025/2025_highlights_12_18.jpeg",
+      "bucket": "highlights",
+      "month": "12",
+      "type": "recital",
+      "tags": [
+        "children",
+        "stretching",
+        "circle",
+        "practice",
+        "indoor",
+        "studio",
+        "group"
+      ],
+      "approved": false
+    }
+  ]
+}

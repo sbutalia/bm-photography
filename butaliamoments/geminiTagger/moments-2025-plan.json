@@ -1,0 +1,3519 @@
+{
+  "year": 2025,
+  "notes": "Month auto-derived from image metadata where available. Fill in type/description/tags. I can help generate AI descriptions in batches if you want.",
+  "items": [
+    {
+      "src": "butaliamoments/2025/2025_date-nights_03_01.jpeg",
+      "month": "03",
+      "type": "date-night",
+      "description": "Couple selfie at a restaurant/bar.",
+      "tags": [
+        "couple",
+        "restaurant",
+        "date-night"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_05_01.jpeg",
+      "month": "05",
+      "type": "performance",
+      "description": "Stage performance with a group dance pose and festive backdrop.",
+      "tags": [
+        "dance",
+        "stage",
+        "performance"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_08_01.jpeg",
+      "month": "08",
+      "type": "trip",
+      "description": "Family photo at Disneyland at night in front of the castle.",
+      "tags": [
+        "family",
+        "disneyland",
+        "castle",
+        "night"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_12_01.jpeg",
+      "month": "12",
+      "type": "date-night",
+      "description": "Couple selfie outdoors in front of shops/restaurants.",
+      "tags": [
+        "couple",
+        "selfie",
+        "date-night"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_06_01.jpeg",
+      "month": "06",
+      "type": "friends",
+      "description": "Friends hanging out at a bar/restaurant (cheers photo with drinks).",
+      "tags": [
+        "friends",
+        "drinks",
+        "night-out"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_08_02.jpeg",
+      "month": "08",
+      "type": "trip",
+      "description": "Family photo at Disneyland at night in front of the castle.",
+      "tags": [
+        "family",
+        "disneyland",
+        "castle",
+        "night"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_08_03.jpeg",
+      "month": "08",
+      "type": "trip",
+      "description": "Disneyland castle night photo with the family posing with arms out.",
+      "tags": [
+        "family",
+        "disneyland",
+        "castle",
+        "night"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_08_04.jpeg",
+      "month": "08",
+      "type": "trip",
+      "description": "Family photo at Disneyland during the day near a big anniversary celebration sign.",
+      "tags": [
+        "family",
+        "disneyland",
+        "daytime"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_01.jpeg",
+      "month": "12",
+      "type": "sports",
+      "description": "Basketball game scoreboard at the end of the game (home wins by 1).",
+      "tags": [
+        "sports",
+        "basketball",
+        "scoreboard"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_02.jpeg",
+      "month": "12",
+      "type": "sports",
+      "description": "Basketball game moment: scoreboard + family selfie celebrating a game-winning 3-point shot.",
+      "tags": [
+        "sports",
+        "basketball",
+        "family",
+        "win"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_08_05.jpeg",
+      "month": "08",
+      "type": "trip",
+      "description": "Disneyland night photo: family hugging in front of the castle.",
+      "tags": [
+        "family",
+        "disneyland",
+        "castle",
+        "night"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_09_01.jpeg",
+      "month": "09",
+      "type": "ai-art",
+      "description": "Comic-style illustration of a girl drinking boba in a cafe (AI-generated).",
+      "tags": [
+        "ai",
+        "comic",
+        "boba"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_03_02.jpeg",
+      "month": "03",
+      "type": "date-night",
+      "description": "Couple selfie outdoors in front of shops/restaurants.",
+      "tags": [
+        "couple",
+        "selfie",
+        "date-night"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_03_01.jpeg",
+      "month": "03",
+      "type": "trip",
+      "description": "Beach day family selfie with ocean in the background.",
+      "tags": [
+        "family",
+        "beach",
+        "ocean"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_04_01.jpeg",
+      "month": "04",
+      "type": "performance",
+      "description": "School stage performance/costume moment (striped outfit and wig; Halloween/Beetlejuice vibe).",
+      "tags": [
+        "kids",
+        "costume",
+        "stage",
+        "performance"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_04_02.jpeg",
+      "month": "04",
+      "type": "performance",
+      "description": "Group on stage in matching striped costumes (school performance).",
+      "tags": [
+        "kids",
+        "costume",
+        "stage",
+        "performance"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_03_01.jpeg",
+      "month": "03",
+      "type": "recital",
+      "description": "A group of children practice their dance routine in a studio.",
+      "tags": [
+        "dance",
+        "studio",
+        "kids",
+        "practice",
+        "rehearsal",
+        "movement"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_03_01.jpeg",
+      "month": "03",
+      "type": "school",
+      "description": "A young girl smiles while holding a tall stack of books at the library.",
+      "tags": [
+        "library",
+        "books",
+        "reading",
+        "glasses",
+        "learning",
+        "march",
+        "student"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_03_02.jpeg",
+      "month": "03",
+      "type": "school",
+      "description": "A young boy smiles while holding a large stack of books in a library.",
+      "tags": [
+        "library",
+        "books",
+        "reading",
+        "student",
+        "learning",
+        "march"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_03_03.jpeg",
+      "month": "03",
+      "type": "date-night",
+      "description": "A couple smiles for a selfie while dining at an outdoor restaurant patio.",
+      "tags": [
+        "restaurant",
+        "dining",
+        "outdoor",
+        "patio",
+        "couple",
+        "smiling",
+        "march",
+        "selfie"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_03_01.jpeg",
+      "month": "03",
+      "type": "friends",
+      "description": "A group of adults smiles while seated around a circular wooden table at an outdoor restaurant.",
+      "tags": [
+        "dinner",
+        "restaurant",
+        "patio",
+        "friends",
+        "night out",
+        "march",
+        "outdoor dining"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_03_02.jpeg",
+      "month": "03",
+      "type": "music",
+      "description": "Two people practicing traditional Indian drums in a home music studio.",
+      "tags": [
+        "music",
+        "tabla",
+        "drums",
+        "practice",
+        "instruments",
+        "indoor",
+        "march"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_03_04.jpeg",
+      "month": "03",
+      "type": "date-night",
+      "description": "A couple enjoys an evening out at a theater performance.",
+      "tags": [
+        "theater",
+        "date night",
+        "performance",
+        "audience",
+        "smiling",
+        "march"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_04_01.jpeg",
+      "month": "04",
+      "type": "date-night",
+      "description": "A couple smiles for a selfie while enjoying a meal out at a restaurant.",
+      "tags": [
+        "selfie",
+        "restaurant",
+        "couple",
+        "casual",
+        "dining",
+        "smiling",
+        "april"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_04_03.jpeg",
+      "month": "04",
+      "type": "recital",
+      "description": "Children perform a themed play on stage in striped costumes and wigs.",
+      "tags": [
+        "performance",
+        "stage",
+        "costumes",
+        "theater",
+        "acting",
+        "school play",
+        "musical"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_04_04.jpeg",
+      "month": "04",
+      "type": "recital",
+      "description": "A young boy with face paint holds a bouquet of flowers after a performance.",
+      "tags": [
+        "face paint",
+        "flowers",
+        "bouquet",
+        "performance",
+        "recital",
+        "celebration",
+        "costume"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_08_01.jpeg",
+      "month": "08",
+      "type": "friends",
+      "description": "A group of friends enjoys a night out at a sports bar with drinks and a toast.",
+      "tags": [
+        "friends",
+        "toast",
+        "drinks",
+        "sports bar",
+        "night out",
+        "august",
+        "celebration"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_04_05.jpeg",
+      "month": "04",
+      "type": "school",
+      "description": "A group of children pose in various costumes and face paint for a school performance.",
+      "tags": [
+        "school",
+        "performance",
+        "costumes",
+        "face paint",
+        "theater",
+        "kids",
+        "stage"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_04_06.jpeg",
+      "month": "04",
+      "type": "recital",
+      "description": "A group of children in elaborate costumes and makeup perform in a school play.",
+      "tags": [
+        "costumes",
+        "makeup",
+        "performance",
+        "school play",
+        "theater",
+        "kids",
+        "stage",
+        "acting"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_grandparents_04_01.jpeg",
+      "month": "04",
+      "type": "recital",
+      "description": "A family gathers around a child in costume after a performance.",
+      "tags": [
+        "family",
+        "recital",
+        "performance",
+        "flowers",
+        "face paint",
+        "grandparents",
+        "stage"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_04_07.jpeg",
+      "month": "04",
+      "type": "recital",
+      "description": "A family poses together after a performance with flowers and face paint.",
+      "tags": [
+        "recital",
+        "performance",
+        "flowers",
+        "face paint",
+        "family",
+        "stage",
+        "celebration"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_04_08.jpeg",
+      "month": "04",
+      "type": "recital",
+      "description": "A group of children in costumes hold bouquets of flowers after a performance.",
+      "tags": [
+        "recital",
+        "flowers",
+        "costumes",
+        "face paint",
+        "school",
+        "performance",
+        "outdoors"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_08_01.jpeg",
+      "month": "08",
+      "type": "date-night",
+      "description": "A couple smiles for a selfie while dining out at a restaurant.",
+      "tags": [
+        "couple",
+        "restaurant",
+        "dinner",
+        "date night",
+        "summer",
+        "august",
+        "selfie"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_04_01.jpeg",
+      "month": "04",
+      "type": "friends",
+      "description": "Two friends enjoy a casual outing at a unique bar with sticker-covered counters.",
+      "tags": [
+        "friends",
+        "bar",
+        "outing",
+        "stickers",
+        "casual",
+        "april",
+        "nightlife"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_04_01.jpeg",
+      "month": "04",
+      "type": "other",
+      "description": "Two colleagues smiling for a selfie at a professional technology convention.",
+      "tags": [
+        "selfie",
+        "convention",
+        "trade show",
+        "professional",
+        "technology",
+        "event",
+        "colleagues",
+        "april"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_04_02.jpeg",
+      "month": "04",
+      "type": "friends",
+      "description": "Two friends smiling for a selfie in front of a vibrant red wall.",
+      "tags": [
+        "selfie",
+        "friends",
+        "smiling",
+        "indoor",
+        "april",
+        "social"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_08_02.jpeg",
+      "month": "08",
+      "type": "friends",
+      "description": "A group of friends smiling together at an outdoor evening gathering.",
+      "tags": [
+        "friends",
+        "night",
+        "outdoor",
+        "summer",
+        "smiling",
+        "social",
+        "gathering",
+        "august"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_04_03.jpeg",
+      "month": "04",
+      "type": "friends",
+      "description": "Two men smiling and holding up their drinks for a toast in a restaurant.",
+      "tags": [
+        "friends",
+        "drinks",
+        "toast",
+        "restaurant",
+        "night out",
+        "smiling",
+        "beer",
+        "cocktail"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_09_02.jpeg",
+      "month": "09",
+      "type": "family",
+      "description": "A large multi-generational family poses together for a group photo in a bright living room.",
+      "tags": [
+        "family",
+        "group photo",
+        "indoors",
+        "living room",
+        "multi-generational",
+        "smiling",
+        "september",
+        "home"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_09_01.jpeg",
+      "month": "09",
+      "type": "kids",
+      "description": "A young girl enjoys a pink bubble tea drink inside a cafe.",
+      "tags": [
+        "bubble tea",
+        "cafe",
+        "glasses",
+        "treat",
+        "september",
+        "drink",
+        "indoor"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_09_03.jpeg",
+      "month": "09",
+      "type": "family",
+      "description": "A family of four smiles together while wearing colorful traditional clothing at a community event.",
+      "tags": [
+        "family",
+        "traditional",
+        "celebration",
+        "festival",
+        "clothing",
+        "smiles",
+        "indoor"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_03_01.jpeg",
+      "month": "03",
+      "type": "family",
+      "description": "A family of four smiles while sitting together on a park bench.",
+      "tags": [
+        "family",
+        "outdoors",
+        "park",
+        "bench",
+        "spring",
+        "children",
+        "parents",
+        "smiling"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_04_01.jpeg",
+      "month": "04",
+      "type": "beach",
+      "description": "A family of four sits together on a sandy beach under a clear sky.",
+      "tags": [
+        "beach",
+        "family",
+        "vacation",
+        "sand",
+        "sunny",
+        "outdoors",
+        "spring break"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_09_01.jpeg",
+      "month": "09",
+      "type": "sports",
+      "description": "A young boy stands proudly in his martial arts uniform outside.",
+      "tags": [
+        "martial arts",
+        "karate",
+        "white belt",
+        "sports",
+        "uniform",
+        "smiling",
+        "outdoors",
+        "september"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_09_01.jpeg",
+      "month": "09",
+      "type": "friends",
+      "description": "Two friends enjoy a round of cocktails at a bar.",
+      "tags": [
+        "cocktails",
+        "drinks",
+        "friends",
+        "bar",
+        "restaurant",
+        "happy hour",
+        "september"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_04_02.jpeg",
+      "month": "04",
+      "type": "family",
+      "description": "A family of four poses for a portrait in front of a vibrant red wall.",
+      "tags": [
+        "family",
+        "portrait",
+        "indoor",
+        "red wall",
+        "smiling",
+        "april",
+        "group photo"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_04_01.jpeg",
+      "month": "04",
+      "type": "kids",
+      "description": "Two smiling children sit together against a vibrant red background.",
+      "tags": [
+        "siblings",
+        "smiling",
+        "childhood",
+        "indoor",
+        "red wall",
+        "spring",
+        "april"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_04_02.jpeg",
+      "month": "04",
+      "type": "kids",
+      "description": "Two siblings smiling together in front of a vibrant red background.",
+      "tags": [
+        "siblings",
+        "smiling",
+        "portrait",
+        "red background",
+        "spring",
+        "april",
+        "childhood"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_04_02.jpeg",
+      "month": "04",
+      "type": "trip",
+      "description": "A family enjoys a sunny boat ride near a famous rock arch during their vacation.",
+      "tags": [
+        "boat",
+        "ocean",
+        "vacation",
+        "family",
+        "travel",
+        "sunny",
+        "outdoors",
+        "arch"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_04_03.jpeg",
+      "month": "04",
+      "type": "trip",
+      "description": "Two children enjoy a boat ride near a famous coastal rock formation.",
+      "tags": [
+        "boat",
+        "ocean",
+        "vacation",
+        "rocks",
+        "sunny",
+        "outdoors",
+        "travel",
+        "april"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_04_04.jpeg",
+      "month": "04",
+      "type": "trip",
+      "description": "A family enjoys a sunny boat ride near rocky cliffs during their vacation.",
+      "tags": [
+        "boat",
+        "ocean",
+        "vacation",
+        "life jackets",
+        "family trip",
+        "sunny",
+        "water",
+        "sightseeing"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_09_04.jpeg",
+      "month": "09",
+      "type": "family",
+      "description": "A family enjoys a meal together at an outdoor restaurant at night.",
+      "tags": [
+        "family",
+        "dinner",
+        "restaurant",
+        "outdoors",
+        "night",
+        "september",
+        "smiles"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_04_05.jpeg",
+      "month": "04",
+      "type": "trip",
+      "description": "A family poses in front of a large red Cabo sign during a sunny vacation.",
+      "tags": [
+        "vacation",
+        "travel",
+        "mexico",
+        "cabo",
+        "family",
+        "palm trees",
+        "sunny",
+        "spring break"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_04_06.jpeg",
+      "month": "04",
+      "type": "trip",
+      "description": "A family poses in front of a large red sign during a vacation.",
+      "tags": [
+        "vacation",
+        "cabo",
+        "mexico",
+        "family",
+        "travel",
+        "sunny",
+        "palm trees",
+        "outdoors",
+        "april"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_04_07.jpeg",
+      "month": "04",
+      "type": "trip",
+      "description": "A family enjoys a meal at a beachside restaurant during a tropical vacation.",
+      "tags": [
+        "beach",
+        "vacation",
+        "family",
+        "ocean",
+        "restaurant",
+        "outdoors",
+        "travel",
+        "spring break"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_04_08.jpeg",
+      "month": "04",
+      "type": "beach",
+      "description": "A young boy joyfully splashes in the shallow ocean water on a sunny day.",
+      "tags": [
+        "beach",
+        "ocean",
+        "vacation",
+        "spring break",
+        "sunshine",
+        "swimming",
+        "outdoors"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_04_09.jpeg",
+      "month": "04",
+      "type": "trip",
+      "description": "A couple takes a selfie on a sunny beach with a cruise ship in the background.",
+      "tags": [
+        "beach",
+        "ocean",
+        "vacation",
+        "cruise ship",
+        "sunglasses",
+        "selfie",
+        "sunny",
+        "outdoors",
+        "travel"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_09_01.jpeg",
+      "month": "09",
+      "type": "date-night",
+      "description": "A couple enjoys a casual dinner together at a sports bar.",
+      "tags": [
+        "selfie",
+        "restaurant",
+        "sports bar",
+        "couple",
+        "dinner",
+        "september",
+        "night out"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_04_10.jpeg",
+      "month": "04",
+      "type": "trip",
+      "description": "A young boy smiles while trying on a large, decorative sombrero in a souvenir shop.",
+      "tags": [
+        "sombrero",
+        "vacation",
+        "shopping",
+        "souvenirs",
+        "travel",
+        "smile",
+        "hat"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_12_02.jpeg",
+      "month": "12",
+      "type": "date-night",
+      "description": "A smoked cocktail sits on a bar counter during a night out.",
+      "tags": [
+        "cocktail",
+        "drink",
+        "smoke",
+        "bar",
+        "nightlife",
+        "december",
+        "celebration"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_09_02.jpeg",
+      "month": "09",
+      "type": "friends",
+      "description": "A group of friends enjoying a night out at a sports bar in September.",
+      "tags": [
+        "friends",
+        "bar",
+        "restaurant",
+        "sports",
+        "night out",
+        "dinner",
+        "drinks",
+        "smiling",
+        "september"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_09_03.jpeg",
+      "month": "09",
+      "type": "friends",
+      "description": "A group of friends smiling for a selfie in front of a movie theater at night.",
+      "tags": [
+        "friends",
+        "movie theater",
+        "night out",
+        "selfie",
+        "cinema",
+        "september",
+        "amc"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_10_01.jpeg",
+      "month": "10",
+      "type": "family",
+      "description": "A family enjoys a meal together at a busy restaurant.",
+      "tags": [
+        "family",
+        "dinner",
+        "restaurant",
+        "dining",
+        "outing",
+        "october",
+        "togetherness"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_04_11.jpeg",
+      "month": "04",
+      "type": "trip",
+      "description": "A child enjoys a swim in a tropical pool during a family vacation.",
+      "tags": [
+        "swimming",
+        "pool",
+        "vacation",
+        "tropical",
+        "palm trees",
+        "outdoors",
+        "water",
+        "spring break"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_04_12.jpeg",
+      "month": "04",
+      "type": "kids",
+      "description": "A young girl smiles while swimming underwater in a pool with red tiles.",
+      "tags": [
+        "swimming",
+        "underwater",
+        "pool",
+        "vacation",
+        "spring break",
+        "childhood",
+        "fun"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_04_13.jpeg",
+      "month": "04",
+      "type": "family",
+      "description": "A father and daughter hold hands while swimming underwater in a pool.",
+      "tags": [
+        "swimming",
+        "pool",
+        "underwater",
+        "family",
+        "vacation",
+        "fun",
+        "april"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_04_02.jpeg",
+      "month": "04",
+      "type": "date-night",
+      "description": "A couple smiling for a close-up selfie during an evening out.",
+      "tags": [
+        "couple",
+        "selfie",
+        "smiling",
+        "black and white",
+        "date night",
+        "indoor",
+        "april"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_04_14.jpeg",
+      "month": "04",
+      "type": "trip",
+      "description": "A young girl sleeps soundly in the back of a car with a book and a stuffed animal.",
+      "tags": [
+        "sleeping",
+        "car ride",
+        "road trip",
+        "reading",
+        "stuffed animal",
+        "travel",
+        "childhood",
+        "nap"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_10_01.jpeg",
+      "month": "10",
+      "type": "halloween",
+      "description": "A group of friends poses with a spooky movie clapperboard at a Halloween event.",
+      "tags": [
+        "halloween",
+        "horror nights",
+        "friends",
+        "night",
+        "city lights",
+        "scary",
+        "fun",
+        "theme park",
+        "october"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_10_02.jpeg",
+      "month": "10",
+      "type": "halloween",
+      "description": "A group of friends posing playfully in front of a haunted house attraction at night.",
+      "tags": [
+        "halloween",
+        "haunted house",
+        "friends",
+        "night",
+        "spooky",
+        "group photo",
+        "october"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_05_01.jpeg",
+      "month": "05",
+      "type": "other",
+      "description": "Two men posing for a selfie in a home improvement store.",
+      "tags": [
+        "selfie",
+        "shopping",
+        "home improvement",
+        "smiling",
+        "retail",
+        "may"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_05_01.jpeg",
+      "month": "05",
+      "type": "date-night",
+      "description": "A couple enjoys an evening out at a stylish bar.",
+      "tags": [
+        "bar",
+        "restaurant",
+        "date night",
+        "evening",
+        "drinks",
+        "interior",
+        "basketball",
+        "plants",
+        "smiling",
+        "couple"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_05_01.jpeg",
+      "month": "05",
+      "type": "kids",
+      "description": "Three children wearing colorful pajamas sit together on a kitchen counter and smile.",
+      "tags": [
+        "pajamas",
+        "siblings",
+        "smiling",
+        "home",
+        "indoor",
+        "kitchen",
+        "morning",
+        "childhood"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_10_02.jpeg",
+      "month": "10",
+      "type": "holiday",
+      "description": "A couple poses in traditional festive attire on a rooftop overlooking a city skyline.",
+      "tags": [
+        "rooftop",
+        "skyline",
+        "traditional",
+        "celebration",
+        "city",
+        "october",
+        "couple"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_05_02.jpeg",
+      "month": "05",
+      "type": "food",
+      "description": "A young boy proudly shows off a giant dosa at a restaurant.",
+      "tags": [
+        "dosa",
+        "restaurant",
+        "giant food",
+        "smiling",
+        "indian food",
+        "dinner",
+        "may"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_10_03.jpeg",
+      "month": "10",
+      "type": "family",
+      "description": "A family poses together on a rooftop with a city skyline in the background.",
+      "tags": [
+        "rooftop",
+        "cityscape",
+        "traditional clothing",
+        "family photo",
+        "outdoor",
+        "skyline",
+        "october"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_05_02.jpeg",
+      "month": "05",
+      "type": "kids",
+      "description": "A young girl with very long hair stands smiling in a grassy backyard.",
+      "tags": [
+        "long hair",
+        "backyard",
+        "portrait",
+        "outdoor",
+        "spring",
+        "smiling",
+        "casual"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_05_03.jpeg",
+      "month": "05",
+      "type": "family",
+      "description": "A mother and her two children smiling together on a bench outdoors.",
+      "tags": [
+        "family",
+        "motherhood",
+        "kids",
+        "outdoors",
+        "smiling",
+        "may",
+        "spring"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_05_04.jpeg",
+      "month": "05",
+      "type": "school",
+      "description": "Two children walk down a neighborhood sidewalk wearing backpacks and hats.",
+      "tags": [
+        "walking",
+        "school",
+        "backpacks",
+        "sidewalk",
+        "neighborhood",
+        "outdoors",
+        "hats"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_05_02.jpeg",
+      "month": "05",
+      "type": "sports",
+      "description": "A child practices shooting hoops on an outdoor basketball court.",
+      "tags": [
+        "basketball",
+        "sports",
+        "outdoors",
+        "backyard",
+        "active",
+        "play",
+        "sunny",
+        "may"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_05_01.jpeg",
+      "month": "05",
+      "type": "kids",
+      "description": "A group of children smile and make heart shapes with their hands in a dance studio.",
+      "tags": [
+        "kids",
+        "hearts",
+        "studio",
+        "friends",
+        "smiling",
+        "group",
+        "activity"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_grandparents_05_01.jpeg",
+      "month": "05",
+      "type": "school",
+      "description": "A family poses together for a photo inside a classroom.",
+      "tags": [
+        "school",
+        "family",
+        "grandparents",
+        "grandchildren",
+        "classroom",
+        "visit",
+        "smiling"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_11_01.jpeg",
+      "month": "11",
+      "type": "halloween",
+      "description": "A group of people in costumes gather outdoors at night to watch a baseball game on a large screen.",
+      "tags": [
+        "halloween",
+        "baseball",
+        "costumes",
+        "outdoors",
+        "night",
+        "family",
+        "friends",
+        "skeletons"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_11_02.jpeg",
+      "month": "11",
+      "type": "halloween",
+      "description": "A group of people gathered outdoors at night to watch a movie among Halloween decorations.",
+      "tags": [
+        "halloween",
+        "movie night",
+        "outdoors",
+        "family",
+        "friends",
+        "skeletons",
+        "decorations",
+        "night"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_11_03.jpeg",
+      "month": "11",
+      "type": "halloween",
+      "description": "A group of people gathered outdoors at night for a festive celebration.",
+      "tags": [
+        "halloween",
+        "costumes",
+        "party",
+        "night",
+        "outdoors",
+        "family",
+        "friends",
+        "celebration"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_11_01.jpeg",
+      "month": "11",
+      "type": "kids",
+      "description": "A group of children sitting together outdoors at night eating snacks.",
+      "tags": [
+        "kids",
+        "outdoor",
+        "night",
+        "snacks",
+        "backyard",
+        "gathering",
+        "november"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_11_04.jpeg",
+      "month": "11",
+      "type": "friends",
+      "description": "A group of friends enjoys a meal and drinks together at a lively restaurant.",
+      "tags": [
+        "dinner",
+        "drinks",
+        "restaurant",
+        "social",
+        "friends",
+        "beer",
+        "food",
+        "night out"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_11_05.jpeg",
+      "month": "11",
+      "type": "friends",
+      "description": "Two friends enjoy a casual outing at a local restaurant.",
+      "tags": [
+        "selfie",
+        "friends",
+        "restaurant",
+        "smiling",
+        "thumbs up",
+        "november",
+        "casual"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_11_01.jpeg",
+      "month": "11",
+      "type": "recital",
+      "description": "A dancer prepares for a performance wearing traditional bells and a mix of footwear.",
+      "tags": [
+        "dance",
+        "recital",
+        "costume",
+        "bells",
+        "performance",
+        "november",
+        "tradition"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_05_03.jpeg",
+      "month": "05",
+      "type": "recital",
+      "description": "A young girl plays the flute during a musical performance.",
+      "tags": [
+        "flute",
+        "music",
+        "recital",
+        "performance",
+        "instrument",
+        "school",
+        "concert"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_05_02.jpeg",
+      "month": "05",
+      "type": "recital",
+      "description": "A group of children posing together in a dance studio during a rehearsal.",
+      "tags": [
+        "kids",
+        "dance",
+        "studio",
+        "rehearsal",
+        "group",
+        "friends",
+        "posing"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_11_01.jpeg",
+      "month": "11",
+      "type": "trip",
+      "description": "A family poses for a photo on a vast salt flat with mountain reflections.",
+      "tags": [
+        "family",
+        "trip",
+        "desert",
+        "salt flats",
+        "mountains",
+        "reflection",
+        "outdoors",
+        "vacation"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_06_01.jpeg",
+      "month": "06",
+      "type": "school",
+      "description": "A young boy proudly displays a medal at a school event.",
+      "tags": [
+        "medal",
+        "award",
+        "achievement",
+        "school",
+        "smile",
+        "proud",
+        "june",
+        "ceremony"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_11_02.jpeg",
+      "month": "11",
+      "type": "trip",
+      "description": "A family stands together on a ridge overlooking vast, textured desert mountains.",
+      "tags": [
+        "desert",
+        "mountains",
+        "hiking",
+        "family trip",
+        "outdoors",
+        "nature",
+        "november",
+        "scenic view"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_06_01.jpeg",
+      "month": "06",
+      "type": "school",
+      "description": "Students stand on stage receiving medals during an end-of-year awards ceremony.",
+      "tags": [
+        "school",
+        "awards",
+        "ceremony",
+        "medals",
+        "students",
+        "achievement",
+        "june"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_06_02.jpeg",
+      "month": "06",
+      "type": "school",
+      "description": "A young student proudly displays an award certificate and medal at a school ceremony.",
+      "tags": [
+        "award",
+        "certificate",
+        "school",
+        "achievement",
+        "student",
+        "ceremony",
+        "june",
+        "glasses"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_06_03.jpeg",
+      "month": "06",
+      "type": "school",
+      "description": "A family celebrates a child's school achievement at an awards ceremony.",
+      "tags": [
+        "school",
+        "award",
+        "certificate",
+        "family",
+        "selfie",
+        "ceremony",
+        "june"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_06_02.jpeg",
+      "month": "06",
+      "type": "sports",
+      "description": "A group of friends posing together on an indoor basketball court after a game.",
+      "tags": [
+        "basketball",
+        "gym",
+        "team",
+        "sports",
+        "friends",
+        "indoor",
+        "summer",
+        "exercise"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_06_04.jpeg",
+      "month": "06",
+      "type": "sports",
+      "description": "A family poses for a selfie at an indoor basketball court.",
+      "tags": [
+        "basketball",
+        "gym",
+        "family",
+        "sports",
+        "smiling",
+        "indoor",
+        "june"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_11_03.jpeg",
+      "month": "11",
+      "type": "trip",
+      "description": "A family jumps for joy together on a sand dune under a clear blue sky.",
+      "tags": [
+        "family",
+        "jumping",
+        "desert",
+        "sand dunes",
+        "vacation",
+        "outdoors",
+        "blue sky",
+        "november"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_11_04.jpeg",
+      "month": "11",
+      "type": "trip",
+      "description": "A family jumps for joy together on a vast sand dune under a clear blue sky.",
+      "tags": [
+        "jumping",
+        "family",
+        "desert",
+        "sand dunes",
+        "vacation",
+        "outdoors",
+        "blue sky",
+        "fun"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_06_05.jpeg",
+      "month": "06",
+      "type": "recital",
+      "description": "A young girl twirls her vibrant red skirt while wearing a dance costume outdoors.",
+      "tags": [
+        "dance",
+        "recital",
+        "costume",
+        "red skirt",
+        "outdoors",
+        "summer",
+        "performance"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_06_06.jpeg",
+      "month": "06",
+      "type": "recital",
+      "description": "A family poses together outdoors after a performance.",
+      "tags": [
+        "recital",
+        "performance",
+        "family",
+        "summer",
+        "june",
+        "celebration",
+        "school"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_11_01.jpeg",
+      "month": "11",
+      "type": "family",
+      "description": "A family of four smiles together for a portrait outdoors.",
+      "tags": [
+        "family",
+        "portrait",
+        "outdoors",
+        "autumn",
+        "sweaters",
+        "smiling",
+        "november"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_06_07.jpeg",
+      "month": "06",
+      "type": "recital",
+      "description": "Two children perform a ballroom dance routine in a school gymnasium.",
+      "tags": [
+        "ballroom",
+        "dancing",
+        "performance",
+        "school",
+        "competition",
+        "gym",
+        "trophies",
+        "balloons"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_12_01.jpeg",
+      "month": "12",
+      "type": "family",
+      "description": "A large multi-generational family gathers together in a living room for a group portrait.",
+      "tags": [
+        "family",
+        "gathering",
+        "portrait",
+        "multi-generational",
+        "indoors",
+        "group photo"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_grandparents_11_01.jpeg",
+      "month": "11",
+      "type": "family",
+      "description": "A multi-generational family poses together for a portrait inside a home.",
+      "tags": [
+        "family",
+        "portrait",
+        "indoors",
+        "grandparents",
+        "parents",
+        "children",
+        "home",
+        "november"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_11_02.jpeg",
+      "month": "11",
+      "type": "kids",
+      "description": "Four children wearing matching pajamas sit together on the floor and laugh.",
+      "tags": [
+        "pajamas",
+        "matching",
+        "siblings",
+        "smiling",
+        "indoor",
+        "home",
+        "november"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_06_02.jpeg",
+      "month": "06",
+      "type": "school",
+      "description": "A family smiles together during an outdoor school graduation ceremony.",
+      "tags": [
+        "graduation",
+        "family",
+        "celebration",
+        "lei",
+        "outdoors",
+        "june",
+        "selfie"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_06_03.jpeg",
+      "month": "06",
+      "type": "school",
+      "description": "A family poses together to celebrate a school culmination ceremony.",
+      "tags": [
+        "graduation",
+        "family",
+        "celebration",
+        "certificate",
+        "june",
+        "outdoors"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_06_04.jpeg",
+      "month": "06",
+      "type": "school",
+      "description": "A family celebrates a student's school culmination ceremony.",
+      "tags": [
+        "graduation",
+        "school",
+        "family",
+        "celebration",
+        "certificate",
+        "june",
+        "achievement"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_grandparents_06_01.jpeg",
+      "month": "06",
+      "type": "school",
+      "description": "A family gathers to celebrate a young girl's school culmination ceremony.",
+      "tags": [
+        "graduation",
+        "culmination",
+        "family",
+        "certificate",
+        "celebration",
+        "school",
+        "grandparents"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_06_05.jpeg",
+      "month": "06",
+      "type": "school",
+      "description": "A family celebrates a graduation milestone in front of 2025 balloons.",
+      "tags": [
+        "graduation",
+        "2025",
+        "family",
+        "celebration",
+        "bouquet",
+        "outdoors",
+        "school"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_06_06.jpeg",
+      "month": "06",
+      "type": "school",
+      "description": "A young girl smiles while holding a graduation-themed crochet bouquet.",
+      "tags": [
+        "graduation",
+        "school",
+        "celebration",
+        "flowers",
+        "crochet",
+        "smile",
+        "june",
+        "lei"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_06_07.jpeg",
+      "month": "06",
+      "type": "school",
+      "description": "A young girl celebrates her graduation in front of large illuminated letters and festive balloons.",
+      "tags": [
+        "graduation",
+        "celebration",
+        "balloons",
+        "marquee letters",
+        "june",
+        "achievement",
+        "party"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_12_01.jpeg",
+      "month": "12",
+      "type": "friends",
+      "description": "Two friends smiling and posing for a selfie in a home office.",
+      "tags": [
+        "selfie",
+        "friends",
+        "home office",
+        "smiling",
+        "casual",
+        "indoor",
+        "december"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_12_02.jpeg",
+      "month": "12",
+      "type": "food",
+      "description": "A man holds three glasses of beer while sitting at a table in a brewery.",
+      "tags": [
+        "beer",
+        "brewery",
+        "drinks",
+        "social",
+        "outing",
+        "donut shirt",
+        "december"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_12_02.jpeg",
+      "month": "12",
+      "type": "friends",
+      "description": "Two friends share a laugh and have fun during a car ride at night.",
+      "tags": [
+        "car",
+        "night",
+        "laughing",
+        "friendship",
+        "selfie",
+        "fun",
+        "glasses",
+        "december"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_12_03.jpeg",
+      "month": "12",
+      "type": "holiday",
+      "description": "A large group of children and adults gather on a patterned rug for a festive indoor celebration.",
+      "tags": [
+        "holiday",
+        "gathering",
+        "children",
+        "snacks",
+        "indoor",
+        "december",
+        "celebration",
+        "family"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_03.jpeg",
+      "month": "12",
+      "type": "music",
+      "description": "A man and a young boy sit on a rug playing tabla drums together in a living room.",
+      "tags": [
+        "music",
+        "tabla",
+        "drums",
+        "family",
+        "learning",
+        "living room",
+        "holiday",
+        "december"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_04.jpeg",
+      "month": "12",
+      "type": "music",
+      "description": "Two men sit on the floor with tabla drums in a practice studio.",
+      "tags": [
+        "music",
+        "tabla",
+        "drums",
+        "studio",
+        "practice",
+        "instruments",
+        "percussion"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_06_01.jpeg",
+      "month": "06",
+      "type": "family",
+      "description": "A couple strikes a playful pose while walking along a garden path in the summer.",
+      "tags": [
+        "summer",
+        "outdoors",
+        "playful",
+        "couple",
+        "garden",
+        "june",
+        "smiling"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_06_02.jpeg",
+      "month": "06",
+      "type": "family",
+      "description": "A family gathering in a backyard patio area decorated with large year balloons.",
+      "tags": [
+        "family",
+        "celebration",
+        "backyard",
+        "balloons",
+        "summer",
+        "outdoors",
+        "gathering"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_06_01.jpeg",
+      "month": "06",
+      "type": "trip",
+      "description": "A man relaxes in a blue hammock suspended between trees during a summer outing.",
+      "tags": [
+        "hammock",
+        "outdoors",
+        "trees",
+        "relaxation",
+        "summer",
+        "camping",
+        "nature",
+        "shaka"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_12_04.jpeg",
+      "month": "12",
+      "type": "holiday",
+      "description": "A man and a boy pose for a selfie with an inflatable Santa decoration on a roof.",
+      "tags": [
+        "holiday",
+        "christmas",
+        "santa claus",
+        "outdoors",
+        "decorating",
+        "family",
+        "selfie"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_06_02.jpeg",
+      "month": "06",
+      "type": "trip",
+      "description": "A green tent and folding chairs are set up at a campsite under the shade of trees.",
+      "tags": [
+        "camping",
+        "tent",
+        "outdoors",
+        "nature",
+        "summer",
+        "campsite",
+        "vacation"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_12_01.jpeg",
+      "month": "12",
+      "type": "kids",
+      "description": "Four children pose together indoors while one holds up a yellow drawing.",
+      "tags": [
+        "kids",
+        "drawing",
+        "indoor",
+        "smiling",
+        "group photo",
+        "school",
+        "childhood"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_06_03.jpeg",
+      "month": "06",
+      "type": "beach",
+      "description": "A family spends a sunny day together on the sand with the ocean in the background.",
+      "tags": [
+        "beach",
+        "family",
+        "summer",
+        "ocean",
+        "vacation",
+        "outdoors",
+        "sunny",
+        "sand"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_06_04.jpeg",
+      "month": "06",
+      "type": "beach",
+      "description": "Two children sit on a large rock overlooking the ocean on a bright sunny day.",
+      "tags": [
+        "ocean",
+        "rocks",
+        "summer",
+        "sunshine",
+        "outdoors",
+        "coastal",
+        "waves",
+        "june"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_06_05.jpeg",
+      "month": "06",
+      "type": "trip",
+      "description": "A group of people gathered around a glowing campfire at a campsite at night.",
+      "tags": [
+        "camping",
+        "campfire",
+        "night",
+        "outdoors",
+        "tent",
+        "summer",
+        "flashlights",
+        "glowsticks"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_05.jpeg",
+      "month": "12",
+      "type": "recital",
+      "description": "A young girl performs a piece on a grand piano during a winter recital.",
+      "tags": [
+        "piano",
+        "recital",
+        "music",
+        "performance",
+        "grand piano",
+        "stage",
+        "december"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_06.jpeg",
+      "month": "12",
+      "type": "recital",
+      "description": "A young boy performs a piano piece on stage during a winter music recital.",
+      "tags": [
+        "piano",
+        "recital",
+        "music",
+        "performance",
+        "stage",
+        "grand piano",
+        "december"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_07.jpeg",
+      "month": "12",
+      "type": "recital",
+      "description": "A young boy performs a piano piece during a winter recital.",
+      "tags": [
+        "piano",
+        "recital",
+        "music",
+        "performance",
+        "grand piano",
+        "concert",
+        "december",
+        "stage"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_08.jpeg",
+      "month": "12",
+      "type": "recital",
+      "description": "A woman performs a piano piece during a holiday concert at a music conservatory.",
+      "tags": [
+        "piano",
+        "recital",
+        "music",
+        "concert",
+        "performance",
+        "holiday",
+        "conservatory",
+        "stage"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_09.jpeg",
+      "month": "12",
+      "type": "recital",
+      "description": "A person performs a piano piece on stage during a winter recital.",
+      "tags": [
+        "piano",
+        "recital",
+        "music",
+        "performance",
+        "stage",
+        "concert",
+        "grand piano",
+        "conservatory",
+        "winter",
+        "december"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_10.jpeg",
+      "month": "12",
+      "type": "recital",
+      "description": "Children pose with gold gift boxes after a music school performance.",
+      "tags": [
+        "music",
+        "recital",
+        "performance",
+        "gifts",
+        "school",
+        "celebration",
+        "december"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_06_06.jpeg",
+      "month": "06",
+      "type": "trip",
+      "description": "A family is settling in for the night inside a camping tent.",
+      "tags": [
+        "camping",
+        "tent",
+        "outdoors",
+        "family",
+        "summer",
+        "sleeping bags",
+        "lantern"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_06_01.jpeg",
+      "month": "06",
+      "type": "date-night",
+      "description": "A couple enjoys a night out at a magic show.",
+      "tags": [
+        "magic show",
+        "date night",
+        "performance",
+        "theater",
+        "entertainment",
+        "june"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_06_07.jpeg",
+      "month": "06",
+      "type": "trip",
+      "description": "A couple takes a selfie in front of a famous landmark replica during a summer vacation.",
+      "tags": [
+        "vacation",
+        "travel",
+        "selfie",
+        "summer",
+        "sightseeing",
+        "landmarks",
+        "sunglasses"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_06_02.jpeg",
+      "month": "06",
+      "type": "date-night",
+      "description": "A couple poses for a mirror selfie in an elevator before a night out.",
+      "tags": [
+        "mirror selfie",
+        "elevator",
+        "date night",
+        "dressed up",
+        "wine",
+        "june",
+        "evening"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_06_03.jpeg",
+      "month": "06",
+      "type": "date-night",
+      "description": "A couple enjoys drinks at a colorful, retro-themed restaurant.",
+      "tags": [
+        "couple",
+        "drinks",
+        "restaurant",
+        "date",
+        "summer",
+        "fun",
+        "selfie"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_06_03.jpeg",
+      "month": "06",
+      "type": "friends",
+      "description": "A group of friends enjoying drinks together at a restaurant.",
+      "tags": [
+        "restaurant",
+        "drinks",
+        "friends",
+        "smiling",
+        "social",
+        "outing",
+        "summer",
+        "june"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_06_08.jpeg",
+      "month": "06",
+      "type": "beach",
+      "description": "A family of four smiles for a selfie on the beach during sunset.",
+      "tags": [
+        "beach",
+        "sunset",
+        "family",
+        "vacation",
+        "ocean",
+        "outdoors",
+        "summer"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_06_09.jpeg",
+      "month": "06",
+      "type": "beach",
+      "description": "A young girl jumps off a surfboard on a sunny day at the beach.",
+      "tags": [
+        "beach",
+        "surfing",
+        "summer",
+        "wetsuit",
+        "ocean",
+        "jumping",
+        "outdoors",
+        "vacation"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_06_10.jpeg",
+      "month": "06",
+      "type": "beach",
+      "description": "A young person balances on a surfboard while riding a wave in the ocean.",
+      "tags": [
+        "surfing",
+        "ocean",
+        "waves",
+        "surfboard",
+        "wetsuit",
+        "summer",
+        "beach",
+        "outdoors"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_12_05.jpeg",
+      "month": "12",
+      "type": "family",
+      "description": "A family of four smiles together while raising their glasses for a festive toast.",
+      "tags": [
+        "family",
+        "celebration",
+        "toast",
+        "smiling",
+        "holiday",
+        "home",
+        "december",
+        "togetherness"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_01_01.jpeg",
+      "month": "01",
+      "type": "kids",
+      "description": "A young girl reacts excitedly while playing a board game at a table.",
+      "tags": [
+        "board game",
+        "indoor activity",
+        "glasses",
+        "purple shirt",
+        "excitement",
+        "game night",
+        "january"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_01_01.jpeg",
+      "month": "01",
+      "type": "beach",
+      "description": "A couple smiles for a selfie on a sandy beach during a chilly evening.",
+      "tags": [
+        "beach",
+        "selfie",
+        "couple",
+        "winter",
+        "outdoors",
+        "evening",
+        "january"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_07_01.jpeg",
+      "month": "07",
+      "type": "beach",
+      "description": "A young person catches a wave on a surfboard during a summer beach day.",
+      "tags": [
+        "surfing",
+        "surfboard",
+        "ocean",
+        "waves",
+        "summer",
+        "beach",
+        "wetsuit",
+        "outdoors"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_grandparents_01_01.jpeg",
+      "month": "01",
+      "type": "family",
+      "description": "A family gathers around a table to celebrate a birthday with a cake and lit candles.",
+      "tags": [
+        "birthday",
+        "cake",
+        "celebration",
+        "family",
+        "grandparents",
+        "grandchildren",
+        "candles",
+        "indoor"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_07_01.jpeg",
+      "month": "07",
+      "type": "date-night",
+      "description": "A couple smiles for a selfie under a heart-shaped vapor trail in a clear blue sky.",
+      "tags": [
+        "heart",
+        "skywriting",
+        "couple",
+        "selfie",
+        "blue sky",
+        "summer",
+        "love",
+        "outdoors"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_01_01.jpeg",
+      "month": "01",
+      "type": "kids",
+      "description": "A group of children practice dance poses in a studio with mirrors.",
+      "tags": [
+        "dance",
+        "studio",
+        "kids",
+        "class",
+        "practice",
+        "exercise",
+        "movement"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_01_02.jpeg",
+      "month": "01",
+      "type": "recital",
+      "description": "Children are practicing their dance routine in a studio with large mirrors.",
+      "tags": [
+        "dance",
+        "studio",
+        "practice",
+        "kids",
+        "mirrors",
+        "january",
+        "learning"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_07_02.jpeg",
+      "month": "07",
+      "type": "date-night",
+      "description": "A couple smiles for a selfie while dining out at a restaurant.",
+      "tags": [
+        "selfie",
+        "couple",
+        "restaurant",
+        "summer",
+        "smiling",
+        "date",
+        "indoor"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_grandparents_01_02.jpeg",
+      "month": "01",
+      "type": "family",
+      "description": "An elderly couple posing together outdoors on a patio.",
+      "tags": [
+        "family",
+        "grandparents",
+        "couple",
+        "outdoors",
+        "smiling",
+        "portrait",
+        "january"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_07_02.jpeg",
+      "month": "07",
+      "type": "kids",
+      "description": "A child enjoys a relaxing float in a blue inner tube at a water park.",
+      "tags": [
+        "summer",
+        "water park",
+        "swimming",
+        "lazy river",
+        "inner tube",
+        "vacation",
+        "pool",
+        "outdoors"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_07_03.jpeg",
+      "month": "07",
+      "type": "trip",
+      "description": "A child smiles while floating in a blue inner tube at a resort pool.",
+      "tags": [
+        "summer",
+        "pool",
+        "vacation",
+        "swimming",
+        "inner tube",
+        "resort",
+        "palm trees",
+        "sunshine"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_07_04.jpeg",
+      "month": "07",
+      "type": "trip",
+      "description": "A family enjoys a sunny day floating in a lazy river at a water park.",
+      "tags": [
+        "water park",
+        "lazy river",
+        "summer",
+        "swimming",
+        "inner tubes",
+        "vacation",
+        "family"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_01_02.jpeg",
+      "month": "01",
+      "type": "kids",
+      "description": "A young boy smiles behind two chocolate donuts decorated with lit birthday candles.",
+      "tags": [
+        "birthday",
+        "donuts",
+        "candles",
+        "celebration",
+        "smiling",
+        "outdoors",
+        "sprinkles",
+        "dessert"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_07_05.jpeg",
+      "month": "07",
+      "type": "beach",
+      "description": "A large group of children sit together on the sand during a sunny day at the beach.",
+      "tags": [
+        "beach",
+        "summer",
+        "kids",
+        "ocean",
+        "sand",
+        "vacation",
+        "outdoors",
+        "group photo"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_01_01.jpeg",
+      "month": "01",
+      "type": "date-night",
+      "description": "A couple enjoys a glass of red wine together at a restaurant.",
+      "tags": [
+        "wine",
+        "restaurant",
+        "couple",
+        "smiling",
+        "black and white",
+        "date night",
+        "january"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_07_01.jpeg",
+      "month": "07",
+      "type": "friends",
+      "description": "A group of people toast with red cups during an outdoor gathering.",
+      "tags": [
+        "summer",
+        "toast",
+        "drinks",
+        "outdoors",
+        "friends",
+        "celebration",
+        "july"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_02_01.jpeg",
+      "month": "02",
+      "type": "kids",
+      "description": "A young boy smiles while wearing a playful hat with a stuffed animal on top and a superhero sweater.",
+      "tags": [
+        "boy",
+        "smile",
+        "backpack",
+        "sweater",
+        "hat",
+        "stuffed animal",
+        "outdoors",
+        "childhood",
+        "playful"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_07_06.jpeg",
+      "month": "07",
+      "type": "beach",
+      "description": "A view of the ocean and sandy shore from inside a camping tent.",
+      "tags": [
+        "camping",
+        "beach",
+        "ocean",
+        "tent",
+        "summer",
+        "vacation",
+        "outdoors",
+        "nature"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_07_07.jpeg",
+      "month": "07",
+      "type": "beach",
+      "description": "A family of four smiles together while standing on a sunny beach.",
+      "tags": [
+        "beach",
+        "family",
+        "summer",
+        "ocean",
+        "vacation",
+        "outdoors",
+        "sun hats"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_02_02.jpeg",
+      "month": "02",
+      "type": "kids",
+      "description": "A child stands on a rainy sidewalk holding a colorful umbrella and a water bottle.",
+      "tags": [
+        "rainy day",
+        "umbrella",
+        "winter",
+        "outdoors",
+        "sidewalk",
+        "backpack",
+        "water bottle",
+        "colorful",
+        "february"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_02_03.jpeg",
+      "month": "02",
+      "type": "school",
+      "description": "A family celebrates their children's academic achievements at an awards ceremony.",
+      "tags": [
+        "family",
+        "awards",
+        "certificates",
+        "medals",
+        "balloons",
+        "celebration",
+        "achievement",
+        "school"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_02_01.jpeg",
+      "month": "02",
+      "type": "family",
+      "description": "A young girl gently holds a sleeping newborn baby on a comfortable couch.",
+      "tags": [
+        "newborn",
+        "baby",
+        "sibling",
+        "family",
+        "home",
+        "couch",
+        "lifestyle",
+        "february"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_02_04.jpeg",
+      "month": "02",
+      "type": "school",
+      "description": "A young boy focuses on his schoolwork while sitting in a chair.",
+      "tags": [
+        "schoolwork",
+        "homework",
+        "studying",
+        "indoor",
+        "home",
+        "childhood",
+        "learning",
+        "february"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_02_01.jpeg",
+      "month": "02",
+      "type": "date-night",
+      "description": "A couple enjoys a night out at a comedy show.",
+      "tags": [
+        "comedy",
+        "show",
+        "date night",
+        "night out",
+        "winter",
+        "february",
+        "entertainment",
+        "selfie"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_07_08.jpeg",
+      "month": "07",
+      "type": "trip",
+      "description": "A family takes a selfie while overlooking a vast canyon landscape.",
+      "tags": [
+        "family",
+        "trip",
+        "canyon",
+        "hiking",
+        "outdoors",
+        "summer",
+        "vacation",
+        "mountains",
+        "selfie"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_02_01.jpeg",
+      "month": "02",
+      "type": "friends",
+      "description": "Three friends pose together in front of a large piece of art at an evening event.",
+      "tags": [
+        "friends",
+        "evening",
+        "event",
+        "art",
+        "indoor",
+        "social",
+        "february"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_02_02.jpeg",
+      "month": "02",
+      "type": "date-night",
+      "description": "A couple enjoys a night out together in a dimly lit venue.",
+      "tags": [
+        "date night",
+        "couple",
+        "nightlife",
+        "selfie",
+        "smiling",
+        "indoor",
+        "blue light"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_02_05.jpeg",
+      "month": "02",
+      "type": "kids",
+      "description": "Four children posing together in an outdoor plaza near a water feature.",
+      "tags": [
+        "kids",
+        "outdoors",
+        "plaza",
+        "evening",
+        "pond",
+        "group",
+        "smiling",
+        "february"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_02_02.jpeg",
+      "month": "02",
+      "type": "family",
+      "description": "A group of adults and children enjoy a meal together at a restaurant.",
+      "tags": [
+        "restaurant",
+        "dinner",
+        "family",
+        "friends",
+        "outing",
+        "evening",
+        "group",
+        "smiling"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_07_09.jpeg",
+      "month": "07",
+      "type": "trip",
+      "description": "A stunning view of the Milky Way galaxy over the entrance sign of a national monument at night.",
+      "tags": [
+        "milky way",
+        "night sky",
+        "stars",
+        "national monument",
+        "stargazing",
+        "summer",
+        "outdoors",
+        "astrophotography"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_03_02.jpeg",
+      "month": "03",
+      "type": "trip",
+      "description": "A view of city lights at night from an airplane window during a flight.",
+      "tags": [
+        "airplane",
+        "wing",
+        "night",
+        "city lights",
+        "travel",
+        "flight",
+        "aerial view"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_07_10.jpeg",
+      "month": "07",
+      "type": "trip",
+      "description": "A stunning view of the Milky Way galaxy stretching across the night sky above a small cluster of buildings.",
+      "tags": [
+        "milky way",
+        "stars",
+        "night sky",
+        "astrophotography",
+        "summer",
+        "outdoors",
+        "landscape"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_07_11.jpeg",
+      "month": "07",
+      "type": "trip",
+      "description": "A family poses for a photo in front of a national monument entrance sign during a summer road trip.",
+      "tags": [
+        "national monument",
+        "family trip",
+        "summer",
+        "outdoors",
+        "travel",
+        "nature",
+        "vacation",
+        "road trip"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_07_12.jpeg",
+      "month": "07",
+      "type": "trip",
+      "description": "Two children share a hug in front of a famous tall observation tower.",
+      "tags": [
+        "las vegas",
+        "tower",
+        "summer",
+        "vacation",
+        "siblings",
+        "travel",
+        "outdoors"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_07_13.jpeg",
+      "month": "07",
+      "type": "trip",
+      "description": "A family poses for a selfie in front of a famous city landmark.",
+      "tags": [
+        "las vegas",
+        "family",
+        "vacation",
+        "summer",
+        "travel",
+        "selfie",
+        "landmark"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_08_01.jpeg",
+      "month": "08",
+      "type": "sports",
+      "description": "A group of men in basketball uniforms posing for a selfie on the bleachers.",
+      "tags": [
+        "basketball",
+        "team",
+        "gym",
+        "sports",
+        "jerseys",
+        "selfie",
+        "teammates"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_03_03.jpeg",
+      "month": "03",
+      "type": "recital",
+      "description": "A group of young people pose for a photo in a dance studio.",
+      "tags": [
+        "dance",
+        "studio",
+        "group",
+        "kids",
+        "rehearsal",
+        "posing",
+        "indoor"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_03_02.jpeg",
+      "month": "03",
+      "type": "other",
+      "description": "A man in a blue blazer stands on a set of outdoor stairs.",
+      "tags": [
+        "portrait",
+        "blazer",
+        "stairs",
+        "outdoors",
+        "palm trees",
+        "march",
+        "spring"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_03_05.jpeg",
+      "month": "03",
+      "type": "date-night",
+      "description": "A couple dressed up for a formal evening event in March.",
+      "tags": [
+        "couple",
+        "formal",
+        "evening",
+        "celebration",
+        "blazer",
+        "dress",
+        "smile",
+        "march"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_03_03.jpeg",
+      "month": "03",
+      "type": "family",
+      "description": "A group of family members poses together in a sunny wooded area.",
+      "tags": [
+        "outdoors",
+        "trees",
+        "forest",
+        "family",
+        "group photo",
+        "nature",
+        "spring",
+        "hiking",
+        "march"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_08_03.jpeg",
+      "month": "08",
+      "type": "friends",
+      "description": "Three friends are smiling together while wearing colorful floral leis at a summer gathering.",
+      "tags": [
+        "friends",
+        "party",
+        "luau",
+        "leis",
+        "aloha",
+        "summer",
+        "celebration",
+        "smiling"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_03_04.jpeg",
+      "month": "03",
+      "type": "family",
+      "description": "A family of three smiles together for a close-up photo indoors.",
+      "tags": [
+        "family",
+        "smiling",
+        "indoors",
+        "glasses",
+        "together",
+        "march",
+        "portrait"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_03_03.jpeg",
+      "month": "03",
+      "type": "kids",
+      "description": "A young child sits on a bed wearing a soccer jersey.",
+      "tags": [
+        "soccer",
+        "jersey",
+        "bedroom",
+        "childhood",
+        "sports",
+        "indoor"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_03_04.jpeg",
+      "month": "03",
+      "type": "school",
+      "description": "A student's photography project and award are displayed on a board.",
+      "tags": [
+        "school",
+        "award",
+        "photography",
+        "student",
+        "portrait",
+        "elementary",
+        "march"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_03_05.jpeg",
+      "month": "03",
+      "type": "school",
+      "description": "A young girl proudly displays her photography award certificate and ribbon outdoors.",
+      "tags": [
+        "award",
+        "certificate",
+        "photography",
+        "school",
+        "achievement",
+        "ribbon",
+        "outdoors",
+        "march"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_03_04.jpeg",
+      "month": "03",
+      "type": "kids",
+      "description": "A young girl wearing glasses and a headband rests her chin on her hands at a wooden table.",
+      "tags": [
+        "kids",
+        "glasses",
+        "headband",
+        "indoor",
+        "table",
+        "portrait",
+        "march"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_03_05.jpeg",
+      "month": "03",
+      "type": "kids",
+      "description": "A young girl wearing glasses and a pink fleece rests her chin on her hands at a wooden table.",
+      "tags": [
+        "girl",
+        "glasses",
+        "pink",
+        "portrait",
+        "indoor",
+        "march",
+        "fleece",
+        "headband"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_date-nights_08_02.jpeg",
+      "month": "08",
+      "type": "date-night",
+      "description": "A couple smiles for a selfie while enjoying drinks at a sports bar.",
+      "tags": [
+        "date night",
+        "cocktails",
+        "sports bar",
+        "smiling",
+        "august",
+        "restaurant",
+        "drinks"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_08_04.jpeg",
+      "month": "08",
+      "type": "friends",
+      "description": "Two friends enjoying a casual outing at a local sports bar.",
+      "tags": [
+        "bar",
+        "sports bar",
+        "friends",
+        "smiling",
+        "indoor",
+        "august",
+        "casual"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_03_02.jpeg",
+      "month": "03",
+      "type": "holiday",
+      "description": "Two men smiling and covered in vibrant colorful powder during an outdoor celebration.",
+      "tags": [
+        "holi",
+        "festival",
+        "celebration",
+        "outdoor",
+        "colorful",
+        "march",
+        "friends"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_08_02.jpeg",
+      "month": "08",
+      "type": "recital",
+      "description": "A group of children in colorful traditional costumes pose for a photo outdoors.",
+      "tags": [
+        "traditional",
+        "costumes",
+        "performance",
+        "group",
+        "outdoors",
+        "summer",
+        "cultural",
+        "kids"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_03_06.jpeg",
+      "month": "03",
+      "type": "holiday",
+      "description": "A group of children covered in vibrant colored powder pose together in a sunny park.",
+      "tags": [
+        "holi",
+        "festival",
+        "colors",
+        "kids",
+        "outdoors",
+        "spring",
+        "celebration",
+        "park"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_03_05.jpeg",
+      "month": "03",
+      "type": "holiday",
+      "description": "A man and a young girl are covered in vibrant colors during a spring festival celebration.",
+      "tags": [
+        "holi",
+        "festival",
+        "colors",
+        "celebration",
+        "family",
+        "outdoor",
+        "spring"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_family_03_06.jpeg",
+      "month": "03",
+      "type": "holiday",
+      "description": "A family smiles together while covered in vibrant colored powder during an outdoor spring festival.",
+      "tags": [
+        "holi",
+        "festival",
+        "family",
+        "colors",
+        "outdoors",
+        "celebration",
+        "spring"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_03_07.jpeg",
+      "month": "03",
+      "type": "holiday",
+      "description": "A group of children posing together while covered in colorful powder at an outdoor festival.",
+      "tags": [
+        "holi",
+        "festival",
+        "colors",
+        "celebration",
+        "kids",
+        "outdoors",
+        "spring"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_03_08.jpeg",
+      "month": "03",
+      "type": "school",
+      "description": "A young boy updates his daily schedule on a whiteboard.",
+      "tags": [
+        "whiteboard",
+        "schedule",
+        "routine",
+        "planning",
+        "education",
+        "writing",
+        "daily agenda"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_11.jpeg",
+      "month": "12",
+      "type": "music-practice",
+      "description": "At-home tabla lesson/practice session (adult teaching a child).",
+      "tags": [
+        "kids",
+        "music",
+        "tabla",
+        "home"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_12.jpeg",
+      "month": "12",
+      "type": "sports",
+      "description": "A child practices shooting hoops in the backyard on a clear day.",
+      "tags": [
+        "basketball",
+        "outdoors",
+        "backyard",
+        "sports",
+        "playing",
+        "child",
+        "december"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_12_01.jpeg",
+      "month": "12",
+      "type": "trip",
+      "description": "A man and a child navigate a busy airport terminal with their luggage.",
+      "tags": [
+        "airport",
+        "travel",
+        "vacation",
+        "family",
+        "luggage",
+        "backpack",
+        "terminal"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_13.jpeg",
+      "month": "12",
+      "type": "music",
+      "description": "A man plays the tabla drums indoors.",
+      "tags": [
+        "tabla",
+        "drums",
+        "music",
+        "percussion",
+        "hobby",
+        "indoor",
+        "instrument"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_12_02.jpeg",
+      "month": "12",
+      "type": "trip",
+      "description": "A family jumps for joy together on top of vast sand dunes under a clear blue sky.",
+      "tags": [
+        "family",
+        "jumping",
+        "sand dunes",
+        "desert",
+        "vacation",
+        "outdoors",
+        "winter trip",
+        "happiness"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_14.jpeg",
+      "month": "12",
+      "type": "recital",
+      "description": "A young girl poses in a vibrant red skirt and black lace top for a performance.",
+      "tags": [
+        "dance",
+        "costume",
+        "red skirt",
+        "performance",
+        "outdoors",
+        "portrait",
+        "december"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_15.jpeg",
+      "month": "12",
+      "type": "recital",
+      "description": "Two children perform a ballroom dance routine in a gymnasium.",
+      "tags": [
+        "ballroom",
+        "dance",
+        "competition",
+        "gymnasium",
+        "performance",
+        "formal",
+        "trophies",
+        "balloons"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_grandparents_12_01.jpeg",
+      "month": "12",
+      "type": "family",
+      "description": "A multi-generational family poses for a group photo indoors.",
+      "tags": [
+        "family",
+        "indoors",
+        "portrait",
+        "grandparents",
+        "parents",
+        "children",
+        "smiling",
+        "holiday"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_12_03.jpeg",
+      "month": "12",
+      "type": "beach",
+      "description": "Two children sit on a rocky outcrop overlooking the blue ocean waves.",
+      "tags": [
+        "ocean",
+        "rocks",
+        "siblings",
+        "coast",
+        "sunny",
+        "outdoors",
+        "nature",
+        "vacation"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_16.jpeg",
+      "month": "12",
+      "type": "sports",
+      "description": "An instructor ties a new yellow belt on a young student during a martial arts ceremony.",
+      "tags": [
+        "taekwondo",
+        "martial arts",
+        "yellow belt",
+        "achievement",
+        "sports",
+        "dojang",
+        "uniform"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_17.jpeg",
+      "month": "12",
+      "type": "sports",
+      "description": "A young student stands before instructors during a martial arts belt ceremony.",
+      "tags": [
+        "taekwondo",
+        "martial arts",
+        "yellow belt",
+        "uniform",
+        "ceremony",
+        "achievement",
+        "december"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_12_04.jpeg",
+      "month": "12",
+      "type": "beach",
+      "description": "A family of four smiles for a selfie on the beach during sunset.",
+      "tags": [
+        "beach",
+        "sunset",
+        "family",
+        "selfie",
+        "vacation",
+        "winter",
+        "outdoors",
+        "ocean"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_12_05.jpeg",
+      "month": "12",
+      "type": "beach",
+      "description": "A young surfer catches a wave while friends watch from the water.",
+      "tags": [
+        "surfing",
+        "ocean",
+        "waves",
+        "beach",
+        "wetsuit",
+        "water sports",
+        "outdoor"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_12_06.jpeg",
+      "month": "12",
+      "type": "trip",
+      "description": "A family takes a smiling selfie while enjoying a scenic view from a rocky hilltop.",
+      "tags": [
+        "selfie",
+        "hiking",
+        "mountains",
+        "outdoors",
+        "family",
+        "vacation",
+        "nature",
+        "travel"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_12_03.jpeg",
+      "month": "12",
+      "type": "friends",
+      "description": "Three friends pose together at an indoor event in front of a large piece of art.",
+      "tags": [
+        "friends",
+        "event",
+        "indoor",
+        "december",
+        "smiling",
+        "art",
+        "night out"
+      ],
+      "needsReview": true
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_18.jpeg",
+      "month": "12",
+      "type": "recital",
+      "description": "A group of children sit in a circle on the floor during a practice session.",
+      "tags": [
+        "children",
+        "stretching",
+        "circle",
+        "practice",
+        "indoor",
+        "studio",
+        "group"
+      ],
+      "needsReview": true
+    }
+  ]
+}

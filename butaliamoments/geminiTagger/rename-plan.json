@@ -1,0 +1,2186 @@
+{
+  "format": "year_momentType_month_##.jpeg",
+  "notes": "Review momentType/month. Set approved=true per item before renaming.",
+  "items": [
+    {
+      "current": "assets/images/butaliamoments/2025/106F12DF-78E4-4ED5-8B8B-0A65DA163622 Medium.jpeg",
+      "detectedDate": "2025-03-14 00:52:34",
+      "year": "2025",
+      "month": "03",
+      "momentType": "shared",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_shared_03_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/1H4A7807 Medium.jpeg",
+      "detectedDate": "2025-05-14 02:56:11",
+      "year": "2025",
+      "month": "05",
+      "momentType": "moment",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_moment_05_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/3BF4BFD3-5E8C-40D5-8EB2-86C069B15CDA Medium.jpeg",
+      "detectedDate": "2025-08-02 07:10:46",
+      "year": "2025",
+      "month": "08",
+      "momentType": "shared",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_shared_08_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/59A85B57-D55F-4B98-840B-0F05A74CB615 Medium.jpeg",
+      "detectedDate": "2025-12-25 19:39:46",
+      "year": "2025",
+      "month": "12",
+      "momentType": "shared",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_shared_12_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/6970E4B9-872D-4A29-A237-55E440827347 Medium.jpeg",
+      "detectedDate": "2025-06-22 03:51:04",
+      "year": "2025",
+      "month": "06",
+      "momentType": "shared",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_shared_06_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/7979EEC4-AE6A-4E23-A13E-891DE137A16C Medium.jpeg",
+      "detectedDate": "2025-08-02 07:10:20",
+      "year": "2025",
+      "month": "08",
+      "momentType": "shared",
+      "sequence": 2,
+      "proposed": "assets/images/butaliamoments/2025/2025_shared_08_02.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/8E40E722-EE62-4193-8036-37F642B31658 Medium.jpeg",
+      "detectedDate": "2025-08-02 07:10:24",
+      "year": "2025",
+      "month": "08",
+      "momentType": "shared",
+      "sequence": 3,
+      "proposed": "assets/images/butaliamoments/2025/2025_shared_08_03.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/A2CC15DA-AFA0-461A-BD4B-EBCF56A21294 Medium.jpeg",
+      "detectedDate": "2025-08-01 16:03:47",
+      "year": "2025",
+      "month": "08",
+      "momentType": "shared",
+      "sequence": 4,
+      "proposed": "assets/images/butaliamoments/2025/2025_shared_08_04.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/B8A175C9-E5CB-40C6-A9C4-B5EA12D6C9D8 Medium.jpeg",
+      "detectedDate": "2025-12-25 19:39:47",
+      "year": "2025",
+      "month": "12",
+      "momentType": "shared",
+      "sequence": 2,
+      "proposed": "assets/images/butaliamoments/2025/2025_shared_12_02.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/C43E9189-BF18-4A0D-B052-60DE6B7A324D Medium.jpeg",
+      "detectedDate": "2025-12-25 19:39:47",
+      "year": "2025",
+      "month": "12",
+      "momentType": "shared",
+      "sequence": 3,
+      "proposed": "assets/images/butaliamoments/2025/2025_shared_12_03.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/DC00DA88-4779-480A-8F6B-A143EAAFD8F5 Medium.jpeg",
+      "detectedDate": "2025-08-02 07:10:30",
+      "year": "2025",
+      "month": "08",
+      "momentType": "shared",
+      "sequence": 5,
+      "proposed": "assets/images/butaliamoments/2025/2025_shared_08_05.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Gemini_Generated_Image_vddxkkvddxkkvddx Medium.jpeg",
+      "detectedDate": "2025-09-07 06:55:59",
+      "year": "2025",
+      "month": "09",
+      "momentType": "ai",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_ai_09_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0024 Medium.jpeg",
+      "detectedDate": "2025-03-21 01:49:01",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0067 Medium.jpeg",
+      "detectedDate": "2025-03-23 00:06:01",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 2,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_02.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0152 Medium.jpeg",
+      "detectedDate": "2025-04-05 23:07:17",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0154 Medium.jpeg",
+      "detectedDate": "2025-04-05 23:07:51",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 2,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_02.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0214 Medium.jpeg",
+      "detectedDate": "2025-03-26 23:49:58",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 3,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_03.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0250 Medium.jpeg",
+      "detectedDate": "2025-03-29 20:56:11",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 4,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_04.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0253 Medium.jpeg",
+      "detectedDate": "2025-03-29 21:02:17",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 5,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_05.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0262 Medium.jpeg",
+      "detectedDate": "2025-03-30 01:34:53",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 6,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_06.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0270 Medium.jpeg",
+      "detectedDate": "2025-03-30 03:37:20",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 7,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_07.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0277 Medium.jpeg",
+      "detectedDate": "2025-03-30 19:23:20",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 8,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_08.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0300 Medium.jpeg",
+      "detectedDate": "2025-03-31 01:11:36",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 9,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_09.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0370 Medium.jpeg",
+      "detectedDate": "2025-04-04 00:05:50",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 3,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_03.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0415 Medium.jpeg",
+      "detectedDate": "2025-04-05 03:09:38",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 4,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_04.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0429 Medium.jpeg",
+      "detectedDate": "2025-04-05 03:35:52",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 5,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_05.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0432 Medium.jpeg",
+      "detectedDate": "2025-08-24 03:44:44",
+      "year": "2025",
+      "month": "08",
+      "momentType": "iphone",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_08_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0496 Medium.jpeg",
+      "detectedDate": "2025-04-05 23:30:24",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 6,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_06.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0500 Medium.jpeg",
+      "detectedDate": "2025-04-05 23:32:16",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 7,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_07.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0507 Medium.jpeg",
+      "detectedDate": "2025-04-05 23:36:42",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 8,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_08.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0515 Medium.jpeg",
+      "detectedDate": "2025-04-05 23:42:34",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 9,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_09.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0526 Medium.jpeg",
+      "detectedDate": "2025-04-05 23:48:41",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 10,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_10.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0541 Medium.jpeg",
+      "detectedDate": "2025-08-29 03:16:05",
+      "year": "2025",
+      "month": "08",
+      "momentType": "iphone",
+      "sequence": 2,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_08_02.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0707 Medium.jpeg",
+      "detectedDate": "2025-04-08 02:56:46",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 11,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_11.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0751 Medium.jpeg",
+      "detectedDate": "2025-04-08 20:21:30",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 12,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_12.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0795 Medium.jpeg",
+      "detectedDate": "2025-04-09 02:55:46",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 13,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_13.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0798 Medium.jpeg",
+      "detectedDate": "2025-08-31 07:03:38",
+      "year": "2025",
+      "month": "08",
+      "momentType": "iphone",
+      "sequence": 3,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_08_03.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0826 Medium.jpeg",
+      "detectedDate": "2025-04-09 04:46:01",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 14,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_14.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0833 Medium.jpeg",
+      "detectedDate": "2025-09-01 17:15:20",
+      "year": "2025",
+      "month": "09",
+      "momentType": "iphone",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_09_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0914 Medium.jpeg",
+      "detectedDate": "2025-09-06 22:12:08",
+      "year": "2025",
+      "month": "09",
+      "momentType": "iphone",
+      "sequence": 2,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_09_02.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_0956 Medium.jpeg",
+      "detectedDate": "2025-09-07 03:52:23",
+      "year": "2025",
+      "month": "09",
+      "momentType": "iphone",
+      "sequence": 3,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_09_03.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1121 Medium.jpeg",
+      "detectedDate": "2025-03-04 01:48:19",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 10,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_10.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1130 Medium.jpeg",
+      "detectedDate": "2025-04-15 21:00:29",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 15,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_15.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1178 Medium.jpeg",
+      "detectedDate": "2025-09-12 23:08:49",
+      "year": "2025",
+      "month": "09",
+      "momentType": "iphone",
+      "sequence": 4,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_09_04.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1185 Medium.jpeg",
+      "detectedDate": "2025-09-12 23:53:06",
+      "year": "2025",
+      "month": "09",
+      "momentType": "iphone",
+      "sequence": 5,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_09_05.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1199 Medium.jpeg",
+      "detectedDate": "2025-04-16 00:50:51",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 16,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_16.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1212 Medium.jpeg",
+      "detectedDate": "2025-04-16 00:52:29",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 17,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_17.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1213 Medium.jpeg",
+      "detectedDate": "2025-04-16 00:52:30",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 18,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_18.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1377 Medium.jpeg",
+      "detectedDate": "2025-04-16 19:06:52",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 19,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_19.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1382 Medium.jpeg",
+      "detectedDate": "2025-04-16 19:07:23",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 20,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_20.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1389 Medium.jpeg",
+      "detectedDate": "2025-04-16 19:09:06",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 21,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_21.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1455 Medium.jpeg",
+      "detectedDate": "2025-09-21 04:22:22",
+      "year": "2025",
+      "month": "09",
+      "momentType": "iphone",
+      "sequence": 6,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_09_06.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1470 Medium.jpeg",
+      "detectedDate": "2025-04-16 21:11:25",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 22,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_22.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1472 Medium.jpeg",
+      "detectedDate": "2025-04-16 21:11:28",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 23,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_23.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1533 Medium.jpeg",
+      "detectedDate": "2025-04-17 19:13:50",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 24,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_24.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1547 Medium.jpeg",
+      "detectedDate": "2025-04-17 20:11:26",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 25,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_25.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1550 Medium.jpeg",
+      "detectedDate": "2025-04-17 20:11:41",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 26,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_26.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1602 Medium.jpeg",
+      "detectedDate": "2025-09-26 00:29:20",
+      "year": "2025",
+      "month": "09",
+      "momentType": "iphone",
+      "sequence": 7,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_09_07.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1680 Medium.jpeg",
+      "detectedDate": "2025-04-18 00:27:44",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 27,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_27.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1691 Medium.jpeg",
+      "detectedDate": "2025-12-25 19:39:54",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1696 Medium.jpeg",
+      "detectedDate": "2025-09-28 01:56:30",
+      "year": "2025",
+      "month": "09",
+      "momentType": "iphone",
+      "sequence": 8,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_09_08.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1700 Medium.jpeg",
+      "detectedDate": "2025-09-28 02:12:31",
+      "year": "2025",
+      "month": "09",
+      "momentType": "iphone",
+      "sequence": 9,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_09_09.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1761 Medium.jpeg",
+      "detectedDate": "2025-10-04 00:57:36",
+      "year": "2025",
+      "month": "10",
+      "momentType": "iphone",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_10_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1762 Medium.jpeg",
+      "detectedDate": "2025-04-18 18:50:06",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 28,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_28.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1832 Medium.jpeg",
+      "detectedDate": "2025-04-18 18:55:53",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 29,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_29.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_1860 Medium.jpeg",
+      "detectedDate": "2025-04-18 19:02:10",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 30,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_30.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_2028 Medium.jpeg",
+      "detectedDate": "2025-04-25 00:44:52",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 31,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_31.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_2045 Medium.jpeg",
+      "detectedDate": "2025-04-26 00:51:40",
+      "year": "2025",
+      "month": "04",
+      "momentType": "iphone",
+      "sequence": 32,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_04_32.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_2096 Medium.jpeg",
+      "detectedDate": "2025-10-12 05:11:20",
+      "year": "2025",
+      "month": "10",
+      "momentType": "iphone",
+      "sequence": 2,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_10_02.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_2119 Medium.jpeg",
+      "detectedDate": "2025-10-12 05:58:50",
+      "year": "2025",
+      "month": "10",
+      "momentType": "iphone",
+      "sequence": 3,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_10_03.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_2249 Medium.jpeg",
+      "detectedDate": "2025-05-01 21:01:54",
+      "year": "2025",
+      "month": "05",
+      "momentType": "iphone",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_05_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_2281 Medium.jpeg",
+      "detectedDate": "2025-05-02 00:34:54",
+      "year": "2025",
+      "month": "05",
+      "momentType": "iphone",
+      "sequence": 2,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_05_02.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_2365 Medium.jpeg",
+      "detectedDate": "2025-05-04 15:44:26",
+      "year": "2025",
+      "month": "05",
+      "momentType": "iphone",
+      "sequence": 3,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_05_03.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_2473 Medium.jpeg",
+      "detectedDate": "2025-10-18 20:56:18",
+      "year": "2025",
+      "month": "10",
+      "momentType": "iphone",
+      "sequence": 4,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_10_04.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_2482 Medium.jpeg",
+      "detectedDate": "2025-05-07 01:45:08",
+      "year": "2025",
+      "month": "05",
+      "momentType": "iphone",
+      "sequence": 4,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_05_04.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_2572 Medium.jpeg",
+      "detectedDate": "2025-10-18 23:39:46",
+      "year": "2025",
+      "month": "10",
+      "momentType": "iphone",
+      "sequence": 5,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_10_05.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_2616 Medium.jpeg",
+      "detectedDate": "2025-05-11 02:26:35",
+      "year": "2025",
+      "month": "05",
+      "momentType": "iphone",
+      "sequence": 5,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_05_05.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_2653 Medium.jpeg",
+      "detectedDate": "2025-05-11 17:45:35",
+      "year": "2025",
+      "month": "05",
+      "momentType": "iphone",
+      "sequence": 6,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_05_06.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_2868 Medium.jpeg",
+      "detectedDate": "2025-05-16 14:48:45",
+      "year": "2025",
+      "month": "05",
+      "momentType": "iphone",
+      "sequence": 7,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_05_07.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_2896 Medium.jpeg",
+      "detectedDate": "2025-05-17 01:14:10",
+      "year": "2025",
+      "month": "05",
+      "momentType": "iphone",
+      "sequence": 8,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_05_08.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_3110 Medium.jpeg",
+      "detectedDate": "2025-05-21 23:43:52",
+      "year": "2025",
+      "month": "05",
+      "momentType": "iphone",
+      "sequence": 9,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_05_09.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_3262 Medium.jpeg",
+      "detectedDate": "2025-05-23 01:22:29",
+      "year": "2025",
+      "month": "05",
+      "momentType": "iphone",
+      "sequence": 10,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_05_10.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_3304 Medium.jpeg",
+      "detectedDate": "2025-11-01 03:10:56",
+      "year": "2025",
+      "month": "11",
+      "momentType": "iphone",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_11_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_3305 Medium.jpeg",
+      "detectedDate": "2025-11-01 03:11:00",
+      "year": "2025",
+      "month": "11",
+      "momentType": "iphone",
+      "sequence": 2,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_11_02.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_3307 Medium.jpeg",
+      "detectedDate": "2025-11-01 03:16:00",
+      "year": "2025",
+      "month": "11",
+      "momentType": "iphone",
+      "sequence": 3,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_11_03.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_3335 Medium.jpeg",
+      "detectedDate": "2025-11-02 01:25:03",
+      "year": "2025",
+      "month": "11",
+      "momentType": "iphone",
+      "sequence": 4,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_11_04.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_3561 Medium.jpeg",
+      "detectedDate": "2025-11-07 02:30:02",
+      "year": "2025",
+      "month": "11",
+      "momentType": "iphone",
+      "sequence": 5,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_11_05.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_3568 Medium.jpeg",
+      "detectedDate": "2025-11-07 03:10:33",
+      "year": "2025",
+      "month": "11",
+      "momentType": "iphone",
+      "sequence": 6,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_11_06.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_3811 Medium.jpeg",
+      "detectedDate": "2025-11-14 00:04:59",
+      "year": "2025",
+      "month": "11",
+      "momentType": "iphone",
+      "sequence": 7,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_11_07.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4048 Medium.jpeg",
+      "detectedDate": "2025-05-28 16:14:56",
+      "year": "2025",
+      "month": "05",
+      "momentType": "iphone",
+      "sequence": 11,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_05_11.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4059 Medium.jpeg",
+      "detectedDate": "2025-05-28 23:59:20",
+      "year": "2025",
+      "month": "05",
+      "momentType": "iphone",
+      "sequence": 12,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_05_12.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4202 Medium.jpeg",
+      "detectedDate": "2025-11-24 19:04:35",
+      "year": "2025",
+      "month": "11",
+      "momentType": "iphone",
+      "sequence": 8,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_11_08.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4277 Medium.jpeg",
+      "detectedDate": "2025-06-05 16:54:29",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4281 Medium.jpeg",
+      "detectedDate": "2025-11-24 20:43:18",
+      "year": "2025",
+      "month": "11",
+      "momentType": "iphone",
+      "sequence": 9,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_11_09.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4283 Medium.jpeg",
+      "detectedDate": "2025-06-05 20:57:50",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 2,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_02.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4294 Medium.jpeg",
+      "detectedDate": "2025-06-05 21:05:16",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 3,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_03.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4296 Medium.jpeg",
+      "detectedDate": "2025-06-05 21:05:29",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 4,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_04.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4309 Medium.jpeg",
+      "detectedDate": "2025-06-06 01:33:40",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 5,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_05.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4311 Medium.jpeg",
+      "detectedDate": "2025-06-06 02:39:24",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 6,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_06.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4444 Medium.jpeg",
+      "detectedDate": "2025-11-25 19:35:17",
+      "year": "2025",
+      "month": "11",
+      "momentType": "iphone",
+      "sequence": 10,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_11_10.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4450 Medium.jpeg",
+      "detectedDate": "2025-11-25 19:35:25",
+      "year": "2025",
+      "month": "11",
+      "momentType": "iphone",
+      "sequence": 11,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_11_11.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4452 Medium.jpeg",
+      "detectedDate": "2025-06-07 20:49:29",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 7,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_07.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4463 Medium.jpeg",
+      "detectedDate": "2025-06-07 20:54:01",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 8,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_08.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4539 Medium.jpeg",
+      "detectedDate": "2025-11-28 00:19:56",
+      "year": "2025",
+      "month": "11",
+      "momentType": "iphone",
+      "sequence": 12,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_11_12.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4556 Medium.jpeg",
+      "detectedDate": "2025-06-07 23:11:35",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 9,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_09.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4670 Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:00",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 2,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_02.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4679 Medium.jpeg",
+      "detectedDate": "2025-11-28 06:02:17",
+      "year": "2025",
+      "month": "11",
+      "momentType": "iphone",
+      "sequence": 13,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_11_13.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4724 Medium.jpeg",
+      "detectedDate": "2025-11-29 01:19:47",
+      "year": "2025",
+      "month": "11",
+      "momentType": "iphone",
+      "sequence": 14,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_11_14.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4788 Medium.jpeg",
+      "detectedDate": "2025-06-09 17:08:09",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 10,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_10.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4813 Medium.jpeg",
+      "detectedDate": "2025-06-09 17:21:41",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 11,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_11.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4814 Medium.jpeg",
+      "detectedDate": "2025-06-09 17:21:42",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 12,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_12.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4816 Medium.jpeg",
+      "detectedDate": "2025-06-09 17:22:06",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 13,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_13.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4854 Medium.jpeg",
+      "detectedDate": "2025-06-09 17:33:55",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 14,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_14.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4863 Medium.jpeg",
+      "detectedDate": "2025-06-09 17:42:41",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 15,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_15.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4878 Medium.jpeg",
+      "detectedDate": "2025-06-09 21:15:57",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 16,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_16.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_4942 Medium.jpeg",
+      "detectedDate": "2025-12-08 20:42:30",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 3,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_03.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5037 Medium.jpeg",
+      "detectedDate": "2025-12-12 02:46:11",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 4,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_04.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5050 Medium.jpeg",
+      "detectedDate": "2025-12-12 06:15:51",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 5,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_05.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5102 Medium.jpeg",
+      "detectedDate": "2025-12-13 03:26:14",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 6,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_06.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5174 Medium.jpeg",
+      "detectedDate": "2025-12-14 20:28:07",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 7,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_07.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5201 Medium.jpeg",
+      "detectedDate": "2025-12-14 21:55:57",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 8,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_08.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5277 Medium.jpeg",
+      "detectedDate": "2025-06-15 00:00:40",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 17,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_17.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5295 Medium.jpeg",
+      "detectedDate": "2025-06-15 19:18:16",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 18,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_18.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5357 Medium.jpeg",
+      "detectedDate": "2025-06-16 20:13:36",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 19,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_19.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5378 Medium.jpeg",
+      "detectedDate": "2025-12-19 21:52:51",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 9,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_09.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5382 Medium.jpeg",
+      "detectedDate": "2025-06-16 21:11:14",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 20,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_20.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5396 Medium.jpeg",
+      "detectedDate": "2025-12-20 01:03:59",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 10,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_10.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5424 Medium.jpeg",
+      "detectedDate": "2025-06-16 22:20:29",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 21,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_21.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5437 Medium.jpeg",
+      "detectedDate": "2025-06-16 22:54:55",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 22,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_22.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5513 Medium.jpeg",
+      "detectedDate": "2025-06-17 04:18:33",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 23,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_23.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5523 Medium.jpeg",
+      "detectedDate": "2025-12-22 00:07:38",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 11,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_11.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5527 Medium.jpeg",
+      "detectedDate": "2025-12-22 00:26:45",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 12,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_12.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5528 Medium.jpeg",
+      "detectedDate": "2025-12-22 00:28:06",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 13,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_13.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5532 Medium.jpeg",
+      "detectedDate": "2025-12-22 01:03:36",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 14,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_14.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5533 Medium.jpeg",
+      "detectedDate": "2025-12-22 01:03:39",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 15,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_15.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5537 Medium.jpeg",
+      "detectedDate": "2025-12-22 01:21:26",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 16,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_16.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5560 Medium.jpeg",
+      "detectedDate": "2025-06-17 05:28:29",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 24,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_24.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5940 Medium.jpeg",
+      "detectedDate": "2025-06-20 02:43:14",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 25,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_25.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_5999 Medium.jpeg",
+      "detectedDate": "2025-06-20 19:27:08",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 26,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_26.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_6042 Medium.jpeg",
+      "detectedDate": "2025-06-21 01:25:08",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 27,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_27.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_6108 Medium.jpeg",
+      "detectedDate": "2025-06-22 00:29:02",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 28,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_28.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_6120 Medium.jpeg",
+      "detectedDate": "2025-06-22 03:24:05",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 29,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_29.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_6385 Medium.jpeg",
+      "detectedDate": "2025-06-28 03:01:44",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 30,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_30.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_6533 Medium.jpeg",
+      "detectedDate": "2025-06-29 21:10:13",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 31,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_31.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_6563 Medium.jpeg",
+      "detectedDate": "2025-06-29 21:36:01",
+      "year": "2025",
+      "month": "06",
+      "momentType": "iphone",
+      "sequence": 32,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_06_32.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_6585 Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:04",
+      "year": "2025",
+      "month": "12",
+      "momentType": "iphone",
+      "sequence": 17,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_12_17.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_6680 Medium.jpeg",
+      "detectedDate": "2025-01-02 23:39:54",
+      "year": "2025",
+      "month": "01",
+      "momentType": "iphone",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_01_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_6687 Medium.jpeg",
+      "detectedDate": "2025-01-03 01:16:26",
+      "year": "2025",
+      "month": "01",
+      "momentType": "iphone",
+      "sequence": 2,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_01_02.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_6722 Medium.jpeg",
+      "detectedDate": "2025-07-03 17:58:37",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_6728 Medium.jpeg",
+      "detectedDate": "2025-01-04 02:27:55",
+      "year": "2025",
+      "month": "01",
+      "momentType": "iphone",
+      "sequence": 3,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_01_03.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_6777 Medium.jpeg",
+      "detectedDate": "2025-07-05 01:44:46",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 2,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_02.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_6890 Medium.jpeg",
+      "detectedDate": "2025-01-09 00:20:43",
+      "year": "2025",
+      "month": "01",
+      "momentType": "iphone",
+      "sequence": 4,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_01_04.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_6898 Medium.jpeg",
+      "detectedDate": "2025-01-09 00:26:35",
+      "year": "2025",
+      "month": "01",
+      "momentType": "iphone",
+      "sequence": 5,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_01_05.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_6964 Medium.jpeg",
+      "detectedDate": "2025-07-11 00:54:03",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 3,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_03.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_7241 Medium.jpeg",
+      "detectedDate": "2025-01-18 17:50:48",
+      "year": "2025",
+      "month": "01",
+      "momentType": "iphone",
+      "sequence": 6,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_01_06.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_7286 Medium.jpeg",
+      "detectedDate": "2025-07-18 22:19:39",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 4,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_04.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_7288 Medium.jpeg",
+      "detectedDate": "2025-07-18 22:19:50",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 5,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_05.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_7375 Medium.jpeg",
+      "detectedDate": "2025-07-19 18:13:30",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 6,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_06.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_7379 Medium.jpeg",
+      "detectedDate": "2025-01-20 01:19:12",
+      "year": "2025",
+      "month": "01",
+      "momentType": "iphone",
+      "sequence": 7,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_01_07.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_7666 Medium.jpeg",
+      "detectedDate": "2025-07-24 02:36:35",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 7,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_07.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_7750 Medium.jpeg",
+      "detectedDate": "2025-01-31 01:52:30",
+      "year": "2025",
+      "month": "01",
+      "momentType": "iphone",
+      "sequence": 8,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_01_08.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_7853 Medium.jpeg",
+      "detectedDate": "2025-07-25 01:22:11",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 8,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_08.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_7874 Medium.jpeg",
+      "detectedDate": "2025-02-02 22:08:54",
+      "year": "2025",
+      "month": "02",
+      "momentType": "iphone",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_02_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_7924 Medium.jpeg",
+      "detectedDate": "2025-07-25 15:57:33",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 9,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_09.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_7939 Medium.jpeg",
+      "detectedDate": "2025-07-25 17:29:10",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 10,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_10.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_8036 Medium.jpeg",
+      "detectedDate": "2025-02-07 15:44:40",
+      "year": "2025",
+      "month": "02",
+      "momentType": "iphone",
+      "sequence": 2,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_02_02.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_8315 Medium.jpeg",
+      "detectedDate": "2025-02-14 23:04:39",
+      "year": "2025",
+      "month": "02",
+      "momentType": "iphone",
+      "sequence": 3,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_02_03.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_8356 Medium.jpeg",
+      "detectedDate": "2025-02-16 02:31:51",
+      "year": "2025",
+      "month": "02",
+      "momentType": "iphone",
+      "sequence": 4,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_02_04.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_8424 Medium.jpeg",
+      "detectedDate": "2025-02-19 03:52:12",
+      "year": "2025",
+      "month": "02",
+      "momentType": "iphone",
+      "sequence": 5,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_02_05.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_8505 Medium.jpeg",
+      "detectedDate": "2025-02-23 01:51:35",
+      "year": "2025",
+      "month": "02",
+      "momentType": "iphone",
+      "sequence": 6,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_02_06.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_8542 Medium.jpeg",
+      "detectedDate": "2025-07-29 19:24:56",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 11,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_11.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_8564 Medium.jpeg",
+      "detectedDate": "2025-02-23 07:21:09",
+      "year": "2025",
+      "month": "02",
+      "momentType": "iphone",
+      "sequence": 7,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_02_07.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_8577 Medium.jpeg",
+      "detectedDate": "2025-02-23 08:11:01",
+      "year": "2025",
+      "month": "02",
+      "momentType": "iphone",
+      "sequence": 8,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_02_08.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_8593 Medium.jpeg",
+      "detectedDate": "2025-02-24 01:54:47",
+      "year": "2025",
+      "month": "02",
+      "momentType": "iphone",
+      "sequence": 9,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_02_09.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_8599 Medium.jpeg",
+      "detectedDate": "2025-02-24 02:00:02",
+      "year": "2025",
+      "month": "02",
+      "momentType": "iphone",
+      "sequence": 10,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_02_10.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_8900 Medium.jpeg",
+      "detectedDate": "2025-07-30 07:06:11",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 12,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_12.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_8902 Medium.jpeg",
+      "detectedDate": "2025-03-03 04:09:55",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 11,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_11.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_8916 Medium.jpeg",
+      "detectedDate": "2025-07-30 07:31:03",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 13,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_13.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_8959 Medium.jpeg",
+      "detectedDate": "2025-07-30 20:30:09",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 14,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_14.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9011 Medium.jpeg",
+      "detectedDate": "2025-07-31 02:13:30",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 15,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_15.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9024 Medium.jpeg",
+      "detectedDate": "2025-07-31 02:18:46",
+      "year": "2025",
+      "month": "07",
+      "momentType": "iphone",
+      "sequence": 16,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_07_16.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9171 Medium.jpeg",
+      "detectedDate": "2025-08-01 03:44:08",
+      "year": "2025",
+      "month": "08",
+      "momentType": "iphone",
+      "sequence": 4,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_08_04.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9192 Medium.jpeg",
+      "detectedDate": "2025-03-06 01:40:03",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 12,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_12.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9223 Medium.jpeg",
+      "detectedDate": "2025-03-08 01:39:52",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 13,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_13.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9270 Medium.jpeg",
+      "detectedDate": "2025-03-08 02:38:22",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 14,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_14.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9350 Medium.jpeg",
+      "detectedDate": "2025-03-08 19:55:28",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 15,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_15.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9472 Medium.jpeg",
+      "detectedDate": "2025-08-03 19:23:40",
+      "year": "2025",
+      "month": "08",
+      "momentType": "iphone",
+      "sequence": 5,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_08_05.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9508 Medium.jpeg",
+      "detectedDate": "2025-03-13 15:51:23",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 16,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_16.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9592 Medium.jpeg",
+      "detectedDate": "2025-03-15 17:26:19",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 17,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_17.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9596 Medium.jpeg",
+      "detectedDate": "2025-03-15 18:23:43",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 18,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_18.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9629 Medium.jpeg",
+      "detectedDate": "2025-03-15 19:53:21",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 19,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_19.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9633 Medium.jpeg",
+      "detectedDate": "2025-03-15 20:29:36",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 20,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_20.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9635 Medium.jpeg",
+      "detectedDate": "2025-03-15 20:29:42",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 21,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_21.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9652 Medium.jpeg",
+      "detectedDate": "2025-08-08 00:32:09",
+      "year": "2025",
+      "month": "08",
+      "momentType": "iphone",
+      "sequence": 6,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_08_06.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9695 Medium.jpeg",
+      "detectedDate": "2025-08-09 02:05:33",
+      "year": "2025",
+      "month": "08",
+      "momentType": "iphone",
+      "sequence": 7,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_08_07.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9747 Medium.jpeg",
+      "detectedDate": "2025-03-16 18:30:47",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 22,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_22.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9761 Medium.jpeg",
+      "detectedDate": "2025-08-10 01:25:37",
+      "year": "2025",
+      "month": "08",
+      "momentType": "iphone",
+      "sequence": 8,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_08_08.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9785 Medium.jpeg",
+      "detectedDate": "2025-03-16 18:51:26",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 23,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_23.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9803 Medium.jpeg",
+      "detectedDate": "2025-03-16 19:00:31",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 24,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_24.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9814 Medium.jpeg",
+      "detectedDate": "2025-03-16 19:01:31",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 25,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_25.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9827 Medium.jpeg",
+      "detectedDate": "2025-03-16 19:25:30",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 26,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_26.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/IMG_9964 Medium.jpeg",
+      "detectedDate": "2025-03-19 03:38:18",
+      "year": "2025",
+      "month": "03",
+      "momentType": "iphone",
+      "sequence": 27,
+      "proposed": "assets/images/butaliamoments/2025/2025_iphone_03_27.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.35.35\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:42",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 1,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_01.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.35.59\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:42",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 2,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_02.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.36.13\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:43",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 3,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_03.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.36.27\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:43",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 4,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_04.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.36.42\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:43",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 5,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_05.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.36.56\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:43",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 6,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_06.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.37.09\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:43",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 7,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_07.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.37.22\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:43",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 8,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_08.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.37.30\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:43",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 9,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_09.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.37.55\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:43",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 10,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_10.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.38.25\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:43",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 11,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_11.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.38.39\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:43",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 12,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_12.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.38.50\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:43",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 13,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_13.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.39.01\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:43",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 14,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_14.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.39.11\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:43",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 15,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_15.jpeg",
+      "approved": false
+    },
+    {
+      "current": "assets/images/butaliamoments/2025/Screenshot 2025-12-25 at 11.39.23\u202fAM Medium.jpeg",
+      "detectedDate": "2025-12-25 19:40:43",
+      "year": "2025",
+      "month": "12",
+      "momentType": "screenshot",
+      "sequence": 16,
+      "proposed": "assets/images/butaliamoments/2025/2025_screenshot_12_16.jpeg",
+      "approved": false
+    }
+  ]
+}
