@@ -383,6 +383,22 @@ window.portfolios2025 = {
     {
       "src": "butaliamoments/2025/2025_friends_12_10a.jpeg",
       "caption": "Mom's night out!"
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_12_12.jpeg",
+      "caption": "PTA Hangout"
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_12_11.jpeg",
+      "caption": "Hanging out with friends from our neighorhood."
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_12_14.jpeg",
+      "caption": "Connecting with Friends from college."
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_12_15.jpeg",
+      "caption": "Mom's night out with longtime friends."
     }
   ],
   "family": [
