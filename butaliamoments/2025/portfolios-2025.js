@@ -175,6 +175,10 @@ window.portfolios2025 = {
     {
       "src": "butaliamoments/2025/2025_kids_03_05.jpeg",
       "caption": "Our Big Girl"
+    },
+    {
+      "src": "butaliamoments/2025/2025_kids_09a.jpeg",
+      "caption": "Our Big Girl"
     }
   ],
   "travels": [
@@ -293,68 +297,60 @@ window.portfolios2025 = {
   ],
   "friends": [
     {
-      "src": "butaliamoments/2025/2025_friends_02_02.jpeg",
-      "caption": "A group of adults and children enjoy a meal together at a restaurant — cheers to good people."
-    },
-    {
-      "src": "butaliamoments/2025/2025_friends_03_01.jpeg",
-      "caption": "A group of adults smiles while seated around a circular wooden table at an outdoor restaurant — cheers to good people."
-    },
-    {
       "src": "butaliamoments/2025/2025_friends_03_02.jpeg",
-      "caption": "Holi"
-    },
-    {
-      "src": "butaliamoments/2025/2025_friends_04_02.jpeg",
-      "caption": "Two friends smiling for a selfie in front of a vibrant red wall — cheers to good people."
+      "caption": "Holi with Neighbors"
     },
     {
       "src": "butaliamoments/2025/2025_friends_06_01.jpeg",
-      "caption": "Friends hanging out at a bar/restaurant (cheers photo with drinks) — cheers to good people."
+      "caption": "Got to randomly connect with my Best Friend Jerry in Vegas!"
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_04_02.jpeg",
+      "caption": "Got to hangout with Dylan, my long time friend from the Media Industry!"
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_03_01.jpeg",
+      "caption": "Another great friend from the media industry, Brad!"
     },
     {
       "src": "butaliamoments/2025/2025_friends_06_02.jpeg",
-      "caption": "A group of friends posing together on an indoor basketball court after a game — cheers to good people."
+      "caption": "Our Dad's Basketball Group going strong!"
     },
     {
       "src": "butaliamoments/2025/2025_friends_07_01.jpeg",
-      "caption": "A group of people toast with red cups during an outdoor gathering — cheers to good people."
+      "caption": "Got to know some of our community friends better camping together!"
     },
     {
       "src": "butaliamoments/2025/2025_friends_08_01.jpeg",
-      "caption": "A group of friends enjoys a night out at a sports bar with drinks and a toast — cheers to good people."
-    },
-    {
-      "src": "butaliamoments/2025/2025_friends_08_03.jpeg",
-      "caption": "Celebrating a 40th Birthday!"
-    },
-    {
-      "src": "butaliamoments/2025/2025_friends_08_04.jpeg",
-      "caption": "Two friends enjoying a casual outing at a local sports bar — cheers to good people."
+      "caption": "Started regular Dad's nights with our neighborhood Dads."
     },
     {
       "src": "butaliamoments/2025/2025_friends_09_02.jpeg",
-      "caption": "A group of friends enjoying a night out at a sports bar in September — cheers to good people."
+      "caption": "More Dad's Nights!Q"
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_08_03.jpeg",
+      "caption": "Celebrating our friend Nirmit's 40th Birthday!"
     },
     {
       "src": "butaliamoments/2025/2025_friends_10_01.jpeg",
-      "caption": "Halloween Horror Nights"
+      "caption": "Halloween Horror Nights with our Neighbors and friends!"
     },
     {
       "src": "butaliamoments/2025/2025_friends_10_02.jpeg",
-      "caption": "Halloween Horror Nights"
+      "caption": "Halloween Horror Nights was a blast with our friends, moments were made!"
     },
     {
       "src": "butaliamoments/2025/2025_friends_11_02.jpeg",
-      "caption": "Dodgers World Series"
+      "caption": "We hosted a Dodgers viewing party!"
     },
     {
       "src": "butaliamoments/2025/2025_friends_11_03.jpeg",
-      "caption": "Dodgers World Series\n"
+      "caption": "We won Dodgers World Series together!!!!"
     },
     {
       "src": "butaliamoments/2025/2025_friends_11_04.jpeg",
-      "caption": "Date Night or Guys' Night?"
+      "caption": "Guys' Night, Shailee crashed a part of it!"
     },
     {
       "src": "butaliamoments/2025/2025_friends_12_01.jpeg",
@@ -362,27 +358,31 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_friends_12_02.jpeg",
-      "caption": "Two friends share a laugh and have fun during a car ride at night — cheers to good people."
-    },
-    {
-      "src": "butaliamoments/2025/2025_friends_01.jpeg",
-      "caption": ""
-    },
-    {
-      "src": "butaliamoments/2025/2025_friends_03_03a.jpeg",
-      "caption": ""
-    },
-    {
-      "src": "butaliamoments/2025/2025_friends_04_01a.jpeg",
-      "caption": ""
+      "caption": "Got to connect with High School Friend - Gabe"
     },
     {
       "src": "butaliamoments/2025/2025_friends_05_01a.jpeg",
-      "caption": ""
+      "caption": "Got to connect with High School Friend - Jeremiah"
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_09a.jpeg",
+      "caption": "High School Friends - Luis and Cecilia"
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_03_03a.jpeg",
+      "caption": "Got an awesome Dance video in with our Dance friends Niraj and Parag."
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_04_01a.jpeg",
+      "caption": "Another great friend!"
     },
     {
       "src": "butaliamoments/2025/2025_friends_12_03a.jpeg",
       "caption": "Movie Night - Just Dads and Kids"
+    },
+    {
+      "src": "butaliamoments/2025/2025_friends_12_10a.jpeg",
+      "caption": "Mom's night out!"
     }
   ],
   "family": [
@@ -392,23 +392,19 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_family_03_04.jpeg",
-      "caption": "Steve Jobs"
+      "caption": "Manav's Steve Jobs presentation at School."
     },
     {
       "src": "butaliamoments/2025/2025_family_03_06.jpeg",
-      "caption": "Family Holi!"
+      "caption": "Family Holi time!"
     },
     {
       "src": "butaliamoments/2025/2025_family_04_02.jpeg",
-      "caption": "Cabo"
-    },
-    {
-      "src": "butaliamoments/2025/2025_family_06_02.jpeg",
-      "caption": "Celebrating Rena's Culmination"
+      "caption": "At Cabo "
     },
     {
       "src": "butaliamoments/2025/2025_family_09_01.jpeg",
-      "caption": "Comic Book Rena and her Boba"
+      "caption": "Rena loves her Boba"
     },
     {
       "src": "butaliamoments/2025/2025_family_09_02.jpeg",
@@ -420,15 +416,15 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_family_09_04.jpeg",
-      "caption": "Night Out"
+      "caption": "We get a random Family Night Out once in a while"
     },
     {
       "src": "butaliamoments/2025/2025_family_10_01.jpeg",
-      "caption": "Night Out"
+      "caption": "Just a Night Out"
     },
     {
       "src": "butaliamoments/2025/2025_family_10_02.jpeg",
-      "caption": "Shailee and Simran - Downtown LA"
+      "caption": "Got to do a fun gig on a roof top in Downtown LA"
     },
     {
       "src": "butaliamoments/2025/2025_family_10_03.jpeg",
@@ -448,7 +444,7 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_family_05_01a.jpeg",
-      "caption": "Rena, Manav, Karina"
+      "caption": "Rena, Manav, Karina.. Cousin time!"
     },
     {
       "src": "butaliamoments/2025/2025_family_08_02a.jpeg",
@@ -512,7 +508,7 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_date-nights_03_05.jpeg",
-      "caption": "Beckford Casino Night"
+      "caption": "Beckford Casino Night Date Night"
     },
     {
       "src": "butaliamoments/2025/2025_date-nights_04_01.jpeg",
