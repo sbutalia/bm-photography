@@ -402,11 +402,11 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_friends_12_16.jpeg",
-      "caption": "Mom's night out with longtime friends."
+      "caption": "Another fun hangout with Shailee and Freinds."
     },
     {
       "src": "butaliamoments/2025/2025_friends_12_17.jpeg",
-      "caption": "Mom's night out with longtime friends."
+      "caption": "Shailee's High school friends!"
     }
   ],
   "family": [
