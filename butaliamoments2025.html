@@ -46,6 +46,16 @@
     padding-left: 5px;
 }
 
+.portfolio-grid-simple .dtr-portfolio-item {
+    float: none;
+    width: 100%;
+    margin-bottom: 24px;
+}
+
+.portfolio-grid-simple .dtr-portfolio-caption {
+    line-height: 1.4;
+}
+
 @media (max-width: 767.98px) {
     .col-highlights {
         background: linear-gradient(180deg, rgba(245, 246, 255, 0.95) 0%, rgba(255, 255, 255, 0.95) 100%);
@@ -151,6 +161,23 @@
     
     <!-- == main content area starts == -->
     <div id="dtr-main-content"> 
+
+
+        <section class="bg-light-blue dtr-py-50">
+            <div class="container">
+                <div class="dtr-styled-heading">
+                    <h2>Highlights of the Year</h2>
+                    <p>Piano recital, yellow belt in Taekwondo, tabla, performances, and big wins</p>
+                </div>
+                <div class="row d-flex flex-column flex-md-row align-items-center">
+                    <div class="col-12 col-md-12 small-device-space dtr-mt-30">
+                        <div class="col-12 col-md-12 small-device-space">
+                            <div id="highlightsPortfolio2025"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
         
         <!-- Kiddos -->
         <section class="dtr-mt-100">
@@ -183,23 +210,6 @@
                 </div>
             </div>
         </section>
-
-        <section class="bg-light-blue dtr-py-50">
-            <div class="container">
-                <div class="dtr-styled-heading">
-                    <h2>Highlights of the Year</h2>
-                    <p>Piano recital, yellow belt in Taekwondo, tabla, performances, and big wins</p>
-                </div>
-                <div class="row d-flex flex-column flex-md-row align-items-center">
-                    <div class="col-12 col-md-12 small-device-space dtr-mt-30">
-                        <div class="col-12 col-md-12 small-device-space">
-                            <div id="highlightsPortfolio2025"></div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-
         <section class="dtr-py-50">
             <div class="container">
                 <div class="dtr-styled-heading">
@@ -408,7 +418,7 @@ function renderPortfolioGridFromItems(containerId, items) {
     const container = document.getElementById(containerId);
     if (!container || !items || !items.length) return;
 
-    let gridHTML = '<div class="row dtr-portfolio-grid">';
+    let gridHTML = '<div class="row portfolio-grid-simple">';
 
     for (let i = 0; i < items.length; i += 1) {
         const item = items[i];
@@ -417,13 +427,15 @@ function renderPortfolioGridFromItems(containerId, items) {
         const safeIndex = i + 1;
 
         gridHTML += `
-            <div class="dtr-portfolio-item">
-                <div class="dtr-portfolio-content">
-                    <img src="${src}" alt="Portfolio image ${safeIndex}">
-                    <div class="dtr-portfolio-overlay">
-                        <a class="media-zoom popup-gallery" href="${src}" aria-label="Portfolio Image ${safeIndex}"></a>
+            <div class="col-12 col-sm-6 col-lg-4">
+                <div class="dtr-portfolio-item">
+                    <div class="dtr-portfolio-content">
+                        <img src="${src}" alt="Portfolio image ${safeIndex}">
+                        <div class="dtr-portfolio-overlay">
+                            <a class="media-zoom popup-gallery" href="${src}" aria-label="Portfolio Image ${safeIndex}"></a>
+                        </div>
+                        ${caption ? `<div class="dtr-portfolio-caption text-center dtr-mt-10">${caption}</div>` : ''}
                     </div>
-                    ${caption ? `<div class="dtr-portfolio-caption text-center dtr-mt-10">${caption}</div>` : ''}
                 </div>
             </div>
         `;

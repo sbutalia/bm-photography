@@ -202,6 +202,33 @@
         flex-wrap: wrap;
       }
 
+      .drag-hint {
+        font-size: 12px;
+        color: var(--muted);
+        letter-spacing: 0.2px;
+      }
+
+      .drag-handle {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        font-size: 12px;
+        color: var(--muted);
+        cursor: grab;
+        border: 1px dashed var(--edge);
+        border-radius: 8px;
+        padding: 4px 8px;
+        background: rgba(255, 255, 255, 0.7);
+      }
+
+      .drag-handle:active {
+        cursor: grabbing;
+      }
+
+      .card.dragging {
+        opacity: 0.5;
+      }
+
       select {
         padding: 6px 8px;
         border-radius: 8px;
@@ -236,6 +263,7 @@
       <div class="wrap">
         <h1>Portfolios 2025 Editor</h1>
         <p>Edit captions, move items between sections, and export an updated <code>portfolios-2025.js</code>.</p>
+        <p class="drag-hint">Tip: drag a card to reorder within the same section.</p>
         <div class="toolbar">
           <button id="load-script" class="primary">Load from portfolios-2025.js</button>
           <label class="button-like" for="file-input">Import JS File</label>
@@ -262,6 +290,7 @@
 
       const statusEl = document.getElementById("status");
       const contentEl = document.getElementById("content");
+      let dragState = null;
 
       function cloneData(data) {
         return JSON.parse(JSON.stringify(data));
@@ -329,10 +358,13 @@
 
           const grid = document.createElement("div");
           grid.className = "grid";
+          grid.dataset.sectionKey = sectionKey;
 
           items.forEach((item, index) => {
             const card = document.createElement("div");
             card.className = "card";
+            card.draggable = true;
+            card.dataset.index = index;
 
             const thumb = document.createElement("div");
             thumb.className = "thumb";
@@ -363,6 +395,10 @@
             const actions = document.createElement("div");
             actions.className = "actions";
 
+            const dragHandle = document.createElement("span");
+            dragHandle.className = "drag-handle";
+            dragHandle.textContent = "Drag to reorder";
+
             const select = document.createElement("select");
             Object.keys(state.data).forEach((key) => {
               const option = document.createElement("option");
@@ -391,14 +427,49 @@
               render();
             });
 
+            card.addEventListener("dragstart", (event) => {
+              dragState = {
+                sectionKey,
+                index
+              };
+              card.classList.add("dragging");
+              event.dataTransfer.effectAllowed = "move";
+            });
+
+            card.addEventListener("dragend", () => {
+              card.classList.remove("dragging");
+              dragState = null;
+            });
+
             actions.appendChild(select);
             actions.appendChild(removeBtn);
+            actions.appendChild(dragHandle);
 
             card.appendChild(thumb);
             card.appendChild(textarea);
             card.appendChild(meta);
             card.appendChild(actions);
             grid.appendChild(card);
+          });
+
+          grid.addEventListener("dragover", (event) => {
+            event.preventDefault();
+            event.dataTransfer.dropEffect = "move";
+          });
+
+          grid.addEventListener("drop", (event) => {
+            event.preventDefault();
+            if (!dragState || dragState.sectionKey !== sectionKey) return;
+            const targetCard = event.target.closest(".card");
+            if (!targetCard) return;
+            const targetIndex = Number(targetCard.dataset.index);
+            if (Number.isNaN(targetIndex) || targetIndex === dragState.index) return;
+
+            const list = state.data[sectionKey];
+            const [moved] = list.splice(dragState.index, 1);
+            list.splice(targetIndex, 0, moved);
+            markDirty(true);
+            render();
           });
 
           sectionEl.appendChild(grid);

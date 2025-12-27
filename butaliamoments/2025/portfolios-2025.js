@@ -1,16 +1,16 @@
 window.portfolios2025 = {
   "highlights": [
     {
-      "src": "butaliamoments/2025/2025_highlights_03_04.jpeg",
-      "caption": "Rena's winning photo in the 24-25 Reflections contest \"Accepting Imperfections\""
-    },
-    {
       "src": "butaliamoments/2025/2025_highlights_03_05.jpeg",
       "caption": "Rena's District Photography Award."
     },
     {
+      "src": "butaliamoments/2025/2025_highlights_03_04.jpeg",
+      "caption": "Rena's winning photo in the 24-25 Reflections contest \"Accepting Imperfections\""
+    },
+    {
       "src": "butaliamoments/2025/2025_highlights_04_03.jpeg",
-      "caption": "Manav as a Beetlejuice Clone"
+      "caption": "Manav as a Beetlejuice Clone in this School Play."
     },
     {
       "src": "butaliamoments/2025/2025_highlights_04_07.jpeg",
@@ -29,8 +29,16 @@ window.portfolios2025 = {
       "caption": "Rena's School Award"
     },
     {
+      "src": "butaliamoments/2025/2025_highlights_08_01.jpeg",
+      "caption": "Simran continuing League Basketball with fellow dad's."
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_01.jpeg",
+      "caption": "Basketball game scoreboard at the end of the game (home wins by 1) — buzzer-beater energy!"
+    },
+    {
       "src": "butaliamoments/2025/2025_highlights_06_04.jpeg",
-      "caption": "Simran's Buzzer Beater Basketball Game - The Kiddos got to see it!"
+      "caption": "Simran's had a Buzzer Beater Basketball Game - The Kiddos got to see it!"
     },
     {
       "src": "butaliamoments/2025/2025_highlights_06_05.jpeg",
@@ -41,24 +49,20 @@ window.portfolios2025 = {
       "caption": "Paso Doble!"
     },
     {
-      "src": "butaliamoments/2025/2025_highlights_08_01.jpeg",
-      "caption": "Simran at Basketball!"
-    },
-    {
       "src": "butaliamoments/2025/2025_highlights_08_02.jpeg",
-      "caption": "Dance by Butalia's Independence Day Performance"
+      "caption": "Our studio going strong, performing regularly."
     },
     {
       "src": "butaliamoments/2025/2025_highlights_09_01.jpeg",
-      "caption": "First Day of Taekwondo"
+      "caption": "Manav joined Taekwondo!"
+    },
+    {
+      "src": "butaliamoments/2025/2025_highlights_12_16.jpeg",
+      "caption": "Manav Receives his Yellow Belt"
     },
     {
       "src": "butaliamoments/2025/2025_highlights_11_01.jpeg",
       "caption": "Rena's winning photo in the 25-26 Reflections contest \"I Belong\""
-    },
-    {
-      "src": "butaliamoments/2025/2025_highlights_12_01.jpeg",
-      "caption": "Basketball game scoreboard at the end of the game (home wins by 1) — buzzer-beater energy!"
     },
     {
       "src": "butaliamoments/2025/2025_highlights_12_03.jpeg",
@@ -66,7 +70,7 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_highlights_12_04.jpeg",
-      "caption": "Simran practices Tabla with his teacher and kathak dancers"
+      "caption": "Simran's 1st Tabla session with his teacher for Kathak dancers."
     },
     {
       "src": "butaliamoments/2025/2025_highlights_12_05.jpeg",
@@ -82,19 +86,15 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_highlights_12_13.jpeg",
-      "caption": "Simran and his Tabla"
-    },
-    {
-      "src": "butaliamoments/2025/2025_highlights_12_16.jpeg",
-      "caption": "Manav Receives his Yellow Belt"
+      "caption": "Simran continues learning/performing Tabla"
     },
     {
       "src": "butaliamoments/2025/2025_highlights_02_01a.jpeg",
-      "caption": "Shailee and Simran's Anniversary - Meeting Russell Peters"
+      "caption": "Shailee and Simran's Anniversary Date - Meeting Russell Peters"
     },
     {
       "src": "butaliamoments/2025/2025_highlights_05_02a.jpeg",
-      "caption": "A Boy and his Dosa"
+      "caption": "Manav can finish an entire Dosa NOW!"
     },
     {
       "src": "butaliamoments/2025/2025_highlights_06_05a.jpeg",
@@ -120,29 +120,25 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_dance_05_01.jpeg",
-      "caption": "Dance By Butalia's final pose at Independence Day"
+      "caption": "Dance By Butalia at Independence Day"
     },
     {
       "src": "butaliamoments/2025/2025_dance_05_01a.jpeg",
-      "caption": "Dance By Butalia crew "
+      "caption": "Dance By Butalia Little Crew Enjoying classes."
     },
     {
       "src": "butaliamoments/2025/2025_dance_05_02a.jpeg",
-      "caption": "Dance By Butalia crew"
+      "caption": "Dance By Butalia Medium crew"
     },
     {
       "src": "butaliamoments/2025/2025_dance_06_01b.jpeg",
-      "caption": "Dance By Butalia's Teachers"
+      "caption": "We are also enjoying Dance as usual."
     }
   ],
   "kids": [
     {
       "src": "butaliamoments/2025/2025_kids_01_01.jpeg",
       "caption": "Rena having fun like the awesome kid she is!"
-    },
-    {
-      "src": "butaliamoments/2025/2025_kids_01_02.jpeg",
-      "caption": "Manav turns 8"
     },
     {
       "src": "butaliamoments/2025/2025_kids_02_01.jpeg",
@@ -170,7 +166,7 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_kids_03_06.jpeg",
-      "caption": "Holi!"
+      "caption": "Keeping up with our culture by enjoying Holi!"
     },
     {
       "src": "butaliamoments/2025/2025_kids_04_01.jpeg",
@@ -183,11 +179,11 @@ window.portfolios2025 = {
   ],
   "travels": [
     {
-      "src": "butaliamoments/2025/2025_travels_04_02.jpeg",
+      "src": "butaliamoments/2025/2025_travels_04_06.jpeg",
       "caption": "Spring Break in Cabo"
     },
     {
-      "src": "butaliamoments/2025/2025_travels_04_06.jpeg",
+      "src": "butaliamoments/2025/2025_travels_04_02.jpeg",
       "caption": "Spring Break in Cabo"
     },
     {
