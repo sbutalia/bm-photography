@@ -184,7 +184,7 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_travels_04_02.jpeg",
-      "caption": "Spring Break in Cabo"
+      "caption": "Boat right in Cabo"
     },
     {
       "src": "butaliamoments/2025/2025_travels_04_07.jpeg",
@@ -192,11 +192,11 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_travels_04_08.jpeg",
-      "caption": "Beach-Time Manav!"
+      "caption": "Beach-Time Manav in Cabo!"
     },
     {
       "src": "butaliamoments/2025/2025_travels_04_09.jpeg",
-      "caption": "Simran & Shailee"
+      "caption": "Our Beachside in Cabo."
     },
     {
       "src": "butaliamoments/2025/2025_travels_04_10.jpeg",
@@ -208,11 +208,7 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_travels_06_01.jpeg",
-      "caption": "Our First Camping Trip as a Family"
-    },
-    {
-      "src": "butaliamoments/2025/2025_travels_06_02.jpeg",
-      "caption": "?"
+      "caption": "Our First Camping Trip as a Family at Leo Carrillo State Park (FYI.. Karate Kid was filmed there)"
     },
     {
       "src": "butaliamoments/2025/2025_travels_06_03.jpeg",
@@ -220,7 +216,11 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_travels_06_05.jpeg",
-      "caption": "Smores are the Best."
+      "caption": "Smores are the Best with friends."
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_06_02.jpeg",
+      "caption": "Our awesome camping tent for the weekend."
     },
     {
       "src": "butaliamoments/2025/2025_travels_06_06.jpeg",
@@ -229,10 +229,6 @@ window.portfolios2025 = {
     {
       "src": "butaliamoments/2025/2025_travels_06_07.jpeg",
       "caption": "Simran & Shailee take on Las Vegas"
-    },
-    {
-      "src": "butaliamoments/2025/2025_travels_06_08.jpeg",
-      "caption": "Beach Hang-Out"
     },
     {
       "src": "butaliamoments/2025/2025_travels_07_03.jpeg",
@@ -244,15 +240,23 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_travels_07_05.jpeg",
-      "caption": "Second Camping Trip - On the Beach!"
+      "caption": "Second Camping Trip (Point Mugu) - On the Beach!"
     },
     {
       "src": "butaliamoments/2025/2025_travels_07_06.jpeg",
-      "caption": "Ocean-View"
+      "caption": "Ocean-View at Point Mugu Beach"
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_12_03.jpeg",
+      "caption": "Beach Vibes at Point Mugu"
     },
     {
       "src": "butaliamoments/2025/2025_travels_07_07.jpeg",
-      "caption": "Camping on the Beach"
+      "caption": "Camping on the Beach Point Mugu"
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_07_11.jpeg",
+      "caption": "Cedar Breaks National Monument, Utah"
     },
     {
       "src": "butaliamoments/2025/2025_travels_07_08.jpeg",
@@ -263,12 +267,8 @@ window.portfolios2025 = {
       "caption": "Milky Way over Cedar Breaks"
     },
     {
-      "src": "butaliamoments/2025/2025_travels_07_11.jpeg",
-      "caption": "Cedar Breaks National Monument, Utah"
-    },
-    {
       "src": "butaliamoments/2025/2025_travels_07_13.jpeg",
-      "caption": "Welcome to Las Vegas"
+      "caption": "Stop over at Las Vegas with Fam"
     },
     {
       "src": "butaliamoments/2025/2025_travels_08_01.jpeg",
@@ -284,15 +284,11 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_travels_11_02.jpeg",
-      "caption": "Death Valley"
+      "caption": "Death Valley hikes has awesome views."
     },
     {
       "src": "butaliamoments/2025/2025_travels_12_02.jpeg",
       "caption": "Mesquite Flat Sand Dunes, Death Valley"
-    },
-    {
-      "src": "butaliamoments/2025/2025_travels_12_03.jpeg",
-      "caption": "Beach Vibes"
     }
   ],
   "friends": [
@@ -461,6 +457,10 @@ window.portfolios2025 = {
     {
       "src": "butaliamoments/2025/2025_family_09_01a.jpeg",
       "caption": "Cousin Happy Hour"
+    },
+    {
+      "src": "butaliamoments/2025/2025_travels_06_08.jpeg",
+      "caption": "Timeout in Santa Monica"
     }
   ],
   "grandparents": [
