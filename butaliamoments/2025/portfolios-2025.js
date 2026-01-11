@@ -112,19 +112,19 @@ window.portfolios2025 = {
   "dance-studio": [
     {
       "src": "butaliamoments/2025/2025_dance_01_01a.jpeg",
-      "caption": "Dance By Butalia practicing hard"
+      "caption": "Dance By Butalia studio is still rocking."
     },
     {
       "src": "butaliamoments/2025/2025_dance_03_07a.jpeg",
-      "caption": "Dance By Butalia performing at Holi"
+      "caption": "We performed at Holi."
     },
     {
       "src": "butaliamoments/2025/2025_dance_05_01.jpeg",
-      "caption": "Dance By Butalia at Independence Day"
+      "caption": "At Independence Day"
     },
     {
       "src": "butaliamoments/2025/2025_dance_05_01a.jpeg",
-      "caption": "Dance By Butalia Little Crew Enjoying classes."
+      "caption": "Kiddos still love coming to classes."
     },
     {
       "src": "butaliamoments/2025/2025_dance_05_02a.jpeg",
@@ -184,11 +184,11 @@ window.portfolios2025 = {
   "travels": [
     {
       "src": "butaliamoments/2025/2025_travels_04_06.jpeg",
-      "caption": "Spring Break in Cabo"
+      "caption": "We spent Spring Break in Cabo"
     },
     {
       "src": "butaliamoments/2025/2025_travels_04_02.jpeg",
-      "caption": "Boat right in Cabo"
+      "caption": "Boat ride in Cabo"
     },
     {
       "src": "butaliamoments/2025/2025_travels_04_07.jpeg",
@@ -208,7 +208,7 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_travels_04_12.jpeg",
-      "caption": "Rena in the Red Pool"
+      "caption": "Rena was a pool girl."
     },
     {
       "src": "butaliamoments/2025/2025_travels_06_01.jpeg",
@@ -374,7 +374,7 @@ window.portfolios2025 = {
     },
     {
       "src": "butaliamoments/2025/2025_friends_04_01a.jpeg",
-      "caption": "Another great friend!"
+      "caption": "Another great friend, Sir Elon!"
     },
     {
       "src": "butaliamoments/2025/2025_friends_12_03a.jpeg",
